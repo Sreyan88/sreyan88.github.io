@@ -16,10 +16,10 @@ url: "https://martiansideofthemoon.github.io" # the base hostname & protocol for
 github_username:  Sreyan88
 twitter_username: kalpeshk2011
 linkedin_username: sreyan-ghosh
-# stackoverflow: 5080995/martianwars
+stackoverflow: 5080995/martianwars
 include: ['_pages']
-# footer-links-active:
-#   stackoverflow: true
+footer-links-active:
+  stackoverflow: true
 
 # Build settings
 markdown: kramdown
