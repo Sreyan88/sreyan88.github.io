@@ -26,3 +26,5 @@ markdown: kramdown
 gems:
   - jekyll-seo-tag
   - jekyll-redirect-from
+
+theme: jekyll-theme-minimal
