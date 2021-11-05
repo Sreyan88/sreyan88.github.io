@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/IMG_1403.jpg">
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/IMG_1473.jpg">
 
 My name is Sreyan Ghosh, and I am a Software Engineer II at [Cisco Systems, Bangalore](www.cisco.com) where I work under the Customer Experience BU and build network assurance systems for Cisco's Service Provider customers. I am interested in Speech and Language Processing. Currently I am working with [Prof. Umesh S.](http://www.ee.iitm.ac.in/~umeshs/) at [Speech Lab, Indian Institute of Technology Madras](https://www.iitm.ac.in/speech/lab/) on making self-supervised learning in speech and audio more amenbale to resrouce constrained scenarios (both data and compute). I am also working with [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) at [MIDAS Labs at IIIT Delhi](http://midas.iiitd.edu.in/) on speech-recognition systems for low-resource Indian languages and Indian-accented English.
 
@@ -11,7 +11,7 @@ I graduated with a Bachelors in Computer Science and Engineering at [Christ Univ
 
 I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) every now and then compiling my personal experiences.
 
-CV / Resume: [link]({{ site.url }}/assets/cv.pdf)  
+CV / Resume: [link]({{ site.url }}/assets/Sreyan_Ghosh_CV.pdf)  
 Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com)
 
 #### Updates
