@@ -9,7 +9,7 @@ My name is Sreyan Ghosh. I currently serve as a Software Engineer II at [Cisco S
 
 I graduated with a Bachelors in Computer Science and Engineering at [Christ University](https://christuniversity.in/) in 2020. I served as the Vice President and co-founder of Neuron, Christ University's first AI group focused on research and hackathons. During my undergraduation, I have won over 20 national and international hackathons.
 
-I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I also blog]({{ site.url }}/archive) about my personal experiences and on topics related to speech and text processing.
+I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) about my personal experiences and on topics related to speech and text processing.
 
 CV / Resume: [link]({{ site.url }}/assets/Sreyan_Ghosh_CV.pdf)  
 Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com)
