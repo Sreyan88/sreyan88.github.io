@@ -8,7 +8,7 @@ I am broadly interested in Spoken Language Processing, with a focus on making su
 
 [Google Scholar profile](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en)
 
-#### **Selected Papers**
+#### **Papers (Accepetd and Submitted)**
 
 [DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning]
 *Sreyan Ghosh*, Ashish Seth, Deepak Mittal, Maneesh Singh, S. Umesh
