@@ -12,7 +12,7 @@ I am broadly interested in Spoken Language Processing, with a focus on making su
 
 [DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning]
 *Sreyan Ghosh*, Ashish Seth, Deepak Mittal, Maneesh Singh, S. Umesh
-**AAAI SAS 2022**
+**SAS Workshop @ AAAI 2022**
 
 [Speech Toxicity Analysis: A New Spoken Language Processing Task](https://arxiv.org/pdf/2110.07592.pdf)
 *Sreyan Ghosh*, Sakshi, Samden Lepcha, Rajiv Ratn Shah
@@ -23,7 +23,7 @@ I am broadly interested in Spoken Language Processing, with a focus on making su
 **Submitted to ICASSP 2022**
 
 [Cisco at SemEval-2021 Task 5: What's Toxic?: Leveraging Transformers for Multiple Toxic Span Extraction from Online Comments](https://aclanthology.org/2021.semeval-1.29.pdf)
-*Sreyan Ghosh*, Sonal Kumar  
+*Sreyan Ghosh*, Sonal Kumar
 **SemEval-2021 @ ACL 2021**
 
 [Cisco at AAAI-CAD21 shared task: Predicting Emphasis in Presentation Slides using Contextualized Embeddings](https://arxiv.org/pdf/2101.11422.pdf)  
