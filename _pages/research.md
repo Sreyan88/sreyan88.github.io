@@ -4,7 +4,9 @@ title: Research
 permalink: /research/
 order: 5
 ---
-I am broadly interested in Spoken Language Processing, with a focus on making supervised and self-supervised learning in speech and audio amnebale to resource constratined processing. I also like content moderartion as a subject in text processing.
+I am broadly interested in Speech and Language Processing. In the modality with a speech I have a special focus on making supervised and self-supervised learning in speech and audio amenable to resource constratined scenarios (both data and compute). Currently I am also working on achieving domain invariance in supervised and self-supervised learning in speech. In the modality of text , I like working on the topics of content moderation and information extraction. I am currently focused on making deep learning models for detecting complex entities in text and help detect implicit hate speech in online conversations.
+
+I am excited to see what multiple modalities together can offer (speech, text and graphs).
 
 [Google Scholar profile](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en)
 
