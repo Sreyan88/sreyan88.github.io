@@ -9,7 +9,7 @@ My name is Sreyan Ghosh. I currently serve as a Software Engineer II at [Cisco S
 
 I graduated with a Bachelor's in Computer Science and Engineering at [Christ University](https://christuniversity.in/) in 2020. I served as the Vice President and co-founder of Neuron, Christ University's first AI group focused on research and hackathons. During my undergraduation, I have won over 20 national and international hackathons.
 
-I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) about my personal experiences and on topics related to speech and text processing.
+I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I also [blog]({{ site.url }}/archive) about my personal experiences and on topics related to speech and text processing. I am always open to collaborations and please feel free to drop a mail!
 
 CV / Resume: [link]({{ site.url }}/assets/Sreyan_Ghosh_CV.pdf)  
 Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com)
@@ -20,4 +20,5 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com)
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>December 2021:</b></td><td>Paper on Low-Resource Audio Representation Learning accepted to AAAI 2022 SAS Workshop! Code and Paper to be released soon!</td></tr>
+  <tr><td><b>March 2022:</b></td><td>7 papers submitted to Interspeech 2022! Codes and pre-prints to be made available soon!</td></tr>
+  <tr><td><b>December 2021:</b></td><td>Paper on Low-Resource Audio Representation Learning accepted to AAAI 2022 SAS Workshop! Pre-print now available!</td></tr>
