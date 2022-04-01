@@ -20,5 +20,5 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com)
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>March 2022:</b></td><td>7 papers submitted to Interspeech 2022! Codes and pre-prints to be made available soon!</td></tr>
-  <tr><td><b>December 2021:</b></td><td>Paper on Low-Resource Audio Representation Learning accepted to AAAI 2022 SAS Workshop! Pre-print now available!</td></tr>
+  <tr><td><b>March 2022:</b></td><td>7 papers submitted to Interspeech 2022! Pre-print now available under research section! Codes to be made available soon!</td></tr>
+  <tr><td><b>December 2021:</b></td><td>Paper on Low-Resource Audio Representation Learning accepted to AAAI 2022 SAS Workshop! Pre-print now available under research section!</td></tr>

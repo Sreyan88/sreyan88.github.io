@@ -12,23 +12,23 @@ I am excited to see what multiple modalities together can offer (speech, text an
 
 #### **Papers (Accepted and Submitted)**
 
-[PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations](https://arxiv.org/pdf/2110.08895.pdf)   
+[PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations](http://arxiv.org/abs/2203.16965)   
 *Lodagala V S V Durga Prasad*, Sreyan Ghosh, S. Umesh   
 **Submitted to Interspeech 2022**  
 
-[Span Classification with Structured Information for Disfluency Detection in Spoken Utterances](https://arxiv.org/pdf/2110.08895.pdf)   
+[Span Classification with Structured Information for Disfluency Detection in Spoken Utterances](http://arxiv.org/abs/2203.16028)   
 *Sreyan Ghosh*, Sonal Kumar, Yaman Kumar Singla, Rajiv Ratn Shah, S. Umesh   
 **Submitted to Interspeech 2022**  
 
-[Analyzing the factors affecting usefulness of Self-Supervised Pre-trained Representations for Speech Recognition](https://arxiv.org/pdf/2110.08895.pdf)   
+[Analyzing the factors affecting usefulness of Self-Supervised Pre-trained Representations for Speech Recognition](http://arxiv.org/abs/2203.16973)   
 *Lodagala V S V Durga Prasad*, *Ashish Seth*, *Sreyan Ghosh*, S. Umesh  
 **Submitted to Interspeech 2022**  
 
-[MMER: Multimodal Multi-task learning for Emotion Recognition in Spoken Utterances](https://arxiv.org/pdf/2110.08895.pdf)   
+[MMER: Multimodal Multi-task learning for Emotion Recognition in Spoken Utterances](http://arxiv.org/abs/2203.16794)   
 *Sreyan Ghosh*, *Harshvardhan Srivastava*, S. Umesh   
 **Submitted to Interspeech 2022**  
 
-[A Discourse Aware Sequence Learning Approach for Emotion Recognition in Conversations](https://arxiv.org/pdf/2110.08895.pdf)   
+[A Discourse Aware Sequence Learning Approach for Emotion Recognition in Conversations](http://arxiv.org/abs/2203.16799)   
 *Sreyan Ghosh*, *Harshvardhan Srivastava*, S. Umesh   
 **Submitted to Interspeech 2022**  
 
