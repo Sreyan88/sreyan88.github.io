@@ -24,7 +24,7 @@ Span Classification with Structured Information for Disfluency Detection in Spok
 
 Analyzing the factors affecting usefulness of Self-Supervised Pre-trained Representations for Speech Recognition  
 *Lodagala V S V Durga Prasad*, *Ashish Seth*, *Sreyan Ghosh*, S. Umesh  
-[arXiv](http://arxiv.org/abs/2203.16973) [Checkpoints](https://github.com/Sreyan88/Disfluency-Detection-with-Span-Classification)  
+[arXiv](http://arxiv.org/abs/2203.16973) [Checkpoints](https://github.com/Sreyan88/Disfluency-Detection-with-Span-Classification) [Leader Board (Team Name: Baseline)](https://sites.google.com/view/gramvaaniasrchallenge/leaderboard?authuser=0)  
 **Submitted to Interspeech 2022**  
 
 MMER: Multimodal Multi-task learning for Emotion Recognition in Spoken Utterances 
@@ -53,6 +53,11 @@ Deep Clustering for learning general-purpose Audio Representations
 [arXiv](https://arxiv.org/pdf/2110.08895.pdf) [Code](https://github.com/Speech-Lab-IITM/DECAR)  
 **Submitted to Interspeech 2022**  
 
+Leveraging Transformers for Hate Speech Detection in Conversational Code-Mixed Tweets  
+*Zaki Mustafa Farooqi*, Sreyan Ghosh, Rajiv Ratn Shah  
+[arXiv](https://arxiv.org/pdf/2112.09986.pdf) [Leader Board (Team Name: MIDAS@IIIT-D)](https://hasocfire.github.io/hasoc/2021/results.html#)  
+**FIRE 2021**  
+
 Cisco at SemEval-2021 Task 5: What's Toxic?: Leveraging Transformers for Multiple Toxic Span Extraction from Online Comments  
 *Sreyan Ghosh*, Sonal Kumar  
 [arXiv](https://aclanthology.org/2021.semeval-1.29.pdf) [Code](https://github.com/Sreyan88/SemEval-2021-Toxic-Spans-Detection)  
@@ -64,6 +69,6 @@ Cisco at AAAI-CAD21 shared task: Predicting Emphasis in Presentation Slides usin
 **CAD-21 @ AAAI 2021**  
 
 End-to-end Named Entity Recognition from English Speech  
-Hemant Yadav, *Sreyan Ghosh*, Yi Yu, Rajiv Ratn Shah  
+*Hemant Yadav*, Sreyan Ghosh, Yi Yu, Rajiv Ratn Shah  
 [arXiv](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2482.pdf) [Code](https://github.com/raotnameh/End-to-end-E2E-Named-Entity-Recognition-from-English-Speech) [Data](https://zenodo.org/record/3893954)  
 **Interspeech 2020**  
