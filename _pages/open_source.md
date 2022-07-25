@@ -4,6 +4,10 @@ title: Projects
 permalink: /other_projects/
 order: 6
 ---
+#### **Google Summer of Code 2022**
 
+I was selected as a contributor for Google Summer of Code as a contributor and have started to work with teh Tensorflow oganization! More details about my project can be found [here](https://summerofcode.withgoogle.com/programs/2022/projects/tLgwQubw) and [here](https://summerofcode.withgoogle.com/programs/2022/projects/tLgwQubw).
+
+#### **My GitHub**
 [GitHub](https://github.com/Sreyan88)
 
