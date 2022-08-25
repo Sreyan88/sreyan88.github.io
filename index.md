@@ -22,6 +22,8 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>August 2022:</b></td><td>Paper on low-resource audio representation learning accepted to IEEE JSTSP Special Issue! More details under the research section!</td></tr>
+  <tr><td><b>August 2022:</b></td><td>Moved to the beautiful city of College Park and started school at the University of Maryland!</td></tr>
   <tr><td><b>July 2022:</b></td><td>4 papers submitted to IEEE SLT 2022! Pre-print now available under research section! Codes to be made available soon!</td></tr>
   <tr><td><b>July 2022:</b></td><td>Started contributing to GSoC 2022 for the Keras Organization. More details about my project can be found in the Projects section!</td></tr>
   <tr><td><b>March 2022:</b></td><td>7 papers submitted to Interspeech 2022! Pre-print now available under research section! Codes to be made available soon!</td></tr>  

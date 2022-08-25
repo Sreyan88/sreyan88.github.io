@@ -12,6 +12,14 @@ I am excited to see what multiple modalities together can offer (speech, text an
 
 #### **Papers (Accepted and Submitted)**
 
+Decorrelating Feature Spaces for Learning General Purpose Audio Representations   
+*Sreyan Ghosh*, Ashish Seth, S. Umesh    
+**IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing**  
+
+CCC-WAV2VEC 2.0: CLUSTERING AIDED CROSS CONTRASTIVE SELF-SUPERVISED LEARNING OF SPEECH REPRESENTATIONS   
+*Lodagala V S V Durga Prasad*, Sreyan Ghosh, S. Umesh  
+**Submitted to IEEE SLT 2022**  
+
 PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations   
 *Lodagala V S V Durga Prasad*, Sreyan Ghosh, S. Umesh  
 [arXiv](http://arxiv.org/abs/2203.16965) [Code](https://github.com/Speech-Lab-IITM/PADA)  
@@ -40,8 +48,7 @@ A Discourse Aware Sequence Learning Approach for Emotion Recognition in Conversa
 DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning  
 *Sreyan Ghosh*, Ashish Seth, Deepak Mittal, Maneesh Singh, S. Umesh   
 [arXiv](https://arxiv.org/abs/2203.13628) [Code](https://github.com/Speech-Lab-IITM/DeLoRes)  
-**SAS Workshop @ AAAI 2022**  
-**IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing**  
+**SAS Workshop @ AAAI 2022**    
 
 DeToxy: A Large-Scale Multimodal Dataset for Toxicity Classification in Spoken Utterances  
 *Sreyan Ghosh*, Sakshi, Samden Lepcha, Rajiv Ratn Shah, S. Umesh  
