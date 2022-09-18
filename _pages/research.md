@@ -4,19 +4,26 @@ title: Research
 permalink: /research/
 order: 5
 ---
-I am broadly interested in Speech and Language Processing. In the modality with a speech I have a special focus on making supervised and self-supervised learning in speech and audio amenable to resource constratined scenarios (both data and compute). Currently I am also working on achieving domain invariance in supervised and self-supervised learning in speech. I also like low-resource domain adaptation as a topic of research. In the modality of text , I like working on the topics of content moderation and information extraction. I am currently focused on making deep learning models for detecting complex entities in text and help detect implicit hate speech in online conversations.
+I am broadly interested in Natural Language Processinf (Speech and Text). In the modality with a speech I have a special focus on making supervised and self-supervised learning in speech and audio amenable to resource constratined scenarios (both data and compute). Currently I am also working on achieving domain invariance in supervised and self-supervised learning in speech. I also like low-resource domain adaptation as a topic of research. In the modality of text , I like working on the topics of content moderation and information extraction. I am currently focused on making deep learning models for detecting complex entities in text and help detect implicit hate speech in online conversations.
 
 I am excited to see what multiple modalities together can offer (speech, text and graphs).
 
 [Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en)
 
-#### **Papers (Accepted and Submitted)**
+#### **Papers**
 
-Decorrelating Feature Spaces for Learning General Purpose Audio Representations   
-*Sreyan Ghosh*, Ashish Seth, S. Umesh    
-**IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing**  
+#### **Pre-print and Under Review**
 
-CCC-WAV2VEC 2.0: CLUSTERING AIDED CROSS CONTRASTIVE SELF-SUPERVISED LEARNING OF SPEECH REPRESENTATIONS   
+A Discourse Aware Sequence Learning Approach for Emotion Recognition in Conversations   
+*Sreyan Ghosh*, *Harshvardhan Srivastava*, S. Umesh   
+[arXiv](http://arxiv.org/abs/2203.16799) [Code](https://github.com/Sreyan88/DiscLSTM)  
+**Pre-print**  
+
+Deep Clustering for learning general-purpose Audio Representations  
+*Sreyan Ghosh*, *Ashish Seth*, *Sandesh Katta*, S. Umesh  
+[arXiv](https://arxiv.org/pdf/2110.08895.pdf) [Code](https://github.com/Speech-Lab-IITM/DECAR)  
+
+CCC-WAV2VEC 2.0: Clustering aided cross contrastive self-supervised learning of speech representations   
 *Lodagala V S V Durga Prasad*, Sreyan Ghosh, S. Umesh  
 **Submitted to IEEE SLT 2022**  
 
@@ -25,40 +32,45 @@ PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representati
 [arXiv](http://arxiv.org/abs/2203.16965) [Code](https://github.com/Speech-Lab-IITM/PADA)  
 **Submitted to IEEE SLT 2022**  
 
-Span Classification with Structured Information for Disfluency Detection in Spoken Utterances  
-*Sreyan Ghosh*, Sonal Kumar, Yaman Kumar Singla, Rajiv Ratn Shah, S. Umesh  
-[arXiv](http://arxiv.org/abs/2203.16028) [Code](https://github.com/Sreyan88/Disfluency-Detection-with-Span-Classification)  
-**Interspeech 2022**  
+MMER: Multimodal Multi-task learning for Emotion Recognition in Spoken Utterances 
+*Sreyan Ghosh*, Harshvardhan Srivastava, S. Umesh   
+[arXiv](http://arxiv.org/abs/2203.16794) [Code](https://github.com/Sreyan88/MMER)  
+**Submitted to IEEE SLT 2022**  
 
 Analyzing the factors affecting usefulness of Self-Supervised Pre-trained Representations for Speech Recognition  
 *Lodagala V S V Durga Prasad*, *Ashish Seth*, *Sreyan Ghosh*, S. Umesh  
 [arXiv](http://arxiv.org/abs/2203.16973) [Checkpoints](https://github.com/Sreyan88/Disfluency-Detection-with-Span-Classification) [Leader Board (Team Name: Baseline)](https://sites.google.com/view/gramvaaniasrchallenge/leaderboard?authuser=0)  
 **Submitted to IEEE SLT 2022**  
 
-MMER: Multimodal Multi-task learning for Emotion Recognition in Spoken Utterances 
-*Sreyan Ghosh*, Harshvardhan Srivastava, S. Umesh   
-[arXiv](http://arxiv.org/abs/2203.16794) [Code](https://github.com/Sreyan88/MMER)  
-**Submitted to IEEE SLT 2022**  
+#### **Journal**
 
-A Discourse Aware Sequence Learning Approach for Emotion Recognition in Conversations   
-*Sreyan Ghosh*, *Harshvardhan Srivastava*, S. Umesh   
-[arXiv](http://arxiv.org/abs/2203.16799) [Code](https://github.com/Sreyan88/DiscLSTM)  
-**Pre-print**  
+Decorrelating Feature Spaces for Learning General Purpose Audio Representations   
+*Sreyan Ghosh*, Ashish Seth, S. Umesh    
+**IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing**  
+
+#### **Conference**
+
+Span Classification with Structured Information for Disfluency Detection in Spoken Utterances  
+*Sreyan Ghosh*, Sonal Kumar, Yaman Kumar Singla, Rajiv Ratn Shah, S. Umesh  
+[arXiv](http://arxiv.org/abs/2203.16028) [Code](https://github.com/Sreyan88/Disfluency-Detection-with-Span-Classification)  
+**Interspeech 2022 (Oral)**  
+
+DeToxy: A Large-Scale Multimodal Dataset for Toxicity Classification in Spoken Utterances  
+*Sreyan Ghosh*, Sakshi, Samden Lepcha, Rajiv Ratn Shah, S. Umesh  
+[arXiv](https://arxiv.org/pdf/2110.07592.pdf) [Code](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances) [Data](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances/tree/main/data)  
+**Interspeech 2022 (Poster)**  
+
+End-to-end Named Entity Recognition from English Speech  
+*Hemant Yadav*, Sreyan Ghosh, Yi Yu, Rajiv Ratn Shah  
+[arXiv](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2482.pdf) [Code](https://github.com/raotnameh/End-to-end-E2E-Named-Entity-Recognition-from-English-Speech) [Data](https://zenodo.org/record/3893954)  
+**Interspeech 2020**  
+
+#### **Workshop**
 
 DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning  
 *Sreyan Ghosh*, Ashish Seth, Deepak Mittal, Maneesh Singh, S. Umesh   
 [arXiv](https://arxiv.org/abs/2203.13628) [Code](https://github.com/Speech-Lab-IITM/DeLoRes)  
 **SAS Workshop @ AAAI 2022**    
-
-DeToxy: A Large-Scale Multimodal Dataset for Toxicity Classification in Spoken Utterances  
-*Sreyan Ghosh*, Sakshi, Samden Lepcha, Rajiv Ratn Shah, S. Umesh  
-[arXiv](https://arxiv.org/pdf/2110.07592.pdf) [Code](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances) [Data](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances/tree/main/data)  
-**Interspeech 2022**  
-
-Deep Clustering for learning general-purpose Audio Representations  
-*Sreyan Ghosh*, *Ashish Seth*, *Sandesh Katta*, S. Umesh  
-[arXiv](https://arxiv.org/pdf/2110.08895.pdf) [Code](https://github.com/Speech-Lab-IITM/DECAR)  
-**Pre-print**  
 
 Leveraging Transformers for Hate Speech Detection in Conversational Code-Mixed Tweets  
 *Zaki Mustafa Farooqi*, Sreyan Ghosh, Rajiv Ratn Shah  
@@ -75,7 +87,4 @@ Cisco at AAAI-CAD21 shared task: Predicting Emphasis in Presentation Slides usin
 [arXiv](https://arxiv.org/pdf/2101.11422.pdf) [Code](https://github.com/Sreyan88/CAD21-AAAI21)  
 **CAD-21 @ AAAI 2021**  
 
-End-to-end Named Entity Recognition from English Speech  
-*Hemant Yadav*, Sreyan Ghosh, Yi Yu, Rajiv Ratn Shah  
-[arXiv](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2482.pdf) [Code](https://github.com/raotnameh/End-to-end-E2E-Named-Entity-Recognition-from-English-Speech) [Data](https://zenodo.org/record/3893954)  
-**Interspeech 2020**  
+
