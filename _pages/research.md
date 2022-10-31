@@ -11,7 +11,7 @@ I am excited to see what multiple modalities together can offer (speech, text an
 [Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en)
 
 ### **Papers**
-#### **(names in italics indicate main contributor or equal contribution)**
+###### **(names in italics indicate main contributor or equal contribution)**
 
 #### **Under Review**
 
@@ -64,7 +64,7 @@ Decorrelating Feature Spaces for Learning General Purpose Audio Representations
 PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations   
 *Lodagala V S V Durga Prasad*, Sreyan Ghosh, S. Umesh  
 [arXiv](http://arxiv.org/abs/2203.16965) [Code](https://github.com/Speech-Lab-IITM/PADA)  
-**Submitted to IEEE SLT 2022**  
+**IEEE SLT 2022**  
 
 CCC-WAV2VEC 2.0: Clustering aided cross contrastive self-supervised learning of speech representations   
 *Lodagala V S V Durga Prasad*, Sreyan Ghosh, S. Umesh  
