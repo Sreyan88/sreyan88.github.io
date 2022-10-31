@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/Sreyan_Pic.jpeg">
 
-My name is Sreyan Ghosh. I am currently an M.S. C.S. student at the University of Maryland, College Park. Previous to this I served as a Deep Learning Solutions Architect at [Nvidia, Bangalore](https://www.nvidia.com/en-in/). My primary work at Nvidia involved building and delivering deep learning based NLP solutions to Nvidia's customers and partners. Previously to that, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance systems for Cisco's Service Provider customers. Beyond Software Engineering, I am interested in Speech and Language Processing. At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) at UMCP on audio-visual speech enhancement.
+My name is Sreyan Ghosh. I am currently an M.S. C.S. student at the University of Maryland, College Park. Previous to this I served as a Deep Learning Solutions Architect at [Nvidia, Bangalore](https://www.nvidia.com/en-in/). My primary work at Nvidia involved building and delivering deep learning based NLP solutions to Nvidia's customers and partners. Previously to that, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance systems for Cisco's Service Provider customers. Beyond Software Engineering, I am interested in Speech and Language Processing. At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on various problems in speech and audio processing.
 
 Previously I have been fortunate to have worked with [Prof. S. Umesh](http://www.ee.iitm.ac.in/~umeshs/) at [Speech Lab @ Indian Institute of Technology Madras](https://www.iitm.ac.in/speech/lab/) on making self-supervised learning in speech and audio more amenable to resource-constrained scenarios (both data and compute). I have also worked with [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) at [MIDAS Labs @ IIIT Delhi](http://midas.iiitd.edu.in/) on content moderation, comlex named entity recognition and speech recognition systems for low-resource Indian languages and Indian-accented English.
 
@@ -22,9 +22,10 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>October 2022:</b></td><td>4 papers submitted to IEEE ICASSP 2023! Pre-print and codes to be made available soon!</td></tr>
+  <tr><td><b>September 2022:</b></td><td>2 papers submitted to IEEE SLT 2022! Pre-print now available under research section! Codes to be made available soon!</td></tr>
   <tr><td><b>August 2022:</b></td><td>Paper on low-resource audio representation learning accepted to IEEE JSTSP Special Issue! More details under the research section!</td></tr>
   <tr><td><b>August 2022:</b></td><td>Moved to the beautiful city of College Park and started school at the University of Maryland!</td></tr>
-  <tr><td><b>July 2022:</b></td><td>4 papers submitted to IEEE SLT 2022! Pre-print now available under research section! Codes to be made available soon!</td></tr>
   <tr><td><b>July 2022:</b></td><td>Started contributing to GSoC 2022 for the Keras Organization. More details about my project can be found in the Projects section!</td></tr>
-  <tr><td><b>March 2022:</b></td><td>7 papers submitted to Interspeech 2022! Pre-print now available under research section! Codes to be made available soon!</td></tr>  
+  <tr><td><b>July 2022:</b></td><td>2 papers accepted to Interspeech 2022! Pre-print and codes now available now!</td></tr>  
   <tr><td><b>December 2021:</b></td><td>Paper on Low-Resource Audio Representation Learning accepted to AAAI 2022 SAS Workshop! Pre-print now available under research section!</td></tr>
