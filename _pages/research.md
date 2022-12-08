@@ -8,7 +8,7 @@ I am broadly interested in Natural Language Processing (Speech and Text). In the
 
 I am excited to see what multiple modalities together can offer (speech, text and graphs).
 
-P.S. : Though I acknowledge that achieving state-of-the-art (SOTA) results is not and should not be the final goal of research, I am proud that some of my works achieve SOTA on some well known Speech and Language Processing task (until November 2022). Here are the links for [ASR (Librispeech 360hr train split)](http://arxiv.org/abs/2211.01246), [Keyword Spotting (Speech Commands 1)](http://arxiv.org/abs/2211.01515), [Speech Emotion Recognition (IEMOCAP)](http://arxiv.org/abs/2203.16794), [Disfleuncy Detection (SwitchBoard)](http://arxiv.org/abs/2203.16028) and [Low-resource General Purpose Audio Representation Learning](http://arxiv.org/abs/2211.01515).
+<!-- P.S. : Though I acknowledge that achieving state-of-the-art (SOTA) results is not and should not be the final goal of research, I am proud that some of my works achieve SOTA on some well known Speech and Language Processing task (until November 2022). Here are the links for [ASR (Librispeech 360hr train split)](http://arxiv.org/abs/2211.01246), [Keyword Spotting (Speech Commands 1)](http://arxiv.org/abs/2211.01515), [Speech Emotion Recognition (IEMOCAP)](http://arxiv.org/abs/2203.16794), [Disfleuncy Detection (SwitchBoard)](http://arxiv.org/abs/2203.16028) and [Low-resource General Purpose Audio Representation Learning](http://arxiv.org/abs/2211.01515). -->
 
 [Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en)
 
