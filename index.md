@@ -22,9 +22,10 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>January 2023:</b></td><td>Our team <em>Shravan</em> won the <em>Best Demo Implementation award</em> at the 2022 IEEE-SLT Code Hackathon! Links to slides and recording of the presentation under the [Others]({{ site.url }}/others) tab </td></tr>
-  <tr><td><b>January 2023:</b></td><td>Served as a reviewer for [AAAI 2023 Muffin Workshop](https://muffin-aaai23.github.io/)</td></tr>
-  <tr><td><b>December 2022:</b></td><td>Served as a reviewer for ICASSP 2023</td></tr>
+  <tr><td><b>January 2023:</b></td><td>Our team <em>Shravan</em> won the <em>Best Demo Implementation award</em> at the 2022 IEEE-SLT Code Hackathon! Links to slides and recording of the presentation to be posted soon under the Others tab.</td></tr>
+  <tr><td><b>January 2023:</b></td><td>Served as a reviewer for AAAI 2023 Muffin Workshop.</td></tr>
+  <tr><td><b>December 2022:</b></td><td>Served as a reviewer for ICASSP 2023.</td></tr>
+  <tr><td><b>November 2022:</b></td><td>Served as a reviewer for AAAI 2023.</td></tr>
   <tr><td><b>October 2022:</b></td><td>4 papers submitted to IEEE ICASSP 2023! Pre-print and codes to be made available soon!</td></tr>
   <tr><td><b>September 2022:</b></td><td>2 papers accepted to IEEE SLT 2022! Pre-print and code now available!</td></tr>
   <tr><td><b>August 2022:</b></td><td>Paper on low-resource audio representation learning accepted to IEEE JSTSP Special Issue! More details under the research section!</td></tr>
