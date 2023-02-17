@@ -17,20 +17,10 @@ I am excited to see what multiple modalities together can offer (speech, text an
 
 #### **Under Review**
 
-MAST: Multiscale Audio Spectrogram Transformers  
-*Sreyan Ghosh*, *Ashish Seth*, S. Umesh, Dinesh Manocha  
-[arXiv](http://arxiv.org/abs/2211.01515)  
-**Under review at ICASSP 2023**  
-
-SLICER: Learning universal audio representations using low-resource self-supervised pre-training  
-*Ashish Seth*, *Sreyan Ghosh*, S. Umesh, Dinesh Manocha  
-[arXiv](http://arxiv.org/abs/2211.01519)  
-**Under review at ICASSP 2023**  
-
 M-MELD: A Multilingual Multi-Party Dataset for Emotion Recognition in Conversations  
 *Sreyan Ghosh*, *S Ramaneswaran*, *Utkarsh Tyagi*, Harshvardhan Srivastava, Samden Lepcha, S Sakshi, Dinesh Manocha  
 [arXiv](http://arxiv.org/abs/2203.16799) [Code](https://github.com/Sreyan88/M-MELD)  
-**Under review at ICASSP 2023**  
+**Under review at Interspeech 2023**  
 
 #### **Pre-print**
 
@@ -57,6 +47,21 @@ Decorrelating Feature Spaces for Learning General Purpose Audio Representations
 **IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing**  
 
 #### **Conference**
+
+data2vec-aqc: Search for the right Teaching Assistant in the Teacher-Student training setup  
+*Lodagala V S V Durga Prasad*, *Sreyan Ghosh*, S. Umesh  
+[arXiv](https://arxiv.org/abs/2211.01246)  
+**ICASSP 2023**  
+
+MAST: Multiscale Audio Spectrogram Transformers  
+*Sreyan Ghosh*, *Ashish Seth*, S. Umesh, Dinesh Manocha  
+[arXiv](http://arxiv.org/abs/2211.01515)  
+**ICASSP 2023**  
+
+SLICER: Learning universal audio representations using low-resource self-supervised pre-training  
+*Ashish Seth*, *Sreyan Ghosh*, S. Umesh, Dinesh Manocha  
+[arXiv](http://arxiv.org/abs/2211.01519)  
+**ICASSP 2023**  
 
 PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations   
 *Lodagala V S V Durga Prasad*, Sreyan Ghosh, S. Umesh  
