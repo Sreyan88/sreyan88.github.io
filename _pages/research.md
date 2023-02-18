@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 order: 5
 ---
-I am broadly interested in Natural Language Processing (Speech and Text). In the modality of speech, I have a special focus on making supervised and self-supervised learning in speech and audio amenable to resource constratined scenarios (both data and compute). Currently I am also working on achieving domain invariance in supervised and self-supervised learning in speech. I also like low-resource domain adaptation as a topic of research. In the modality of text, I like working on the topics of content moderation and information extraction. I am currently focused on making deep learning models for detecting complex entities in text and help detect implicit hate speech in online conversations.
+I am broadly interested in Natural Language Processing (Speech and Text). In the modality of speech, I have a special focus on making supervised and self-supervised learning in speech and audio amenable to resource-constrained scenarios (both data and compute). Currently, I am also working on achieving domain invariance in supervised and self-supervised learning in speech. I also like low-resource domain adaptation as a topic of research. In the modality of text, I enjoy working on the topics of content moderation and information extraction. I am currently focused on devising better solutions for detecting complex named entities in text and detecting implicit hate speech in online conversations.
 
-I am excited to see what multiple modalities together can offer (speech, text and graphs).
+I am excited to see what multiple modalities together can offer (speech, text, audio, and graphs).
 
 <!-- P.S. : Though I acknowledge that achieving state-of-the-art (SOTA) results is not and should not be the final goal of research, I am proud that some of my works achieve SOTA on some well known Speech and Language Processing task (until November 2022). Here are the links for [ASR (Librispeech 360hr train split)](http://arxiv.org/abs/2211.01246), [Keyword Spotting (Speech Commands 1)](http://arxiv.org/abs/2211.01515), [Speech Emotion Recognition (IEMOCAP)](http://arxiv.org/abs/2203.16794), [Disfleuncy Detection (SwitchBoard)](http://arxiv.org/abs/2203.16028) and [Low-resource General Purpose Audio Representation Learning](http://arxiv.org/abs/2211.01515). -->
 
