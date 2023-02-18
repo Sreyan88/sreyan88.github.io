@@ -26,7 +26,7 @@ M-MELD: A Multilingual Multi-Party Dataset for Emotion Recognition in Conversati
 
 Deep Clustering for learning general-purpose Audio Representations  
 *Sreyan Ghosh*, *Ashish Seth*, *Sandesh Katta*, S. Umesh  
-[arXiv](https://arxiv.org/pdf/2110.08895.pdf) [Code](https://github.com/Speech-Lab-IITM/DECAR) 
+[arXiv](https://arxiv.org/pdf/2110.08895.pdf) [Code](https://github.com/Speech-Lab-IITM/DECAR)  
 **Pre-print**   
 
 Speech Emotion Recognition using Multi-task learning and a multimodal dynamic fusion network  
