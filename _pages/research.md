@@ -20,7 +20,7 @@ I am excited to see what multiple modalities together can offer (speech, text, a
 M-MELD: A Multilingual Multi-Party Dataset for Emotion Recognition in Conversations  
 *Sreyan Ghosh*, *S Ramaneswaran*, *Utkarsh Tyagi*, Harshvardhan Srivastava, Samden Lepcha, S Sakshi, Dinesh Manocha  
 [arXiv](http://arxiv.org/abs/2203.16799) [Code](https://github.com/Sreyan88/M-MELD)  
-**Under review at Interspeech 2023**  
+***Under review at Interspeech 2023***  
 
 #### **Pre-print**
 
