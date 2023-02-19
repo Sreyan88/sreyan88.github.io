@@ -44,7 +44,7 @@ Analyzing the factors affecting usefulness of Self-Supervised Pre-trained Repres
 Decorrelating Feature Spaces for Learning General Purpose Audio Representations   
 *Sreyan Ghosh*, Ashish Seth, S. Umesh    
 [Paper](https://ieeexplore.ieee.org/document/9868132) [Code](https://github.com/Speech-Lab-IITM/Decorrelating-Feature-Spaces-for-Learning-General-Purpose-Audio-Representations)  
-**IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing**  
+***IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing***  
 
 #### **Conference**
 
