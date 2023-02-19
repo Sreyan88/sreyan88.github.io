@@ -27,17 +27,17 @@ M-MELD: A Multilingual Multi-Party Dataset for Emotion Recognition in Conversati
 Deep Clustering for learning general-purpose Audio Representations  
 *Sreyan Ghosh*, *Ashish Seth*, *Sandesh Katta*, S. Umesh  
 [arXiv](https://arxiv.org/pdf/2110.08895.pdf) [Code](https://github.com/Speech-Lab-IITM/DECAR)  
-**Pre-print**   
+***Pre-print***   
 
 Speech Emotion Recognition using Multi-task learning and a multimodal dynamic fusion network  
 *Sreyan Ghosh*, Harshvardhan Srivastava, S. Umesh   
 [arXiv](http://arxiv.org/abs/2203.16794) [Code](https://github.com/Sreyan88/MMER)  
-**Pre-print**  
+***Pre-print***  
 
 Analyzing the factors affecting usefulness of Self-Supervised Pre-trained Representations for Speech Recognition  
 *Lodagala V S V Durga Prasad*, *Ashish Seth*, *Sreyan Ghosh*, S. Umesh  
 [arXiv](http://arxiv.org/abs/2203.16973) [Checkpoints](https://github.com/Sreyan88/Disfluency-Detection-with-Span-Classification) [Leader Board](https://sites.google.com/view/gramvaaniasrchallenge/leaderboard?authuser=0)  
-**Pre-print**  
+***Pre-print***  
 
 #### **Journal**
 
@@ -50,43 +50,43 @@ Decorrelating Feature Spaces for Learning General Purpose Audio Representations
 
 data2vec-aqc: Search for the right Teaching Assistant in the Teacher-Student training setup  
 *Lodagala V S V Durga Prasad*, *Sreyan Ghosh*, S. Umesh  
-[arXiv](https://arxiv.org/abs/2211.01246)  
-**ICASSP 2023**  
+[arXiv](https://arxiv.org/abs/2211.01246) [Code](https://github.com/Speech-Lab-IITM/data2vec-aqc) [Leaderboard](https://superbbenchmark.org/leaderboard?subset=Public+Set)  
+***ICASSP 2023***  
 
 MAST: Multiscale Audio Spectrogram Transformers  
 *Sreyan Ghosh*, *Ashish Seth*, S. Umesh, Dinesh Manocha  
 [arXiv](http://arxiv.org/abs/2211.01515)  
-**ICASSP 2023**  
+***ICASSP 2023***  
 
 SLICER: Learning universal audio representations using low-resource self-supervised pre-training  
 *Ashish Seth*, *Sreyan Ghosh*, S. Umesh, Dinesh Manocha  
 [arXiv](http://arxiv.org/abs/2211.01519)  
-**ICASSP 2023**  
+***ICASSP 2023***  
 
 PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations   
 *Lodagala V S V Durga Prasad*, Sreyan Ghosh, S. Umesh  
 [arXiv](http://arxiv.org/abs/2203.16965) [Code](https://github.com/Speech-Lab-IITM/PADA)  
-**IEEE SLT 2022**  
+***IEEE SLT 2022***  
 
 CCC-WAV2VEC 2.0: Clustering aided cross contrastive self-supervised learning of speech representations   
 *Lodagala V S V Durga Prasad*, Sreyan Ghosh, S. Umesh  
-[arXiv](http://arxiv.org/abs/2210.02592)  [Code](https://github.com/Speech-Lab-IITM/CCC-wav2vec-2.0)  
-**IEEE SLT 2022**  
+[arXiv](http://arxiv.org/abs/2210.02592)  [Code](https://github.com/Speech-Lab-IITM/CCC-wav2vec-2.0)  [Leaderboard](https://superbbenchmark.org/leaderboard?subset=Public+Set)  
+***IEEE SLT 2022***  
 
 Span Classification with Structured Information for Disfluency Detection in Spoken Utterances  
 *Sreyan Ghosh*, Sonal Kumar, Yaman Kumar Singla, Rajiv Ratn Shah, S. Umesh  
 [arXiv](http://arxiv.org/abs/2203.16028) [Code](https://github.com/Sreyan88/Disfluency-Detection-with-Span-Classification)  
-**Interspeech 2022 (Oral)**  
+***Interspeech 2022 (Oral)***  
 
 DeToxy: A Large-Scale Multimodal Dataset for Toxicity Classification in Spoken Utterances  
 *Sreyan Ghosh*, Sakshi, Samden Lepcha, Rajiv Ratn Shah, S. Umesh  
 [arXiv](https://arxiv.org/pdf/2110.07592.pdf) [Code](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances) [Data](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances/tree/main/data)  
-**Interspeech 2022 (Poster)**  
+***Interspeech 2022 (Poster)***  
 
 End-to-end Named Entity Recognition from English Speech  
 *Hemant Yadav*, Sreyan Ghosh, Yi Yu, Rajiv Ratn Shah  
 [arXiv](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2482.pdf) [Code](https://github.com/raotnameh/End-to-end-E2E-Named-Entity-Recognition-from-English-Speech) [Data](https://zenodo.org/record/3893954)  
-**Interspeech 2020 (Poster)**  
+***Interspeech 2020 (Poster)***  
 
 #### **Workshop**
 
