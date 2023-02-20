@@ -16,4 +16,4 @@ I maintain a list of my publications and research implementations under the [Res
 CV / Resume: [link]({{ site.url }}/assets/Sreyan_Ghosh_CV.pdf)  
 Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:sreyang@umd.edu)  
 
-#### I am always open to collaborations! Please fill out [this](https://docs.google.com/forms/d/1kQRJekonn8YglxIPH9OPcJCuI7NQK-E1wAywNAsSMoM/) form here and I would reach out if I have a project aligned with your interests. Thank You!
+<!-- #### I am always open to collaborations! Please fill out [this](https://docs.google.com/forms/d/1kQRJekonn8YglxIPH9OPcJCuI7NQK-E1wAywNAsSMoM/) form here and I would reach out if I have a project aligned with your interests. Thank You! -->
