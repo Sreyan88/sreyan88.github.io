@@ -6,7 +6,7 @@ order: 5
 ---
 I am broadly interested in Natural Language Processing (Speech and Text). In the modality of speech, I have a special focus on making supervised and self-supervised learning in speech and audio amenable to resource-constrained scenarios (both data and compute). Currently, I am also working on achieving domain invariance in supervised and self-supervised learning in speech. I also like low-resource domain adaptation as a topic of research. In the modality of text, I enjoy working on the topics of content moderation and information extraction. I am currently focused on devising better solutions for detecting complex named entities in text and detecting implicit hate speech in online conversations.
 
-I am excited to see what multiple modalities together can offer (speech, text, audio, and graphs).
+I am excited to see what multiple modalities together can offer (speech, text, audio, and graphs). I am always open to collaborations, and please feel free to drop me a mail!
 
 <!-- #### I am always open to collaborations! Please fill out [this](https://docs.google.com/forms/d/1kQRJekonn8YglxIPH9OPcJCuI7NQK-E1wAywNAsSMoM/) form here and I would reach out if I have a project aligned with your interests. Thank You! -->
 
