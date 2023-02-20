@@ -95,21 +95,21 @@ End-to-end Named Entity Recognition from English Speech
 DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning  
 *Sreyan Ghosh*, Ashish Seth, Deepak Mittal, Maneesh Singh, S. Umesh   
 [arXiv](https://arxiv.org/abs/2203.13628) [Code](https://github.com/Speech-Lab-IITM/DeLoRes)  
-**SAS Workshop @ AAAI 2022**    
+***SAS Workshop @ AAAI 2022***    
 
 Leveraging Transformers for Hate Speech Detection in Conversational Code-Mixed Tweets  
 *Zaki Mustafa Farooqi*, Sreyan Ghosh, Rajiv Ratn Shah  
 [arXiv](https://arxiv.org/pdf/2112.09986.pdf) [Leader Board (Team Name: MIDAS@IIIT-D)](https://hasocfire.github.io/hasoc/2021/results.html#)  
-**FIRE 2021**  
+***FIRE 2021***  
 
 Cisco at SemEval-2021 Task 5: What's Toxic?: Leveraging Transformers for Multiple Toxic Span Extraction from Online Comments  
 *Sreyan Ghosh*, Sonal Kumar  
 [arXiv](https://aclanthology.org/2021.semeval-1.29.pdf) [Code](https://github.com/Sreyan88/SemEval-2021-Toxic-Spans-Detection)  
-**SemEval-2021 @ ACL 2021**  
+***SemEval-2021 @ ACL 2021***  
 
 Cisco at AAAI-CAD21 shared task: Predicting Emphasis in Presentation Slides using Contextualized Embeddings  
 *Sreyan Ghosh*, Sonal Kumar, Harsh Jalan, Hemant Yadav, Rajiv Ratn Shah  
 [arXiv](https://arxiv.org/pdf/2101.11422.pdf) [Code](https://github.com/Sreyan88/CAD21-AAAI21)  
-**CAD-21 @ AAAI 2021**  
+***CAD-21 @ AAAI 2021***  
 
 
