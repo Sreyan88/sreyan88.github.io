@@ -19,10 +19,25 @@ I am excited to see what multiple modalities together can offer (speech, text, a
 
 #### **Under Review**
 
+CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network
+*Sreyan Ghosh*, *S Ramaneswaran*, *Utkarsh Tyagi*, Harshvardhan Srivastava, Samden Lepcha, S Sakshi, Dinesh Manocha  
+[arXiv](http://arxiv.org/abs/2303.03387) [Code](https://github.com/Sreyan88/CoSyn)  
+***Under review at IJCAI 2023***  
+
 M-MELD: A Multilingual Multi-Party Dataset for Emotion Recognition in Conversations  
 *Sreyan Ghosh*, *S Ramaneswaran*, *Utkarsh Tyagi*, Harshvardhan Srivastava, Samden Lepcha, S Sakshi, Dinesh Manocha  
 [arXiv](http://arxiv.org/abs/2203.16799) [Code](https://github.com/Sreyan88/M-MELD)  
 ***Under review at Interspeech 2023***  
+
+MMER: Multimodal Multi-task Learning for Speech Emotion Recognition  
+*Sreyan Ghosh*, Utkarsh Tyagi, S Ramaneswaran, Harshvardhan Srivastava, Dinesh Manocha  
+[arXiv](http://arxiv.org/abs/2203.16794) [Code](https://github.com/Sreyan88/MMER)  
+***Under review at Interspeech 2023***  
+
+Analyzing the factors affecting usefulness of Self-Supervised Pre-trained Representations for Speech Recognition  
+*Lodagala V S V Durga Prasad*, *Ashish Seth*, *Sreyan Ghosh*, S. Umesh  
+[arXiv](http://arxiv.org/abs/2203.16973)  
+***Under review at ICASSP 2023 SASB Workshop***  
 
 #### **Pre-print**
 
@@ -30,16 +45,6 @@ Deep Clustering for learning general-purpose Audio Representations
 *Sreyan Ghosh*, *Ashish Seth*, *Sandesh Katta*, S. Umesh  
 [arXiv](https://arxiv.org/pdf/2110.08895.pdf) [Code](https://github.com/Speech-Lab-IITM/DECAR)  
 ***Pre-print***   
-
-Speech Emotion Recognition using Multi-task learning and a multimodal dynamic fusion network  
-*Sreyan Ghosh*, Harshvardhan Srivastava, S. Umesh   
-[arXiv](http://arxiv.org/abs/2203.16794) [Code](https://github.com/Sreyan88/MMER)  
-***Pre-print***  
-
-Analyzing the factors affecting usefulness of Self-Supervised Pre-trained Representations for Speech Recognition  
-*Lodagala V S V Durga Prasad*, *Ashish Seth*, *Sreyan Ghosh*, S. Umesh  
-[arXiv](http://arxiv.org/abs/2203.16973) [Checkpoints](https://github.com/Sreyan88/Disfluency-Detection-with-Span-Classification) [Leader Board](https://sites.google.com/view/gramvaaniasrchallenge/leaderboard?authuser=0)  
-***Pre-print***  
 
 #### **Journal**
 
