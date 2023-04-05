@@ -57,7 +57,7 @@ Decorrelating Feature Spaces for Learning General Purpose Audio Representations
 
 BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER  
 *Sreyan Ghosh*, *Utkarsh Tyagi*, *Sonal Kumar*, Dinesh Manocha  
-**SIGIR 2023** 
+***SIGIR 2023***  
 
 data2vec-aqc: Search for the right Teaching Assistant in the Teacher-Student training setup  
 *Lodagala V S V Durga Prasad*, *Sreyan Ghosh*, S. Umesh  
