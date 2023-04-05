@@ -15,12 +15,12 @@ I am excited to see what multiple modalities together can offer (speech, text, a
 [Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en)
 
 ### **Papers**
-##### **(names in italics indicate main contributor or equal contribution)**
+##### **(names in italics indicate main contributor or equal technical contribution)**
 
 #### **Under Review**
 
-CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network
-*Sreyan Ghosh*, *S Ramaneswaran*, *Utkarsh Tyagi*, Harshvardhan Srivastava, Samden Lepcha, S Sakshi, Dinesh Manocha  
+CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network  
+*Sreyan Ghosh*, *Manan Suri*, *Purva Chiniya*, *Utkarsh Tyagi*, *Sonal Kumar*, Dinesh Manocha  
 [arXiv](http://arxiv.org/abs/2303.03387) [Code](https://github.com/Sreyan88/CoSyn)  
 ***Under review at IJCAI 2023***  
 
@@ -54,6 +54,10 @@ Decorrelating Feature Spaces for Learning General Purpose Audio Representations
 ***IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing***  
 
 #### **Conference**
+
+BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER  
+*Sreyan Ghosh*, *Utkarsh Tyagi*, *Sonal Kumar*, Dinesh Manocha  
+**SIGIR 2023** 
 
 data2vec-aqc: Search for the right Teaching Assistant in the Teacher-Student training setup  
 *Lodagala V S V Durga Prasad*, *Sreyan Ghosh*, S. Umesh  

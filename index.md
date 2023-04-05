@@ -24,6 +24,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Apr 2023:</b></td><td>Our paper was accepted to SIGIR 2023!</td></tr>
   <tr><td><b>Mar 2023:</b></td><td>Serving as a reviewer for Interspeech 2023!</td></tr>
   <tr><td><b>Mar 2023:</b></td><td>Submitted four papers to Interspeech 2023!</td></tr>
   <tr><td><b>Mar 2023:</b></td><td>Submitted one paper to ICCV 2023!</td></tr>
