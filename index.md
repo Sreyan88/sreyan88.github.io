@@ -24,13 +24,9 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Apr 2023:</b></td><td>Our paper was accepted to ACL 2023!</td></tr>
   <tr><td><b>Apr 2023:</b></td><td>Our paper was accepted to SIGIR 2023!</td></tr>
   <tr><td><b>Mar 2023:</b></td><td>Serving as a reviewer for Interspeech 2023!</td></tr>
-  <tr><td><b>Mar 2023:</b></td><td>Submitted four papers to Interspeech 2023!</td></tr>
-  <tr><td><b>Mar 2023:</b></td><td>Submitted one paper to ICCV 2023!</td></tr>
-  <tr><td><b>Mar 2023:</b></td><td>Submitted one paper to IJCAI 2023!</td></tr>
-  <tr><td><b>Feb 2023:</b></td><td>Submitted two papers to ICASSP 2023 SASB Workshop 2023!</td></tr>
-  <tr><td><b>Feb 2023:</b></td><td>Submitted one paper to SIGIR 2023!</td></tr>
   <tr><td><b>Feb 2023:</b></td><td>I got admitted to the C.S. Ph.D. program at UMD! I will be starting in the Fall of 2023!.</td></tr>
   <tr><td><b>Feb 2023:</b></td><td>3 papers accepted to ICASSP 2023! Pre-prints under the research section.</td></tr>
   <tr><td><b>Feb 2023:</b></td><td>Serving as a reviewer for ACL 2023!</td></tr>
