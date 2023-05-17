@@ -43,9 +43,9 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 ### Conference
 
-**MMER: Multimodal Multi-task Learning for Speech Emotion Recognition**  
+* [MMER: Multimodal Multi-task Learning for Speech Emotion Recognition](http://arxiv.org/abs/2203.16794)  
 *Sreyan Ghosh*, Utkarsh Tyagi, S Ramaneswaran, Harshvardhan Srivastava, Dinesh Manocha  
-[arXiv](http://arxiv.org/abs/2203.16794) [Code](https://github.com/Sreyan88/MMER)  
+[Code](https://github.com/Sreyan88/MMER)  
 **Interspeech 2023**  
 
 * ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER  
@@ -115,9 +115,9 @@ Zaki Mustafa Farooqi, *Sreyan Ghosh*, Rajiv Ratn Shah
 [Leader Board (Team Name: MIDAS@IIIT-D)](https://hasocfire.github.io/hasoc/2021/results.html#)  
 **FIRE 2021**  
 
-**Cisco at SemEval-2021 Task 5: What's Toxic?: Leveraging Transformers for Multiple Toxic Span Extraction from Online Comments**  
+* [Cisco at SemEval-2021 Task 5: What's Toxic?: Leveraging Transformers for Multiple Toxic Span Extraction from Online Comments](https://aclanthology.org/2021.semeval-1.29.pdf)  
 *Sreyan Ghosh*, Sonal Kumar  
-[arXiv](https://aclanthology.org/2021.semeval-1.29.pdf) [Code](https://github.com/Sreyan88/SemEval-2021-Toxic-Spans-Detection)  
+[Code](https://github.com/Sreyan88/SemEval-2021-Toxic-Spans-Detection)  
 **SemEval-2021 @ ACL 2021**  
 
 * [Cisco at AAAI-CAD21 shared task: Predicting Emphasis in Presentation Slides using Contextualized Embeddings](https://arxiv.org/pdf/2101.11422.pdf)   
