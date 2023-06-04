@@ -38,8 +38,9 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 * [Decorrelating Feature Spaces for Learning General Purpose Audio Representations](https://ieeexplore.ieee.org/document/9868132)    
 *Sreyan Ghosh*\*, Ashish Seth\*, S. Umesh    
-[Code](https://github.com/Sreyan88/LAPE)  
+[Code](https://github.com/Sreyan88/LAPE) [Poster](../assets/delores_poster_final.pdf)  
 **IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing**  
+**ICASSP 2023 (Poster)**  
 
 ### Conference
 
@@ -48,10 +49,10 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 [Code](https://github.com/Sreyan88/MMER)  
 **Interspeech 2023**  
 
-* ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER  
+* [ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER](https://arxiv.org/abs/2306.00928v1)  
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Manan Suri, Sonal Kumar, S Ramaneswaran, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/ACLM)  
-**ACL 2023**  
+**ACL 2023 (Poster)**  
 
 * BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER  
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
@@ -65,12 +66,12 @@ Lodagala V S V Durga Prasad\*, *Sreyan Ghosh*\*, S. Umesh
 
 * [MAST: Multiscale Audio Spectrogram Transformers](http://arxiv.org/abs/2211.01515)  
 *Sreyan Ghosh*\*, Ashish Seth\*, S. Umesh, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/LAPE)  
+[Code](https://github.com/Sreyan88/LAPE) [Poster](../assets/mast_poster_final.pdf)  
 **ICASSP 2023 (Poster)**  
 
 * [SLICER: Learning universal audio representations using low-resource self-supervised pre-training](http://arxiv.org/abs/2211.01519)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/LAPE)  
+[Code](https://github.com/Sreyan88/LAPE) [Poster](../assets/slicer_poster_final.pdf)  
 **ICASSP 2023 (Poster)**  
 
 * [PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations](http://arxiv.org/abs/2203.16965)   
@@ -102,7 +103,7 @@ Hemant Yadav, *Sreyan Ghosh*, Yi Yu, Rajiv Ratn Shah
 
 * [UNFUSED: UNsupervised Finetuning Using SElf supervised Distillation](https://arxiv.org/abs/2303.05668)  
 Ashish Seth\*, Sreyan Ghosh\*, S. Umesh, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/LAPE)  
+[Code](https://github.com/Sreyan88/LAPE) [Poster](../assets/unfused_final.pdf)  
 **ICASSP 2023 SASB Workshop**  
 
 * [DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning](https://arxiv.org/abs/2203.13628)   
