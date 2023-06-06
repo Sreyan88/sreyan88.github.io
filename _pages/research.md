@@ -51,10 +51,10 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 * [ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER](https://arxiv.org/abs/2306.00928v1)  
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Manan Suri, Sonal Kumar, S Ramaneswaran, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/ACLM)  
+[Code](https://github.com/Sreyan88/ACLM) [Poster](../assets/acl_final_poster.pdf)  
 **ACL 2023 (Poster)**  
 
-* BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER  
+* [BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER](https://arxiv.org/abs/2305.10647)  
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/BioAug)  
 **SIGIR 2023 (Poster)**  
