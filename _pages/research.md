@@ -44,10 +44,15 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 ### Conference
 
+* [AdVerb: Visually Guided Audio Dereverberation]  
+Sanjoy Chowdhury\*, *Sreyan Ghosh*\*, Subhrajyoti Dasgupta, Anton Ratnarajah, Utkarsh Tyagi, Dinesh Manocha  
+[Code(Coming Soon)]  
+**ICCV 2023**  
+
 * [MMER: Multimodal Multi-task Learning for Speech Emotion Recognition](http://arxiv.org/abs/2203.16794)  
 *Sreyan Ghosh*, Utkarsh Tyagi, S Ramaneswaran, Harshvardhan Srivastava, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/MMER)  
-**Interspeech 2023**  
+**Interspeech 2023 (Oral)**  
 
 * [ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER](https://arxiv.org/abs/2306.00928v1)  
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Manan Suri, Sonal Kumar, S Ramaneswaran, Dinesh Manocha  
