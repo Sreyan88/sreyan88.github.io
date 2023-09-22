@@ -44,7 +44,7 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 ### Conference
 
-* [AdVerb: Visually Guided Audio Dereverberation]  
+* [AdVerb: Visually Guided Audio Dereverberation](https://arxiv.org/abs/2308.12370)  
 Sanjoy Chowdhury\*, *Sreyan Ghosh*\*, Subhrajyoti Dasgupta, Anton Ratnarajah, Utkarsh Tyagi, Dinesh Manocha  
 [Code(Coming Soon)]  
 **ICCV 2023**  
