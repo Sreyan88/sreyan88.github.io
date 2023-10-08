@@ -17,11 +17,15 @@ I am excited to see what multiple modalities together can offer (speech, text, a
 
 ### Under Review
 
-* [CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network](http://arxiv.org/abs/2303.03387)   
-*Sreyan Ghosh*\*, Manan Suri\*, Purva Chiniya\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/CoSyn)  
-**Under review at EMNLP 2023**  
+* [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
+*Sreyan Ghosh*\*, C. K. Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
+[Code](https://github.com/Sreyan88/ASPIRE)  
+**Pre-print**  
 
+* [RECAP: Retrieval-Augmented Audio Captioning](https://arxiv.org/abs/2309.09836)  
+*Sreyan Ghosh*\*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha   
+[Code](https://github.com/Sreyan88/ASPIRE)  
+**Pre-print**  
 
 ### Pre-print
 
@@ -43,6 +47,16 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 **ICASSP 2023 (Poster)**  
 
 ### Conference
+
+* [DALE: Generative Data Augmentation for Low-Resource Legal NLP]  
+*Sreyan Ghosh*\*, Manan Suri\*, Purva Chiniya\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
+[Code(Coming Soon)]  
+**EMNLP 2023**  
+
+* [CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network](http://arxiv.org/abs/2303.03387)   
+*Sreyan Ghosh*\*, Manan Suri\*, Purva Chiniya\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
+[Code](https://github.com/Sreyan88/CoSyn)  
+**EMNLP 2023**  
 
 * [AdVerb: Visually Guided Audio Dereverberation](https://arxiv.org/abs/2308.12370)  
 Sanjoy Chowdhury\*, *Sreyan Ghosh*\*, Subhrajyoti Dasgupta, Anton Ratnarajah, Utkarsh Tyagi, Dinesh Manocha  

@@ -24,6 +24,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>May 2023:</b></td><td>2 papers accepted to EMNLP 2023!</td></tr>
   <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
   <tr><td><b>May 2023:</b></td><td>Started as a Research Scientist Intern at Adobe Research!</td></tr>
   <tr><td><b>May 2023:</b></td><td>Our paper was accepted to Interspeech 2023!</td></tr>
