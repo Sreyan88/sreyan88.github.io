@@ -5,7 +5,9 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/Sreyan_Pic.jpeg">
 
-My name is Sreyan Ghosh. I am currently an Ph.D. in C.S. student at the University of Maryland, College Park. Previously, I served as a Deep Learning Solutions Architect at [Nvidia, Bangalore](https://www.nvidia.com/en-in/). My primary work at Nvidia involved building and delivering deep learning based NLP solutions to Nvidia's customers and partners. Previously to that, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance software systems for Cisco's Service Provider customers. Beyond Software Engineering, I am interested in Speech and Language Processing. At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on various problems in speech and audio processing.
+My name is Sreyan Ghosh. I am currently a 1st year Ph.D. in C.S. student at the University of Maryland, College Park (UMCP). At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on various problems in speech, language and audio processing.  
+
+Previously, I served as a Deep Learning Solutions Architect at [Nvidia, Bangalore](https://www.nvidia.com/en-in/). My primary work at Nvidia involved building and delivering deep learning based NLP solutions to Nvidia's customers and partners. Previous to that, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance software systems for Cisco's Service Provider customers. Beyond Software Engineering, I am interested in Speech and Language Processing.  
 
 Previously, I have been fortunate to have worked with [Prof. S. Umesh](http://www.ee.iitm.ac.in/~umeshs/) at [Speech Lab @ Indian Institute of Technology Madras](https://www.iitm.ac.in/speech/lab/) on making self-supervised learning in speech and audio more amenable to resource-constrained scenarios (both data and compute). I have also worked with [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) at [MIDAS Labs @ IIIT Delhi](http://midas.iiitd.edu.in/) on content moderation, complex named entity recognition and speech recognition systems for low-resource Indian languages and Indian-accented English.
 
@@ -24,7 +26,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>May 2023:</b></td><td>2 papers accepted to EMNLP 2023!</td></tr>
+  <tr><td><b>May 2023:</b></td><td>2 papers accepted to EMNLP 2023! Details under the research section.</td></tr>
   <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
   <tr><td><b>May 2023:</b></td><td>Started as a Research Scientist Intern at Adobe Research!</td></tr>
   <tr><td><b>May 2023:</b></td><td>Our paper was accepted to Interspeech 2023!</td></tr>

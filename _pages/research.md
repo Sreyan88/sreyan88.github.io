@@ -4,9 +4,9 @@ title: Research
 permalink: /research/
 order: 5
 ---
-I am broadly interested in Natural Language Processing (Speech and Text). In the modality of speech, I have a special focus on making supervised and self-supervised learning in speech and audio amenable to resource-constrained scenarios (both data and compute). Currently, I am also working on achieving domain invariance in supervised and self-supervised learning in speech. I also like low-resource domain adaptation as a topic of research. In the modality of text, I enjoy working on the topics of content moderation and information extraction. I am currently focused on devising better solutions for detecting complex named entities in text and detecting implicit hate speech in online conversations.
+I am broadly interested in Speech, Language and Audio Processing (SLP). My research focuses on low-resource learning where I try to find ways to make data-hungry deep learning models amenable to resource-constrained scenarios (both labeled data and compute). In the past, I have tried methods like generating synthetic data for and self-supervised learning fore more effective downstream learning . Currently, I am also looking at scaling laws of using sythetic data to train SLP models. Very often, I also do research on specific applied topics like RIR estimation, audio generation, compositional reasoning, audio captioning, etc.
 
-I am excited to see what multiple modalities together can offer (speech, text, audio, and graphs). I am always open to collaborations, and please feel free to drop me a mail!
+I am always open to collaborations, and please feel free to drop me a mail!  
 
 <!-- #### I am always open to collaborations! Please fill out [this](https://docs.google.com/forms/d/1kQRJekonn8YglxIPH9OPcJCuI7NQK-E1wAywNAsSMoM/) form here and I would reach out if I have a project aligned with your interests. Thank You! -->
 
@@ -16,6 +16,16 @@ I am excited to see what multiple modalities together can offer (speech, text, a
 
 
 ### Under Review
+
+* [CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models](https://arxiv.org/abs/2310.08753)  
+*Sreyan Ghosh*, Ashish Seth, Sonal Kumar, Utkarsh Tyagi, Chandra Kiran Evuru, S Ramaneswaran, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha
+[Code(Coming Soon)]    
+**Pre-print**  
+
+* [AV-RIR: Audio-Visual Room Impulse Response Estimation](https://arxiv.org/abs/2312.00834)  
+Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha  
+[Code(Coming Soon)]    
+**Pre-print**  
 
 * [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
 *Sreyan Ghosh*\*, C. K. Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
@@ -48,20 +58,20 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 ### Conference
 
-* [DALE: Generative Data Augmentation for Low-Resource Legal NLP]  
+* [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)    
 *Sreyan Ghosh*\*, Manan Suri\*, Purva Chiniya\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
-[Code(Coming Soon)]  
-**EMNLP 2023**  
+[Code](https://github.com/Sreyan88/DALE)  
+**EMNLP 2023 (Poster)**  
 
 * [CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network](http://arxiv.org/abs/2303.03387)   
 *Sreyan Ghosh*\*, Manan Suri\*, Purva Chiniya\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/CoSyn)  
-**EMNLP 2023**  
+**EMNLP 2023 (Poster)**  
 
 * [AdVerb: Visually Guided Audio Dereverberation](https://arxiv.org/abs/2308.12370)  
 Sanjoy Chowdhury\*, *Sreyan Ghosh*\*, Subhrajyoti Dasgupta, Anton Ratnarajah, Utkarsh Tyagi, Dinesh Manocha  
 [Code(Coming Soon)]  
-**ICCV 2023**  
+**ICCV 2023 (Poster)**  
 
 * [MMER: Multimodal Multi-task Learning for Speech Emotion Recognition](http://arxiv.org/abs/2203.16794)  
 *Sreyan Ghosh*, Utkarsh Tyagi, S Ramaneswaran, Harshvardhan Srivastava, Dinesh Manocha  
