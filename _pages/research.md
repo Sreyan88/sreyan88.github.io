@@ -59,7 +59,7 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 ### Conference
 
 * [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)    
-*Sreyan Ghosh*\*, Manan Suri\*, Purva Chiniya\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
+*Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/DALE)  
 **EMNLP 2023 (Poster)**  
 
