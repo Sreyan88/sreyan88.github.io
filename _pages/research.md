@@ -15,7 +15,7 @@ I am always open to collaborations, and please feel free to drop me a mail!
 [Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en) [Semantic Scholar](https://www.semanticscholar.org/author/Sreyan-Ghosh/3488077)  
 
 
-### Under Review
+### Pre-print  
 
 * [CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models](https://arxiv.org/abs/2310.08753)  
 *Sreyan Ghosh*, Ashish Seth, Sonal Kumar, Utkarsh Tyagi, Chandra Kiran Evuru, S Ramaneswaran, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha
@@ -31,13 +31,6 @@ Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha
 *Sreyan Ghosh*\*, C. K. Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/ASPIRE)  
 **Pre-print**  
-
-* [RECAP: Retrieval-Augmented Audio Captioning](https://arxiv.org/abs/2309.09836)  
-*Sreyan Ghosh*\*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha   
-[Code](https://github.com/Sreyan88/ASPIRE)  
-**Pre-print**  
-
-### Pre-print
 
 * [Deep Clustering for learning general-purpose Audio Representations](https://arxiv.org/pdf/2110.08895.pdf)  
 *Sreyan Ghosh*\*, Ashish Seth\*, Sandesh Katta\*, S. Umesh  
@@ -57,6 +50,21 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 **ICASSP 2023 (Poster)**  
 
 ### Conference
+
+* [RECAP: Retrieval-Augmented Audio Captioning](https://arxiv.org/abs/2309.09836)  
+*Sreyan Ghosh*\*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha   
+[Code (Coming Soon)]  
+**ICASSP 2023**  
+
+* [Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition] 
+Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
+[Code (Coming Soon)]  
+**ICASSP 2023** 
+
+* [FusDom: Combining In-Domain and Out-of-Domain Knowledge for Continuous Self-Supervised Learning]  
+Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
+[Code (Coming Soon)]  
+**ICASSP 2023**  
 
 * [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)    
 *Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha  
