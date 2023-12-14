@@ -54,17 +54,17 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 * [RECAP: Retrieval-Augmented Audio Captioning](https://arxiv.org/abs/2309.09836)  
 *Sreyan Ghosh*\*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha   
 [Code (Coming Soon)]  
-**ICASSP 2023**  
+**ICASSP 2024**  
 
-* [Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition] 
+* [Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition]  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
 [Code (Coming Soon)]  
-**ICASSP 2023** 
+**ICASSP 2024** 
 
 * [FusDom: Combining In-Domain and Out-of-Domain Knowledge for Continuous Self-Supervised Learning]  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
 [Code (Coming Soon)]  
-**ICASSP 2023**  
+**ICASSP 2024**  
 
 * [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)    
 *Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha  
