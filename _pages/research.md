@@ -56,14 +56,14 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 [Code (Coming Soon)]  
 **ICASSP 2024**  
 
-* [Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition]  
+* [Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition](https://arxiv.org/abs/2312.12783)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
-[Code (Coming Soon)]  
+[Code](https://github.com/cs20s030/stable_distillation)  
 **ICASSP 2024** 
 
-* [FusDom: Combining In-Domain and Out-of-Domain Knowledge for Continuous Self-Supervised Learning]  
+* [FusDom: Combining In-Domain and Out-of-Domain Knowledge for Continuous Self-Supervised Learning](https://arxiv.org/abs/2312.13026)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
-[Code (Coming Soon)]  
+[Code](https://github.com/cs20s030/fusdom)  
 **ICASSP 2024**  
 
 * [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)    

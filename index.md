@@ -26,11 +26,12 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>December 2023:</b></td><td>3 papers accepted to ICASSP 2024! Details under the research section.</td></tr>
-  <tr><td><b>December 2023:</b></td><td>Attended EMNLP 2023 in-person in Singapore!</td></tr>
-  <tr><td><b>October 2023:</b></td><td>2 papers accepted to EMNLP 2023! Details under the research section.</td></tr>
-  <tr><td><b>October 2023:</b></td><td>Attended ICCV 2023 in-person in Paris!</td></tr>
-  <tr><td><b>October 2023:</b></td><td>Attended InterSpeech 2023 in-person in Dublin!</td></tr>
+  <tr><td><b>Dec 2023:</b></td><td>Awarded the UMD graduate school's Outstanding RA Award!</td></tr>
+  <tr><td><b>Dec 2023:</b></td><td>3 papers accepted to ICASSP 2024! Details under the research section.</td></tr>
+  <tr><td><b>Dec 2023:</b></td><td>Attended EMNLP 2023 in-person in Singapore!</td></tr>
+  <tr><td><b>Oct 2023:</b></td><td>2 papers accepted to EMNLP 2023! Details under the research section.</td></tr>
+  <tr><td><b>Oct 2023:</b></td><td>Attended ICCV 2023 in-person in Paris!</td></tr>
+  <tr><td><b>Oct 2023:</b></td><td>Attended InterSpeech 2023 in-person in Dublin!</td></tr>
   <tr><td><b>May 2023:</b></td><td>Our paper was accepted to ICCV 2023!</td></tr>
   <tr><td><b>May 2023:</b></td><td>Started as a Research Scientist Intern at Adobe Research!</td></tr>
   <tr><td><b>May 2023:</b></td><td>Our paper was accepted to Interspeech 2023!</td></tr>
