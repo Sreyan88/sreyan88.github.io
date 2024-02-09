@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/Sreyan_Pic.jpeg">
 
-My name is Sreyan Ghosh. I am currently a 1st year Ph.D. in C.S. student at the University of Maryland, College Park (UMCP). At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on various problems in speech, language and audio processing.  
+My name is Sreyan Ghosh. I am currently a 2nd year Ph.D. in C.S. student at the University of Maryland, College Park (UMCP). At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on various problems in speech, language and audio processing.  
 
 Previously, I served as a Deep Learning Solutions Architect at [Nvidia, Bangalore](https://www.nvidia.com/en-in/). My primary work at Nvidia involved building and delivering deep learning based NLP solutions to Nvidia's customers and partners. Previous to that, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance software systems for Cisco's Service Provider customers. Beyond Software Engineering, I am interested in Speech and Language Processing.  
 
@@ -26,6 +26,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Dec 2023:</b></td><td>1 paper accepted to ICLR 2024!</td></tr>
   <tr><td><b>Dec 2023:</b></td><td>Awarded the UMD graduate school's Outstanding RA Award!</td></tr>
   <tr><td><b>Dec 2023:</b></td><td>3 papers accepted to ICASSP 2024! Details under the research section.</td></tr>
   <tr><td><b>Dec 2023:</b></td><td>Attended EMNLP 2023 in-person in Singapore!</td></tr>
