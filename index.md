@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/Sreyan_Pic.jpeg">
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/Sreyan_Pic_2.jpg">
 
 My name is Sreyan Ghosh. I am currently a 2nd year Ph.D. in C.S. student at the University of Maryland, College Park (UMCP). At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on various problems in speech, language and audio processing.  
 
