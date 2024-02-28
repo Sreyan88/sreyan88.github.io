@@ -22,11 +22,6 @@ I am always open to collaborations, and please feel free to drop me a mail!
 [Code(Coming Soon)]    
 **Pre-print**  
 
-* [AV-RIR: Audio-Visual Room Impulse Response Estimation](https://arxiv.org/abs/2312.00834)  
-Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha  
-[Code(Coming Soon)]    
-**Pre-print**  
-
 * [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
 *Sreyan Ghosh*\*, C. K. Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/ASPIRE)  
@@ -45,11 +40,17 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 * [Decorrelating Feature Spaces for Learning General Purpose Audio Representations](https://ieeexplore.ieee.org/document/9868132)    
 *Sreyan Ghosh*\*, Ashish Seth\*, S. Umesh    
-[Code](https://github.com/Sreyan88/LAPE) [Poster](../assets/delores_poster_final.pdf)  
+[Code](https://github.com/Sreyan88/LAPE)  
+[Poster](../assets/delores_poster_final.pdf)   
 **IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing**  
 **ICASSP 2023 (Poster)**  
 
 ### Conference
+
+* [AV-RIR: Audio-Visual Room Impulse Response Estimation](https://arxiv.org/abs/2312.00834)  
+Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha  
+[Code](https://anton-jeran.github.io/AVRIR/)    
+**CVPR 2024**  
 
 * [CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models](https://arxiv.org/abs/2310.08753)  
 *Sreyan Ghosh*, Ashish Seth, Sonal Kumar, Utkarsh Tyagi, Chandra Kiran Evuru, S Ramaneswaran, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  

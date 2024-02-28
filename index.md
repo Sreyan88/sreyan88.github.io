@@ -9,7 +9,7 @@ My name is Sreyan Ghosh. I am currently a 2nd year Ph.D. in C.S. student at the 
 
 Previously, I served as a Deep Learning Solutions Architect at [Nvidia, Bangalore](https://www.nvidia.com/en-in/). My primary work at Nvidia involved building and delivering deep learning based NLP solutions to Nvidia's customers and partners. Previous to that, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance software systems for Cisco's Service Provider customers. Beyond Software Engineering, I am interested in Speech and Language Processing.  
 
-Previously, I have been fortunate to have worked with [Prof. S. Umesh](http://www.ee.iitm.ac.in/~umeshs/) at [Speech Lab @ Indian Institute of Technology Madras](https://www.iitm.ac.in/speech/lab/) on making self-supervised learning in speech and audio more amenable to resource-constrained scenarios (both data and compute). I have also worked with [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) at [MIDAS Labs @ IIIT Delhi](http://midas.iiitd.edu.in/) on content moderation, complex named entity recognition and speech recognition systems for low-resource Indian languages and Indian-accented English.
+I have been fortunate to have worked with [Prof. S. Umesh](http://www.ee.iitm.ac.in/~umeshs/) at [Speech Lab @ Indian Institute of Technology Madras](https://www.iitm.ac.in/speech/lab/) on making self-supervised learning in speech and audio more amenable to resource-constrained scenarios (both data and compute). I have also worked with [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) at [MIDAS Labs @ IIIT Delhi](http://midas.iiitd.edu.in/) on content moderation, complex named entity recognition and speech recognition systems for low-resource Indian languages and Indian-accented English.
 
 I graduated with a Bachelor's in Computer Science and Engineering at [Christ University](https://christuniversity.in/) in 2020. During my undergraduate studies, I served as the Vice President and co-founder of Neuron, Christ University's first AI group focused on research and hackathons. During my undergraduation, I have won over 20 national and international hackathons.
 
@@ -26,7 +26,8 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>Dec 2023:</b></td><td>1 paper accepted to ICLR 2024!</td></tr>
+  <tr><td><b>Feb 2024:</b></td><td>1 paper accepted to CVPR 2024!</td></tr>
+  <tr><td><b>Jan 2024:</b></td><td>1 paper accepted to ICLR 2024!</td></tr>
   <tr><td><b>Dec 2023:</b></td><td>Awarded the UMD graduate school's Outstanding RA Award!</td></tr>
   <tr><td><b>Dec 2023:</b></td><td>3 papers accepted to ICASSP 2024! Details under the research section.</td></tr>
   <tr><td><b>Dec 2023:</b></td><td>Attended EMNLP 2023 in-person in Singapore!</td></tr>
