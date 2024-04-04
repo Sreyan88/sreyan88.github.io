@@ -15,10 +15,11 @@ In this page I list down some useful resources including slides for my talks/pre
 
 ### **Services**  
 
-Served as a reviewer at: AAAI 2021, AAAI 2023, ACL 2023, ICASSP 2023, InterSpeech 2023, EMNLP 2023, AAAI 2024, ICASSP 2024  
+Served as a reviewer at: AAAI 2021, AAAI 2023, ACL 2023, ICASSP 2023, InterSpeech 2023, EMNLP 2023, AAAI 2024, ICASSP 2024, InterSpeech 2024, ECCV 2024, NAACL 2024, ACL 2024  
 
 ### **Travel**  
 
-* August 2023: Dublin, Ireland; InterSpeech 2023  
+* August 2023: Dublin, Ireland; InterSpeech 2023   
 * September 2023: Paris, France; ICCV 2023  
 * December 2023: Singapore; EMNLP 2023  
+* April 2024: Seoul, South Korea; ICASSP 2024  
