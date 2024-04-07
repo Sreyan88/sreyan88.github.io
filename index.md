@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/Sreyan_Pic.jpeg">
 
-I am Sreyan Ghosh. I am currently a 2nd year Ph.D. in C.S. student at the University of Maryland, College Park (UMCP). At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on various problems in speech, language and audio processing. My research primarily focuses on resource-efficient deep learning.
+I am Sreyan Ghosh. I am currently a 2nd year Ph.D. in C.S. student at the University of Maryland, College Park (UMCP). At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on *resource-efficient deep learning*. I apply my research to various problems in speech, language and audio processing.  
 
 Previously, I served as a Deep Learning Solutions Architect at [Nvidia, Bangalore](https://www.nvidia.com/en-in/). My primary work at Nvidia involved building and delivering deep learning based NLP solutions to Nvidia's customers and partners. Previous to that, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance software systems for Cisco's Service Provider customers. Beyond Software Engineering, I am interested in Speech and Language Processing.  
 
