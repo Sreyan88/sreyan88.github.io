@@ -47,16 +47,16 @@ Sonal Kumar\*, *Sreyan Ghosh*\*, S Sakshi, Utkarsh Tyagi, Dinesh Manocha
 * [CoDa: Constrained Generation based Data Augmentation for Low-Resource NLP](https://arxiv.org/abs/2404.00415)  
 Chandra Kiran Reddy Evuru\*, *Sreyan Ghosh*\*, Sonal Kumar, Ramaneswaran S, Utkarsh Tyagi, Dinesh Manocha   
 [Code](https://github.com/Sreyan88/CoDa)   
-**NAACL 2024 (Findings)**  
+**NAACL 2024 Findings**  
 
 * [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)    
 *Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/DALE)  
+[Code](https://github.com/Sreyan88/DALE) [Poster](../assets/DALE_poster_EMNLP.pdf)  
 **EMNLP 2023 (Poster)**  
 
 * [CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network](http://arxiv.org/abs/2303.03387)   
 *Sreyan Ghosh*\*, Manan Suri\*, Purva Chiniya\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/CoSyn)  
+[Code](https://github.com/Sreyan88/CoSyn) [Poster](../assets/CoSyn_poster_EMNLP.pdf)  
 **EMNLP 2023 (Poster)**  
 
 * [ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER](https://arxiv.org/abs/2306.00928v1)  
@@ -84,26 +84,27 @@ Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha
 
 * [RECAP: Retrieval-Augmented Audio Captioning](https://arxiv.org/abs/2309.09836)  
 *Sreyan Ghosh*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha   
-[Code](https://github.com/Sreyan88/RECAP)   
+[Code](https://github.com/Sreyan88/RECAP) [Slides](https://docs.google.com/presentation/d/1F_mw2Viaj2hPrWAUIj8qmBk1DDakhYbJ/edit?usp=sharing&ouid=111957209895724121113&rtpof=true&sd=true)  
 **ICASSP 2024 (Oral)**  
 
 * [Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition](https://arxiv.org/abs/2312.12783)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
-[Code](https://github.com/cs20s030/stable_distillation)  
+[Code](https://github.com/cs20s030/stable_distillation) [Poster](../assets/icassp_stable_present.pdf)  
 **ICASSP 2024 (Poster)** 
 
 * [FusDom: Combining In-Domain and Out-of-Domain Knowledge for Continuous Self-Supervised Learning](https://arxiv.org/abs/2312.13026)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
-[Code](https://github.com/cs20s030/fusdom)  
+[Code](https://github.com/cs20s030/fusdom) [Poster](../assets/icassp_fusdom_present.pdf)  
 **ICASSP 2024 (Poster)**  
 
 * [AdVerb: Visually Guided Audio Dereverberation](https://arxiv.org/abs/2308.12370)  
-Sanjoy Chowdhury\*, *Sreyan Ghosh*\*, Subhrajyoti Dasgupta, Anton Ratnarajah, Utkarsh Tyagi, Dinesh Manocha   
+Sanjoy Chowdhury\*, *Sreyan Ghosh*\*, Subhrajyoti Dasgupta, Anton Ratnarajah, Utkarsh Tyagi, Dinesh Manocha  
+[Poster](../assets/adverb_poster_ICCV.pdf)    
 **ICCV 2023 (Poster)**  
 
 * [MMER: Multimodal Multi-task Learning for Speech Emotion Recognition](http://arxiv.org/abs/2203.16794)  
 *Sreyan Ghosh*, Utkarsh Tyagi, S Ramaneswaran, Harshvardhan Srivastava, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/MMER)  
+[Code](https://github.com/Sreyan88/MMER) [Slides](https://docs.google.com/presentation/d/1aJzo0nKl1BGLmGikf7zdrHi_MhZSKpQm/edit?usp=sharing&ouid=111957209895724121113&rtpof=true&sd=true)  
 **Interspeech 2023 (Oral)**  
 
 * [Decorrelating Feature Spaces for Learning General Purpose Audio Representations](https://ieeexplore.ieee.org/document/9868132)    
