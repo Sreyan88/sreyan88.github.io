@@ -61,12 +61,12 @@ Chandra Kiran Reddy Evuru\*, *Sreyan Ghosh*\*, Sonal Kumar, Ramaneswaran S, Utka
 
 * [ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER](https://arxiv.org/abs/2306.00928v1)  
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Manan Suri, Sonal Kumar, S Ramaneswaran, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/ACLM) [Poster](../assets/acl_final_poster.pdf)  
+[Code](https://github.com/Sreyan88/ACLM)/[Poster](../assets/acl_final_poster.pdf)  
 **ACL 2023 (Poster)**  
 
 * [BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER](https://arxiv.org/abs/2305.10647)  
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/BioAug)  
+[Code](https://github.com/Sreyan88/BioAug)/[Poster](../assets/SIGIR_FINAL.pdf)   
 **SIGIR 2023 (Poster)**  
 
 
@@ -79,22 +79,22 @@ Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha
 
 * [CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models](https://arxiv.org/abs/2310.08753)  
 *Sreyan Ghosh*\*, Ashish Seth\*, Sonal Kumar\*, Utkarsh Tyagi\*, Chandra Kiran Evuru\*, S Ramaneswaran, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
-[Code](https://sreyan88.github.io/compa_iclr/)      
+[Code](https://sreyan88.github.io/compa_iclr/)/[Slides](../assets/ICLR_Presentation.pdf)     
 **ICLR 2024 (Poster)**  
 
 * [RECAP: Retrieval-Augmented Audio Captioning](https://arxiv.org/abs/2309.09836)  
 *Sreyan Ghosh*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha   
-[Code](https://github.com/Sreyan88/RECAP) [Slides](https://docs.google.com/presentation/d/1F_mw2Viaj2hPrWAUIj8qmBk1DDakhYbJ/edit?usp=sharing&ouid=111957209895724121113&rtpof=true&sd=true)  
+[Code](https://github.com/Sreyan88/RECAP)/[Slides](https://docs.google.com/presentation/d/1F_mw2Viaj2hPrWAUIj8qmBk1DDakhYbJ/edit?usp=sharing&ouid=111957209895724121113&rtpof=true&sd=true)  
 **ICASSP 2024 (Oral)**  
 
 * [Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition](https://arxiv.org/abs/2312.12783)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
-[Code](https://github.com/cs20s030/stable_distillation) [Poster](../assets/icassp_stable_present.pdf)  
+[Code](https://github.com/cs20s030/stable_distillation)/[Poster](../assets/icassp_stable_present.pdf)  
 **ICASSP 2024 (Poster)** 
 
 * [FusDom: Combining In-Domain and Out-of-Domain Knowledge for Continuous Self-Supervised Learning](https://arxiv.org/abs/2312.13026)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
-[Code](https://github.com/cs20s030/fusdom) [Poster](../assets/icassp_fusdom_present.pdf)  
+[Code](https://github.com/cs20s030/fusdom)/[Poster](../assets/icassp_fusdom_present.pdf)  
 **ICASSP 2024 (Poster)**  
 
 * [AdVerb: Visually Guided Audio Dereverberation](https://arxiv.org/abs/2308.12370)  
@@ -104,29 +104,28 @@ Sanjoy Chowdhury\*, *Sreyan Ghosh*\*, Subhrajyoti Dasgupta, Anton Ratnarajah, Ut
 
 * [MMER: Multimodal Multi-task Learning for Speech Emotion Recognition](http://arxiv.org/abs/2203.16794)  
 *Sreyan Ghosh*, Utkarsh Tyagi, S Ramaneswaran, Harshvardhan Srivastava, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/MMER) [Slides](https://docs.google.com/presentation/d/1aJzo0nKl1BGLmGikf7zdrHi_MhZSKpQm/edit?usp=sharing&ouid=111957209895724121113&rtpof=true&sd=true)  
+[Code](https://github.com/Sreyan88/MMER)/[Slides](https://docs.google.com/presentation/d/1aJzo0nKl1BGLmGikf7zdrHi_MhZSKpQm/edit?usp=sharing&ouid=111957209895724121113&rtpof=true&sd=true)  
 **Interspeech 2023 (Oral)**  
 
 * [Decorrelating Feature Spaces for Learning General Purpose Audio Representations](https://ieeexplore.ieee.org/document/9868132)    
 *Sreyan Ghosh*\*, Ashish Seth\*, S. Umesh    
-[Code](https://github.com/Sreyan88/LAPE)  
-[Poster](../assets/delores_poster_final.pdf)   
+[Code](https://github.com/Sreyan88/LAPE)/[Poster](../assets/delores_poster_final.pdf)   
 **IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing**  
 **ICASSP 2023 (Poster)**  
 
 * [data2vec-aqc: Search for the right Teaching Assistant in the Teacher-Student training setup](https://arxiv.org/abs/2211.01246)  
 Lodagala V S V Durga Prasad\*, *Sreyan Ghosh*\*, S. Umesh  
-[Code](https://github.com/Speech-Lab-IITM/data2vec-aqc) [Leaderboard](https://superbbenchmark.org/leaderboard?subset=Public+Set)  
+[Code](https://github.com/Speech-Lab-IITM/data2vec-aqc)/[Leaderboard](https://superbbenchmark.org/leaderboard?subset=Public+Set)  
 **ICASSP 2023 (Oral)**  
 
 * [MAST: Multiscale Audio Spectrogram Transformers](http://arxiv.org/abs/2211.01515)  
 *Sreyan Ghosh*\*, Ashish Seth\*, S. Umesh, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/LAPE) [Poster](../assets/mast_poster_final.pdf)  
+[Code](https://github.com/Sreyan88/LAPE)/[Poster](../assets/mast_poster_final.pdf)  
 **ICASSP 2023 (Poster)**  
 
 * [SLICER: Learning universal audio representations using low-resource self-supervised pre-training](http://arxiv.org/abs/2211.01519)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/LAPE) [Poster](../assets/slicer_poster_final.pdf)  
+[Code](https://github.com/Sreyan88/LAPE)/[Poster](../assets/slicer_poster_final.pdf)  
 **ICASSP 2023 (Poster)**  
 
 * [PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations](http://arxiv.org/abs/2203.16965)   
@@ -136,7 +135,7 @@ Lodagala V S V Durga Prasad, *Sreyan Ghosh*, S. Umesh
 
 * [CCC-WAV2VEC 2.0: Clustering aided cross contrastive self-supervised learning of speech representations](http://arxiv.org/abs/2210.02592)   
 Lodagala V S V Durga Prasad, *Sreyan Ghosh*, S. Umesh  
-[Code](https://github.com/Speech-Lab-IITM/CCC-wav2vec-2.0)  [Leaderboard](https://superbbenchmark.org/leaderboard?subset=Public+Set)  
+[Code](https://github.com/Speech-Lab-IITM/CCC-wav2vec-2.0)/[Leaderboard](https://superbbenchmark.org/leaderboard?subset=Public+Set)  
 **IEEE SLT 2022**  
 
 * [Span Classification with Structured Information for Disfluency Detection in Spoken Utterances](http://arxiv.org/abs/2203.16028)  
@@ -146,19 +145,19 @@ Lodagala V S V Durga Prasad, *Sreyan Ghosh*, S. Umesh
 
 * [DeToxy: A Large-Scale Multimodal Dataset for Toxicity Classification in Spoken Utterances](https://arxiv.org/pdf/2110.07592.pdf)  
 *Sreyan Ghosh*, Samden Lepcha, Sakshi, Rajiv Ratn Shah, S. Umesh  
-[Code](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances) [Data](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances/tree/main/data)  
+[Code](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances)/[Data](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances/tree/main/data)  
 **Interspeech 2022 (Poster)**  
 
 * [End-to-end Named Entity Recognition from English Speech](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2482.pdf)  
 Hemant Yadav, *Sreyan Ghosh*, Yi Yu, Rajiv Ratn Shah  
-[Code](https://github.com/raotnameh/End-to-end-E2E-Named-Entity-Recognition-from-English-Speech) [Data](https://zenodo.org/record/3893954)  
+[Code](https://github.com/raotnameh/End-to-end-E2E-Named-Entity-Recognition-from-English-Speech)/[Data](https://zenodo.org/record/3893954)  
 **Interspeech 2020 (Poster)**  
 
 ### Workshop
 
 * [UNFUSED: UNsupervised Finetuning Using SElf supervised Distillation](https://arxiv.org/abs/2303.05668)  
 Ashish Seth\*, Sreyan Ghosh\*, S. Umesh, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/LAPE) [Poster](../assets/unfused_final.pdf)  
+[Code](https://github.com/Sreyan88/LAPE)/[Poster](../assets/unfused_final.pdf)  
 **ICASSP 2023 SASB Workshop**  
 
 * [DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning](https://arxiv.org/abs/2203.13628)   
