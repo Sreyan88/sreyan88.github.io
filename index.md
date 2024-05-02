@@ -26,6 +26,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>March 2024:</b></td><td>1 paper accepted to ICML 2024!</td></tr>
   <tr><td><b>March 2024:</b></td><td>2 papers accepted to NAACL 2024!</td></tr>
   <tr><td><b>Feb 2024:</b></td><td>1 paper accepted to CVPR 2024!</td></tr>
   <tr><td><b>Jan 2024:</b></td><td>1 paper accepted to ICLR 2024!</td></tr>

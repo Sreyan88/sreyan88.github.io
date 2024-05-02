@@ -17,11 +17,6 @@ I am always open to collaborations, and please feel free to drop me a mail!
 
 ### Pre-prints  
 
-* [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
-*Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar\*, S Ramaneswaran, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
-[Code(Coming Soon)]    
-**Pre-print**  
-
 * [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
 *Sreyan Ghosh*\*, C. K. Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/ASPIRE)  
@@ -38,6 +33,11 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 
 ### Natural Language Processing (Chronological)  
+
+* [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
+*Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar\*, S Ramaneswaran, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
+[Code(Coming Soon)]    
+**ICML 2024**  
 
 * [Do Vision-Language Models Understand Compound Nouns?](https://arxiv.org/abs/2404.00419)  
 Sonal Kumar\*, *Sreyan Ghosh*\*, S Sakshi, Utkarsh Tyagi, Dinesh Manocha    
