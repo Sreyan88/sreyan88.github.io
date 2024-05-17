@@ -17,11 +17,6 @@ I am always open to collaborations, and please feel free to drop me a mail!
 
 ### Pre-prints  
 
-* [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
-*Sreyan Ghosh*\*, C. K. Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/ASPIRE)  
-**Pre-print**  
-
 * [Deep Clustering for learning general-purpose Audio Representations](https://arxiv.org/pdf/2110.08895.pdf)  
 *Sreyan Ghosh*\*, Ashish Seth\*, Sandesh Katta\*, S. Umesh  
 [Code](https://github.com/Sreyan88/LAPE)  
@@ -33,6 +28,16 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 
 ### Natural Language Processing (Chronological)  
+
+* [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://openreview.net/pdf?id=y35k4C33mFq)  
+*Sreyan Ghosh*\*, C. K. Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
+[Code](https://github.com/Sreyan88/ABEX)  
+**ACL 2024**  
+
+* [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
+*Sreyan Ghosh*\*, C. K. Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
+[Code](https://github.com/Sreyan88/ASPIRE)  
+**ACL 2024 Findings**  
 
 * [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
 *Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar\*, S Ramaneswaran, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
