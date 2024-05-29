@@ -17,6 +17,10 @@ I am always open to collaborations, and please feel free to drop me a mail!
 
 ### Pre-prints  
 
+* [VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap](https://arxiv.org/abs/2405.15683)    
+*Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar\*, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha  
+**Pre-print** 
+
 * [Deep Clustering for learning general-purpose Audio Representations](https://arxiv.org/pdf/2110.08895.pdf)  
 *Sreyan Ghosh*\*, Ashish Seth\*, Sandesh Katta\*, S. Umesh  
 [Code](https://github.com/Sreyan88/LAPE)  
