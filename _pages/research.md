@@ -18,14 +18,14 @@ I am always open to collaborations, and please feel free to drop me a mail!
 ### Pre-prints  
 
 * [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
-*Sreyan Ghosh*\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha
-[Project Website](https://sreyan88.github.io/gamaaudio/)  
+*Sreyan Ghosh*\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
+[Project Website](https://sreyan88.github.io/gamaaudio/)  / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276)  
+**Pre-print**  
 
 * [VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap](https://arxiv.org/abs/2405.15683)    
 *Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar\*, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/VDGD)  
-
-**Pre-print** 
+[Code](https://github.com/Sreyan88/VDGD)  / [Summary Tweet](https://x.com/SreyanG/status/1795113972212867525)  
+**Pre-print**  
 
 * [Deep Clustering for learning general-purpose Audio Representations](https://arxiv.org/pdf/2110.08895.pdf)  
 *Sreyan Ghosh*\*, Ashish Seth\*, Sandesh Katta\*, S. Umesh  
@@ -51,6 +51,7 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 * [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
 *Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar\*, S Ramaneswaran, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
+[Summary Tweet](https://x.com/SreyanG/status/1755957189506638125)  
 **ICML 2024**  
 
 * [Do Vision-Language Models Understand Compound Nouns?](https://arxiv.org/abs/2404.00419)  
@@ -85,6 +86,11 @@ Chandra Kiran Reddy Evuru\*, *Sreyan Ghosh*\*, Sonal Kumar, Ramaneswaran S, Utka
 
 
 ### Audio and Spoken Language Processing (Chronological)  
+
+* [LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition](https://arxiv.org/abs/2406.04432)  
+*Sreyan Ghosh*\*, Sonal Kumar, Ashish Seth, Purva Chiniya, Utkarsh Tyagi, Ramani Duraiswami, Dinesh Manocha  
+[Code](https://github.com/Sreyan88/LipGER)  
+**InterSpeech 2204 (Oral)**  
 
 * [AV-RIR: Audio-Visual Room Impulse Response Estimation](https://arxiv.org/abs/2312.00834)  
 Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha  

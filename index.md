@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/sreyan_2.jpg">
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/Sreyan_Pic_2.jpg">
 
 I am Sreyan Ghosh. I am currently a 2nd year Ph.D. in C.S. student at the University of Maryland, College Park (UMCP). At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on *resource-efficient deep learning*. I apply my research to various problems in speech, language and audio processing.  
 
@@ -26,6 +26,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>June 2024:</b></td><td>We released GAMA, an LLM with strong audio-understanding capabilities! Details under the research section.</td></tr>
   <tr><td><b>May 2024:</b></td><td>Joined Microsoft in Redmond as a Research Scientist Intern!</td></tr>
   <tr><td><b>May 2024:</b></td><td>2 papers accepted to ACL 2024!</td></tr>
   <tr><td><b>May 2024:</b></td><td>1 paper accepted to ICML 2024!</td></tr>
