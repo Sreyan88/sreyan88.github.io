@@ -17,8 +17,14 @@ I am always open to collaborations, and please feel free to drop me a mail!
 
 ### Pre-prints  
 
+* [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
+*Sreyan Ghosh*\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha
+[Project Website](https://sreyan88.github.io/gamaaudio/)  
+
 * [VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap](https://arxiv.org/abs/2405.15683)    
 *Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar\*, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha  
+[Code](https://github.com/Sreyan88/VDGD)  
+
 **Pre-print** 
 
 * [Deep Clustering for learning general-purpose Audio Representations](https://arxiv.org/pdf/2110.08895.pdf)  
@@ -45,17 +51,16 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 * [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
 *Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar\*, S Ramaneswaran, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
-[Code(Coming Soon)]    
 **ICML 2024**  
 
 * [Do Vision-Language Models Understand Compound Nouns?](https://arxiv.org/abs/2404.00419)  
 Sonal Kumar\*, *Sreyan Ghosh*\*, S Sakshi, Utkarsh Tyagi, Dinesh Manocha    
-[Code](https://github.com/sonalkum/Compun)    
+[Code](https://github.com/sonalkum/Compun) / [Poster](../assets/compun_naacl_poster.pdf)    
 **NAACL 2024**  
 
 * [CoDa: Constrained Generation based Data Augmentation for Low-Resource NLP](https://arxiv.org/abs/2404.00415)  
 Chandra Kiran Reddy Evuru\*, *Sreyan Ghosh*\*, Sonal Kumar, Ramaneswaran S, Utkarsh Tyagi, Dinesh Manocha   
-[Code](https://github.com/Sreyan88/CoDa)   
+[Code](https://github.com/Sreyan88/CoDa) / [Poster](../assets/coda_poster.pdf)  
 **NAACL 2024 Findings**  
 
 * [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)    
@@ -83,12 +88,12 @@ Chandra Kiran Reddy Evuru\*, *Sreyan Ghosh*\*, Sonal Kumar, Ramaneswaran S, Utka
 
 * [AV-RIR: Audio-Visual Room Impulse Response Estimation](https://arxiv.org/abs/2312.00834)  
 Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha  
-[Code](https://anton-jeran.github.io/AVRIR/)    
+[Project Website](https://anton-jeran.github.io/AVRIR/) / [Poster](../assets/cvpr_2024_poster.pdf)  
 **CVPR 2024 (Poster)**  
 
 * [CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models](https://arxiv.org/abs/2310.08753)  
 *Sreyan Ghosh*\*, Ashish Seth\*, Sonal Kumar\*, Utkarsh Tyagi\*, Chandra Kiran Evuru\*, S Ramaneswaran, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
-[Code](https://sreyan88.github.io/compa_iclr/) / [Slides](../assets/ICLR_Presentation.pdf)     
+[Project Webiste](https://sreyan88.github.io/compa_iclr/) / [Slides](../assets/ICLR_Presentation.pdf) / [Poster](../assets/iclr_poster.pdf)      
 **ICLR 2024 (Poster)**  
 
 * [RECAP: Retrieval-Augmented Audio Captioning](https://arxiv.org/abs/2309.09836)  
