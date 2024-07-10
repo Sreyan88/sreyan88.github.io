@@ -23,7 +23,7 @@ I am always open to collaborations, and please feel free to drop me a mail!
 **Pre-print**  
 
 * [VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap](https://arxiv.org/abs/2405.15683)    
-*Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar\*, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha  
+*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/VDGD)  / [Summary Tweet](https://x.com/SreyanG/status/1795113972212867525)  
 **Pre-print**  
 
@@ -39,18 +39,18 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 ### Natural Language Processing (Chronological)  
 
-* [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://openreview.net/pdf?id=y35k4C33mFq)  
-*Sreyan Ghosh*\*, C. K. Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
+* [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://arxiv.org/abs/2406.04286)  
+*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/ABEX)  
 **ACL 2024**  
 
 * [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
-*Sreyan Ghosh*\*, C. K. Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
+*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/ASPIRE)  
 **ACL 2024 Findings**  
 
 * [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
-*Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar\*, S Ramaneswaran, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
+*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, S Ramaneswaran, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
 [Summary Tweet](https://x.com/SreyanG/status/1755957189506638125)  
 **ICML 2024**  
 
@@ -65,7 +65,7 @@ Chandra Kiran Reddy Evuru\*, *Sreyan Ghosh*\*, Sonal Kumar, Ramaneswaran S, Utka
 **NAACL 2024 Findings**  
 
 * [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)    
-*Sreyan Ghosh*\*, Chandra Kiran Evuru\*, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha  
+*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/DALE) / [Poster](../assets/DALE_poster_EMNLP.pdf)  
 **EMNLP 2023 (Poster)**  
 
@@ -98,7 +98,7 @@ Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha
 **CVPR 2024 (Poster)**  
 
 * [CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models](https://arxiv.org/abs/2310.08753)  
-*Sreyan Ghosh*\*, Ashish Seth\*, Sonal Kumar\*, Utkarsh Tyagi\*, Chandra Kiran Evuru\*, S Ramaneswaran, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
+*Sreyan Ghosh*\*, Ashish Seth\*, Sonal Kumar\*, Utkarsh Tyagi\*, Chandra Kiran Reddy Evuru\*, S Ramaneswaran, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
 [Project Webiste](https://sreyan88.github.io/compa_iclr/) / [Slides](../assets/ICLR_Presentation.pdf) / [Poster](../assets/iclr_poster.pdf)      
 **ICLR 2024 (Poster)**  
 
