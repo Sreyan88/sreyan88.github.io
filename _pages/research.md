@@ -19,7 +19,7 @@ I am always open to collaborations, and please feel free to drop me a mail!
 
 * [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
 *Sreyan Ghosh*\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
-[Project Website](https://sreyan88.github.io/gamaaudio/)  / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276)  
+[Project Website](https://sreyan88.github.io/gamaaudio/)  / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
 **Pre-print**  
 
 * [VDGD: Mitigating LVLM Hallucinations in Cognitive Prompts by Bridging the Visual Perception Gap](https://arxiv.org/abs/2405.15683)    
@@ -40,7 +40,7 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 ### Natural Language Processing (Chronological)  
 
 * [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://arxiv.org/abs/2406.04286)  
-*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
+*Sreyan Ghosh*\*, Utkarsh Tyagi\*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramaneswaran S, S. Sakshi, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/ABEX)  
 **ACL 2024**  
 
@@ -50,8 +50,8 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 **ACL 2024 Findings**  
 
 * [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
-*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, S Ramaneswaran, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
-[Summary Tweet](https://x.com/SreyanG/status/1755957189506638125)  
+*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Ramaneswaran S, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
+[Summary Tweet](https://x.com/SreyanG/status/1755957189506638125) / [Poster](../assets/ICML_poster_closer.pdf)  
 **ICML 2024**  
 
 * [Do Vision-Language Models Understand Compound Nouns?](https://arxiv.org/abs/2404.00419)  
@@ -65,24 +65,24 @@ Chandra Kiran Reddy Evuru\*, *Sreyan Ghosh*\*, Sonal Kumar, Ramaneswaran S, Utka
 **NAACL 2024 Findings**  
 
 * [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)    
-*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar, S Ramaneswaran, S Sakshi, Utkarsh Tyagi, Dinesh Manocha  
+*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar, Ramaneswaran S, S Sakshi, Utkarsh Tyagi, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/DALE) / [Poster](../assets/DALE_poster_EMNLP.pdf)  
-**EMNLP 2023 (Poster)**  
+**EMNLP 2023**  
 
 * [CoSyn: Detecting Implicit Hate Speech in Online Conversations Using a Context Synergized Hyperbolic Network](http://arxiv.org/abs/2303.03387)   
 *Sreyan Ghosh*\*, Manan Suri\*, Purva Chiniya\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/CoSyn) / [Poster](../assets/CoSyn_poster_EMNLP.pdf)  
-**EMNLP 2023 (Poster)**  
+**EMNLP 2023**  
 
 * [ACLM: A Selective-Denoising based Generative Data Augmentation Approach for Low-Resource Complex NER](https://arxiv.org/abs/2306.00928v1)  
-*Sreyan Ghosh*\*, Utkarsh Tyagi\*, Manan Suri, Sonal Kumar, S Ramaneswaran, Dinesh Manocha  
+*Sreyan Ghosh*\*, Utkarsh Tyagi\*, Manan Suri, Sonal Kumar, Ramaneswaran S, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/ACLM) / [Poster](../assets/acl_final_poster.pdf)  
-**ACL 2023 (Poster)**  
+**ACL 2023**  
 
 * [BioAug: Conditional Generation based Data Augmentation for Low-Resource Biomedical NER](https://arxiv.org/abs/2305.10647)  
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/BioAug) / [Poster](../assets/SIGIR_FINAL.pdf)   
-**SIGIR 2023 (Poster)**  
+**SIGIR 2023**  
 
 
 ### Audio and Spoken Language Processing (Chronological)  
@@ -95,12 +95,12 @@ Chandra Kiran Reddy Evuru\*, *Sreyan Ghosh*\*, Sonal Kumar, Ramaneswaran S, Utka
 * [AV-RIR: Audio-Visual Room Impulse Response Estimation](https://arxiv.org/abs/2312.00834)  
 Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha  
 [Project Website](https://anton-jeran.github.io/AVRIR/) / [Poster](../assets/cvpr_2024_poster.pdf)  
-**CVPR 2024 (Poster)**  
+**CVPR 2024**  
 
 * [CompA: Addressing the Gap in Compositional Reasoning in Audio-Language Models](https://arxiv.org/abs/2310.08753)  
-*Sreyan Ghosh*\*, Ashish Seth\*, Sonal Kumar\*, Utkarsh Tyagi\*, Chandra Kiran Reddy Evuru\*, S Ramaneswaran, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
+*Sreyan Ghosh*\*, Ashish Seth\*, Sonal Kumar\*, Utkarsh Tyagi\*, Chandra Kiran Reddy Evuru\*, Ramaneswaran S, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
 [Project Webiste](https://sreyan88.github.io/compa_iclr/) / [Slides](../assets/ICLR_Presentation.pdf) / [Poster](../assets/iclr_poster.pdf)      
-**ICLR 2024 (Poster)**  
+**ICLR 2024**  
 
 * [RECAP: Retrieval-Augmented Audio Captioning](https://arxiv.org/abs/2309.09836)  
 *Sreyan Ghosh*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha   
@@ -110,20 +110,20 @@ Anton Ratnarajah, *Sreyan Ghosh*, Sonal Kumar, Purva Chiniya, Dinesh Manocha
 * [Stable Distillation: Regularizing Continued Pre-training for Low-Resource Automatic Speech Recognition](https://arxiv.org/abs/2312.12783)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
 [Code](https://github.com/cs20s030/stable_distillation) / [Poster](../assets/icassp_stable_present.pdf)  
-**ICASSP 2024 (Poster)** 
+**ICASSP 2024** 
 
 * [FusDom: Combining In-Domain and Out-of-Domain Knowledge for Continuous Self-Supervised Learning](https://arxiv.org/abs/2312.13026)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha   
 [Code](https://github.com/cs20s030/fusdom) / [Poster](../assets/icassp_fusdom_present.pdf)  
-**ICASSP 2024 (Poster)**  
+**ICASSP 2024**  
 
 * [AdVerb: Visually Guided Audio Dereverberation](https://arxiv.org/abs/2308.12370)  
 Sanjoy Chowdhury\*, *Sreyan Ghosh*\*, Subhrajyoti Dasgupta, Anton Ratnarajah, Utkarsh Tyagi, Dinesh Manocha  
 [Poster](../assets/adverb_poster_ICCV.pdf)    
-**ICCV 2023 (Poster)**  
+**ICCV 2023**  
 
 * [MMER: Multimodal Multi-task Learning for Speech Emotion Recognition](http://arxiv.org/abs/2203.16794)  
-*Sreyan Ghosh*, Utkarsh Tyagi, S Ramaneswaran, Harshvardhan Srivastava, Dinesh Manocha  
+*Sreyan Ghosh*, Utkarsh Tyagi, Ramaneswaran S, Harshvardhan Srivastava, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/MMER) / [Slides](https://docs.google.com/presentation/d/1aJzo0nKl1BGLmGikf7zdrHi_MhZSKpQm/edit?usp=sharing&ouid=111957209895724121113&rtpof=true&sd=true)  
 **Interspeech 2023 (Oral)**  
 
@@ -131,7 +131,7 @@ Sanjoy Chowdhury\*, *Sreyan Ghosh*\*, Subhrajyoti Dasgupta, Anton Ratnarajah, Ut
 *Sreyan Ghosh*\*, Ashish Seth\*, S. Umesh    
 [Code](https://github.com/Sreyan88/LAPE) / [Poster](../assets/delores_poster_final.pdf)   
 **IEEE JSTSP Special Issue on Self-Supervised Learning for Speech and Audio Processing**  
-**ICASSP 2023 (Poster)**  
+**ICASSP 2023**  
 
 * [data2vec-aqc: Search for the right Teaching Assistant in the Teacher-Student training setup](https://arxiv.org/abs/2211.01246)  
 Lodagala V S V Durga Prasad\*, *Sreyan Ghosh*\*, S. Umesh  
@@ -141,12 +141,12 @@ Lodagala V S V Durga Prasad\*, *Sreyan Ghosh*\*, S. Umesh
 * [MAST: Multiscale Audio Spectrogram Transformers](http://arxiv.org/abs/2211.01515)  
 *Sreyan Ghosh*\*, Ashish Seth\*, S. Umesh, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/LAPE) / [Poster](../assets/mast_poster_final.pdf)  
-**ICASSP 2023 (Poster)**  
+**ICASSP 2023**  
 
 * [SLICER: Learning universal audio representations using low-resource self-supervised pre-training](http://arxiv.org/abs/2211.01519)  
 Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/LAPE) / [Poster](../assets/slicer_poster_final.pdf)  
-**ICASSP 2023 (Poster)**  
+**ICASSP 2023**  
 
 * [PADA: Pruning Assisted Domain Adaptation for Self-Supervised Speech Representations](http://arxiv.org/abs/2203.16965)   
 Lodagala V S V Durga Prasad, *Sreyan Ghosh*, S. Umesh  
@@ -166,12 +166,12 @@ Lodagala V S V Durga Prasad, *Sreyan Ghosh*, S. Umesh
 * [DeToxy: A Large-Scale Multimodal Dataset for Toxicity Classification in Spoken Utterances](https://arxiv.org/pdf/2110.07592.pdf)  
 *Sreyan Ghosh*, Samden Lepcha, Sakshi, Rajiv Ratn Shah, S. Umesh  
 [Code](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances) / [Data](https://github.com/Sreyan88/Toxicity-Detection-in-Spoken-Utterances/tree/main/data)  
-**Interspeech 2022 (Poster)**  
+**Interspeech 2022**  
 
 * [End-to-end Named Entity Recognition from English Speech](https://www.isca-speech.org/archive_v0/Interspeech_2020/pdfs/2482.pdf)  
 Hemant Yadav, *Sreyan Ghosh*, Yi Yu, Rajiv Ratn Shah  
 [Code](https://github.com/raotnameh/End-to-end-E2E-Named-Entity-Recognition-from-English-Speech) / [Data](https://zenodo.org/record/3893954)  
-**Interspeech 2020 (Poster)**  
+**Interspeech 2020**  
 
 ### Workshop
 
