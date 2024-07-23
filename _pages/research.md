@@ -41,17 +41,17 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 * [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://arxiv.org/abs/2406.04286)  
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramaneswaran S, S. Sakshi, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/ABEX)  
+[Code](https://github.com/Sreyan88/ABEX)  /  [Poster](../assets/ACL-ABEX.pdf)  
 **ACL 2024**  
 
 * [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
 *Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/ASPIRE)  
+[Code](https://github.com/Sreyan88/ASPIRE)  / [Poster](../assets/ACL-ASPIRE.pdf)  
 **ACL 2024 Findings**  
 
 * [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
 *Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Ramaneswaran S, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
-[Summary Tweet](https://x.com/SreyanG/status/1755957189506638125) / [Poster](../assets/ICML_poster_closer.pdf)  
+[Summary Tweet](https://x.com/SreyanG/status/1755957189506638125) / [Poster](../assets/ICML_poster_closer.pdf)  / [Video](https://www.youtube.com/watch?v=sW_G1FQ86pQ)  
 **ICML 2024**  
 
 * [Do Vision-Language Models Understand Compound Nouns?](https://arxiv.org/abs/2404.00419)  
