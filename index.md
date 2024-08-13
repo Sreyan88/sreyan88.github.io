@@ -18,6 +18,8 @@ I maintain a list of my publications and research implementations under the [Res
 CV / Resume: [link]({{ site.url }}/assets/Sreyan_Ghosh_CV.pdf)  
 Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:sreyang@umd.edu)  
 
+📣 We announce the first [Call for Papers](https://salmaworkshop.github.io/call/index.html) for the [Workshop on Speech and Audio Language Models (SALMA)](https://salmaworkshop.github.io/), co-located with [ICASSP 2025](https://2025.ieeeicassp.org/) in Hyderabad, India! 📣
+
 <!-- #### I am always open to collaborations! Please fill out [this](https://docs.google.com/forms/d/1kQRJekonn8YglxIPH9OPcJCuI7NQK-E1wAywNAsSMoM/) form here and I would reach out if I have a project aligned with your interests. Thank You! -->
 
 #### Updates
@@ -26,8 +28,8 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>August 2024:</b></td><td>[SALMA](https://salmaworkshop.github.io/) has been accepted to ICASSP 2025! We have also announced the [Call for Papers](https://salmaworkshop.github.io/)!</td></tr>
-  <tr><td><b>June 2024:</b></td><td>We release GAMA, an LLM with strong audio-understanding capabilities! Details under the research section.</td></tr>
+  <tr><td><b>August 2024:</b></td><td>SALMA has been accepted to ICASSP 2025!</td></tr>
+  <tr><td><b>June 2024:</b></td><td>We release GAMA, an LLM with strong audio-understanding capabilities! Details under the Research section.</td></tr>
   <tr><td><b>May 2024:</b></td><td>1 paper accepted to InterSpeech 2024!</td></tr>
   <tr><td><b>May 2024:</b></td><td>Joined Microsoft in Redmond as a Research Scientist Intern!</td></tr>
   <tr><td><b>May 2024:</b></td><td>2 papers accepted to ACL 2024!</td></tr>
