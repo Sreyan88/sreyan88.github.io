@@ -28,6 +28,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Aug 2024:</b></td><td>2 papers accepted to EMNLP 2024!</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Our workshop proposal, SALMA, has been accepted to ICASSP 2025!</td></tr>
   <tr><td><b>June 2024:</b></td><td>We release GAMA, an LLM with strong audio-understanding capabilities! Details under the Research section.</td></tr>
   <tr><td><b>May 2024:</b></td><td>1 paper accepted to InterSpeech 2024!</td></tr>
