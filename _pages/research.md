@@ -27,7 +27,7 @@ I am always open to collaborations, and please feel free to drop me a mail!
 [Code](https://github.com/Sreyan88/ReCLAP)  
 **Pre-print**  
 
-* *Failing Forward*: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation   
+* [*Failing Forward*: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Mohammad Sadegh Rasooli, Michael Levit, Peidong Wang, Jian Xue, Dinesh Manocha, Jinyu Li  
 **Pre-print**  
 
@@ -65,9 +65,9 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 [Project Website](https://sreyan88.github.io/gamaaudio/)  / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
 **EMNLP 2024**  <span style="color:red">**(Oral)**</span>  
 
-* EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning   
+* [EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning](https://arxiv.org/abs/2410.13179)   
 Ashish Seth\*, Ramaneswaran Selvakumar, S Sakshi, Sonal Kumar, *Sreyan Ghosh*\*, Dinesh Manocha  
-Project Website   
+[GitHub](https://github.com/cs20s030/ehmam)   
 **EMNLP 2024** <span style="color:red">**(Oral)**</span>  
 
 * [LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition](https://arxiv.org/abs/2406.04432)  
