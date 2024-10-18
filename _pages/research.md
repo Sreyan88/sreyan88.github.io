@@ -156,33 +156,6 @@ Hemant Yadav, *Sreyan Ghosh*, Yi Yu, Rajiv Ratn Shah
 [Code](https://github.com/raotnameh/End-to-end-E2E-Named-Entity-Recognition-from-English-Speech) / [Data](https://zenodo.org/record/3893954)  
 **Interspeech 2020**  
 
-### Workshop
-
-* [UNFUSED: UNsupervised Finetuning Using SElf supervised Distillation](https://arxiv.org/abs/2303.05668)  
-Ashish Seth\*, Sreyan Ghosh\*, S. Umesh, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/LAPE) / [Poster](../assets/unfused_final.pdf)  
-**ICASSP 2023 SASB Workshop**  
-
-* [DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning](https://arxiv.org/abs/2203.13628)   
-*Sreyan Ghosh*, Ashish Seth, Deepak Mittal, Maneesh Singh, S. Umesh   
-[Code](https://github.com/Speech-Lab-IITM/DeLoRes)  
-**SAS Workshop @ AAAI 2022**    
-
-* [Leveraging Transformers for Hate Speech Detection in Conversational Code-Mixed Tweets](https://arxiv.org/pdf/2112.09986.pdf)    
-Zaki Mustafa Farooqi, *Sreyan Ghosh*, Rajiv Ratn Shah  
-[Leader Board (Team Name: MIDAS@IIIT-D)](https://hasocfire.github.io/hasoc/2021/results.html#)  
-**FIRE 2021**  
-
-* [Cisco at SemEval-2021 Task 5: What's Toxic?: Leveraging Transformers for Multiple Toxic Span Extraction from Online Comments](https://aclanthology.org/2021.semeval-1.29.pdf)  
-*Sreyan Ghosh*, Sonal Kumar  
-[Code](https://github.com/Sreyan88/SemEval-2021-Toxic-Spans-Detection)  
-**SemEval-2021 @ ACL 2021**  
-
-* [Cisco at AAAI-CAD21 shared task: Predicting Emphasis in Presentation Slides using Contextualized Embeddings](https://arxiv.org/pdf/2101.11422.pdf)   
-*Sreyan Ghosh*, Sonal Kumar, Harsh Jalan, Hemant Yadav, Rajiv Ratn Shah  
-[Code](https://github.com/Sreyan88/CAD21-AAAI21)  
-**CAD-21 @ AAAI 2021**  
-
 ### Natural Language Processing (Chronological)  
 
 * [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://arxiv.org/abs/2406.04286)  
@@ -229,3 +202,30 @@ Chandra Kiran Reddy Evuru\*, *Sreyan Ghosh*\*, Sonal Kumar, Ramaneswaran S, Utka
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Sonal Kumar\*, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/BioAug) / [Poster](../assets/SIGIR_FINAL.pdf)   
 **SIGIR 2023**  
+
+### Workshop
+
+* [UNFUSED: UNsupervised Finetuning Using SElf supervised Distillation](https://arxiv.org/abs/2303.05668)  
+Ashish Seth\*, Sreyan Ghosh\*, S. Umesh, Dinesh Manocha  
+[Code](https://github.com/Sreyan88/LAPE) / [Poster](../assets/unfused_final.pdf)  
+**ICASSP 2023 SASB Workshop**  
+
+* [DeLoRes: Decorrelating Latent Spaces for Low-Resource Audio Representation Learning](https://arxiv.org/abs/2203.13628)   
+*Sreyan Ghosh*, Ashish Seth, Deepak Mittal, Maneesh Singh, S. Umesh   
+[Code](https://github.com/Speech-Lab-IITM/DeLoRes)  
+**SAS Workshop @ AAAI 2022**    
+
+* [Leveraging Transformers for Hate Speech Detection in Conversational Code-Mixed Tweets](https://arxiv.org/pdf/2112.09986.pdf)    
+Zaki Mustafa Farooqi, *Sreyan Ghosh*, Rajiv Ratn Shah  
+[Leader Board (Team Name: MIDAS@IIIT-D)](https://hasocfire.github.io/hasoc/2021/results.html#)  
+**FIRE 2021**  
+
+* [Cisco at SemEval-2021 Task 5: What's Toxic?: Leveraging Transformers for Multiple Toxic Span Extraction from Online Comments](https://aclanthology.org/2021.semeval-1.29.pdf)  
+*Sreyan Ghosh*, Sonal Kumar  
+[Code](https://github.com/Sreyan88/SemEval-2021-Toxic-Spans-Detection)  
+**SemEval-2021 @ ACL 2021**  
+
+* [Cisco at AAAI-CAD21 shared task: Predicting Emphasis in Presentation Slides using Contextualized Embeddings](https://arxiv.org/pdf/2101.11422.pdf)   
+*Sreyan Ghosh*, Sonal Kumar, Harsh Jalan, Hemant Yadav, Rajiv Ratn Shah  
+[Code](https://github.com/Sreyan88/CAD21-AAAI21)  
+**CAD-21 @ AAAI 2021**  
