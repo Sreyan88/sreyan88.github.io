@@ -17,6 +17,11 @@ I am always open to collaborations, and please feel free to drop me a mail!
 
 ### Pre-prints  
 
+* [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmarks](https://www.arxiv.org/abs/2410.19168)   
+S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, *Sreyan Ghosh*\*, Dinesh Manocha  
+[Project Website](https://sakshi113.github.io/mmau_homepage/)  
+**Pre-print**  
+
 * [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](https://arxiv.org/abs/2410.02056)    
 *Sreyan Ghosh*,  Sonal Kumar, Zhifeng Kong, Rafael Valle, Bryan Catanzaro, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/Synthio)  
@@ -36,15 +41,11 @@ I am always open to collaborations, and please feel free to drop me a mail!
 [Code](https://github.com/Sreyan88/VDGD)  / [Summary Tweet](https://x.com/SreyanG/status/1795113972212867525)  
 **Pre-print**  
 
-* MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmarks   
-S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, *Sreyan Ghosh*\*, Dinesh Manocha  
-**Pre-print**  
-
-* PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification   
+* [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](https://arxiv.org/abs/2410.15062)   
 Ashish Seth, Ramaneswaran Selvakumar, Sonal Kumar, *Sreyan Ghosh*, Dinesh Manocha  
 **Pre-print**  
 
-* Do Audio-Language Models Understand Linguistic Variations?     
+* [Do Audio-Language Models Understand Linguistic Variations?](https://arxiv.org/abs/2410.16505v1)     
 Ramaneswaran Selvakumar, Sonal Kumar, Hemant Kumar Giri, Nishit Anand, Ashish Seth, *Sreyan Ghosh*, Dinesh Manocha  
 **Pre-print**  
 

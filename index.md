@@ -28,6 +28,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Sept 2024:</b></td><td>We released MMAU, the most comprehesive audio understanding and reasoning benchmark yet! Check it out [here](https://sakshi113.github.io/mmau_homepage/) !</td></tr>
   <tr><td><b>Sept 2024:</b></td><td>2 papers accepted to EMNLP 2024!</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Our workshop proposal, SALMA, has been accepted to ICASSP 2025!</td></tr>
   <tr><td><b>June 2024:</b></td><td>We release GAMA, an LLM with strong audio-understanding capabilities! Details under the Research section.</td></tr>
