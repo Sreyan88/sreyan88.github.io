@@ -5,7 +5,9 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/IMG_7210.jpg">
 
-I am Sreyan Ghosh. I am currently a 3rd year C.S. Ph.D. student at the University of Maryland, College Park (UMCP). At UMCP, I work under the guidance of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en) at [Gamma Lab](https://gamma.umd.edu/) on *resource-efficient deep learning*. I apply my research to various problems in speech, language and audio processing.  
+I am Sreyan Ghosh, a 3rd-year Computer Science Ph.D. student at the University of Maryland, College Park (UMD). I conduct my research in the [Gamma Lab](https://gamma.umd.edu/) under the mentorship of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en). My work focuses on advancing *audio processing*—spanning speech, sounds, and music. I aim to tackle challenges such as developing data- and compute-efficient audio models, improving audio representation learning, and enhancing audio perception and reasoning in AI systems. My research is proudly supported by the NVIDIA Graduate Fellowship.    
+
+Let me know if you'd like further refinements!
 
 Previously, I served as a Deep Learning Solutions Architect at [Nvidia, Bangalore](https://www.nvidia.com/en-in/). My primary work at Nvidia involved building and delivering deep learning based NLP solutions to Nvidia's customers and partners. Previous to that, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance software systems for Cisco's Service Provider customers.  
 
@@ -28,7 +30,8 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>Sept 2024:</b></td><td>We released MMAU, the most comprehesive audio understanding and reasoning benchmark yet! Check it out here: https://sakshi113.github.io/mmau_homepage/ ! </td></tr>
+  <tr><td><b>Nov 2024:</b></td><td>I was awarded the NVIDIA and Apple graduate fellowships! I have decided to accept the NVIDIA fellowship.</td></tr>
+  <tr><td><b>Sept 2024:</b></td><td>We released MMAU, the most comprehesive audio understanding and reasoning benchmark yet!</td></tr>
   <tr><td><b>Sept 2024:</b></td><td>2 papers accepted to EMNLP 2024!</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Our workshop proposal, SALMA, has been accepted to ICASSP 2025!</td></tr>
   <tr><td><b>June 2024:</b></td><td>We release GAMA, an LLM with strong audio-understanding capabilities! Details under the Research section.</td></tr>
