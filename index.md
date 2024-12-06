@@ -7,8 +7,6 @@ layout: page
 
 I am Sreyan Ghosh, a 3rd-year Computer Science Ph.D. student at the University of Maryland, College Park (UMD). I conduct my research in the [Gamma Lab](https://gamma.umd.edu/) under the mentorship of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en). My work focuses on advancing *audio processing*—spanning speech, sounds, and music. I aim to tackle challenges such as developing data- and compute-efficient audio models, improving audio representation learning, and enhancing audio perception and reasoning in AI systems. My research is proudly supported by the NVIDIA Graduate Fellowship.    
 
-Let me know if you'd like further refinements!
-
 Previously, I served as a Deep Learning Solutions Architect at [Nvidia, Bangalore](https://www.nvidia.com/en-in/). My primary work at Nvidia involved building and delivering deep learning based NLP solutions to Nvidia's customers and partners. Previous to that, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance software systems for Cisco's Service Provider customers.  
 
 I have been fortunate to have worked with [Prof. S. Umesh](http://www.ee.iitm.ac.in/~umeshs/) at [Speech Lab @ Indian Institute of Technology Madras](https://www.iitm.ac.in/speech/lab/) on making self-supervised learning in speech and audio more amenable to resource-constrained scenarios (both data and compute). I have also worked with [Prof. Rajiv Ratn Shah](https://www.iiitd.ac.in/rajivratn) at [MIDAS Labs @ IIIT Delhi](http://midas.iiitd.edu.in/) on content moderation, complex named entity recognition and speech recognition systems for low-resource Indian languages and Indian-accented English.
