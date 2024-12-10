@@ -28,6 +28,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Dec 2024:</b></td><td>We are hosting the DCASE 2025 Task 5 in collaboration with NVIDIA! More details here: https://dcase.community/articles/challenge-tasks-for-dcase2025</td></tr>
   <tr><td><b>Nov 2024:</b></td><td>I was awarded the NVIDIA and Apple graduate fellowships! I have decided to accept the NVIDIA fellowship.</td></tr>
   <tr><td><b>Sept 2024:</b></td><td>We released MMAU, the most comprehesive audio understanding and reasoning benchmark yet!</td></tr>
   <tr><td><b>Sept 2024:</b></td><td>2 papers accepted to EMNLP 2024!</td></tr>
