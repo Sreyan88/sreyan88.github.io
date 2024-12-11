@@ -28,10 +28,10 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>Dec 2024:</b></td><td>We are hosting the DCASE 2025 Task 5 in collaboration with NVIDIA! More details here: https://dcase.community/articles/challenge-tasks-for-dcase2025</td></tr>
-  <tr><td><b>Nov 2024:</b></td><td>I was awarded the NVIDIA and Apple graduate fellowships! I have decided to accept the NVIDIA fellowship.</td></tr>
-  <tr><td><b>Sept 2024:</b></td><td>We released MMAU, the most comprehesive audio understanding and reasoning benchmark yet!</td></tr>
-  <tr><td><b>Sept 2024:</b></td><td>2 papers accepted to EMNLP 2024!</td></tr>
+  <tr><td><b>Dec 2024:</b></td><td>We are hosting the DCASE 2025 Task 5 in collaboration with NVIDIA! More details <a href="https://dcase.community/articles/challenge-tasks-for-dcase2025" target="_blank">here</a>.</td></tr>
+  <tr><td><b>Nov 2024:</b></td><td>I was awarded the <a href="https://www.cs.umd.edu/article/2024/12/umd-cs-phd-student-receives-nvidia-graduate-fellowship%C2%A0" target="_blank">NVIDIA</a> and Apple graduate fellowships! I have decided to accept the NVIDIA fellowship.</td></tr>
+  <tr><td><b>Sept 2024:</b></td><td>We released <a href="https://sakshi113.github.io/mmau_homepage/" target="_blank">MMAU</a>, the most comprehesive audio understanding and reasoning benchmark yet!</td></tr>
+  <tr><td><b>Sept 2024:</b></td><td>2 papers accepted to EMNLP 2024 as oral presentations!</td></tr>
   <tr><td><b>Aug 2024:</b></td><td>Our workshop proposal, SALMA, has been accepted to ICASSP 2025!</td></tr>
   <tr><td><b>June 2024:</b></td><td>We release GAMA, an LLM with strong audio-understanding capabilities! Details under the Research section.</td></tr>
   <tr><td><b>May 2024:</b></td><td>1 paper accepted to InterSpeech 2024!</td></tr>
