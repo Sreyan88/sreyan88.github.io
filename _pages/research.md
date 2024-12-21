@@ -4,13 +4,14 @@ title: Research
 permalink: /research/
 order: 5
 ---
-My research focuses on resource efficient deep learning. Specifically, I try to find ways to make deep learning models amenable to resource-constrained scenarios (both labeled/unlabeled data and compute). In the past, I have developed methods pertaining to synthetic data augmentation and self-supervised learning for effective downstream learning in low-resource (labeled data) scenarios. Currently, I am also looking at scaling laws of using sythetic data to train SLP models including effective evaluation of sythetic data. My papers are written around applying resource efficient methods to the diverse tasks in the broader domain of Speech, Language and Audio Processing (SLP), including but not limited to the tasks of NLU, RIR estimation, audio generation, compositional reasoning, audio captioning, etc.
+My research focuses on advancing *audio processing*—spanning speech, sounds, and music. I aim to tackle challenges such as developing data- and compute-efficient audio models, improving audio representation learning, and improving audio perception and reasoning in AI systems. In my early work, I explored resource-efficient deep learning, devising methods to train models for scenarios constrained by labeled/unlabeled data or compute. This includes synthetic data augmentation, self-supervised learning, etc to enable effective downstream learning.  
+
+Currently, I am working on improving audio perception and reasoning in Large Language Models through better architectures, audio representations, and scalable synthetic data. My publications span diverse tasks within Speech, Language, and Audio Processing, including NLU, room impulse response (RIR) estimation, audio generation, compositional reasoning, Large Audio Language Models (LALMs) and audio captioning.  
 
 I am always open to collaborations, and please feel free to drop me a mail!  
 
 <!-- #### I am always open to collaborations! Please fill out [this](https://docs.google.com/forms/d/1kQRJekonn8YglxIPH9OPcJCuI7NQK-E1wAywNAsSMoM/) form here and I would reach out if I have a project aligned with your interests. Thank You! -->
 
-<!-- P.S. : Though I acknowledge that achieving state-of-the-art (SOTA) results is not and should not be the final goal of research, I am proud that some of my works achieve SOTA on some well known Speech and Language Processing task (until November 2022). Here are the links for [ASR (Librispeech 360hr train split)](http://arxiv.org/abs/2211.01246), [Keyword Spotting (Speech Commands 1)](http://arxiv.org/abs/2211.01515), [Speech Emotion Recognition (IEMOCAP)](http://arxiv.org/abs/2203.16794), [Disfleuncy Detection (SwitchBoard)](http://arxiv.org/abs/2203.16028) and [Low-resource General Purpose Audio Representation Learning](http://arxiv.org/abs/2211.01515). -->
 
 [Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en) [Semantic Scholar](https://www.semanticscholar.org/author/Sreyan-Ghosh/3488077)  
 
@@ -27,10 +28,6 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 [Code](https://github.com/Sreyan88/Synthio)  
 **Pre-print**  
 
-* [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](https://arxiv.org/abs/2409.09213)    
-*Sreyan Ghosh*, Sonal Kumar, Chandra Kiran Reddy Evuru, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha   
-[Code](https://github.com/Sreyan88/ReCLAP)  
-**Pre-print**  
 
 * [*Failing Forward*: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Mohammad Sadegh Rasooli, Michael Levit, Peidong Wang, Jian Xue, Dinesh Manocha, Jinyu Li  
@@ -65,6 +62,11 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 *Sreyan Ghosh*\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
 [Project Website](https://sreyan88.github.io/gamaaudio/)  / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
 **EMNLP 2024**  <span style="color:red">**(Oral)**</span>  
+
+* [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](https://arxiv.org/abs/2409.09213)    
+*Sreyan Ghosh*, Sonal Kumar, Chandra Kiran Reddy Evuru, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha   
+[Code](https://github.com/Sreyan88/ReCLAP)  
+**ICASSP 2025**  
 
 * [EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning](https://arxiv.org/abs/2410.13179)   
 Ashish Seth\*, Ramaneswaran Selvakumar, S Sakshi, Sonal Kumar, *Sreyan Ghosh*\*, Dinesh Manocha  

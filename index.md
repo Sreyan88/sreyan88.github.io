@@ -28,6 +28,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Dec 2024:</b></td><td><a href="https://arxiv.org/abs/2409.09213" target="_blank">ReCLAP</a> (and a total of 3 papers) have been accepted to ICASSP 2025! More details under the Research section.</td></tr>
   <tr><td><b>Dec 2024:</b></td><td>We are hosting the DCASE 2025 Task 5 in collaboration with NVIDIA! More details <a href="https://dcase.community/articles/challenge-tasks-for-dcase2025" target="_blank">here</a>.</td></tr>
   <tr><td><b>Nov 2024:</b></td><td>I was awarded the <a href="https://www.cs.umd.edu/article/2024/12/umd-cs-phd-student-receives-nvidia-graduate-fellowship%C2%A0" target="_blank">NVIDIA</a> and Apple graduate fellowships! I have decided to accept the NVIDIA fellowship.</td></tr>
   <tr><td><b>Sept 2024:</b></td><td>We released <a href="https://sakshi113.github.io/mmau_homepage/" target="_blank">MMAU</a>, the most comprehesive audio understanding and reasoning benchmark yet!</td></tr>
