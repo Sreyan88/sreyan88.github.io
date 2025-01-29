@@ -18,32 +18,8 @@ I am always open to collaborations, and please feel free to drop me a mail!
 
 ### Pre-prints  
 
-* [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmarks](https://www.arxiv.org/abs/2410.19168)   
-S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, *Sreyan Ghosh*\*, Dinesh Manocha  
-[Project Website](https://sakshi113.github.io/mmau_homepage/)  
-**Pre-print**  
-
-* [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](https://arxiv.org/abs/2410.02056)    
-*Sreyan Ghosh*,  Sonal Kumar, Zhifeng Kong, Rafael Valle, Bryan Catanzaro, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/Synthio)  
-**Pre-print**  
-
-
 * [*Failing Forward*: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Mohammad Sadegh Rasooli, Michael Levit, Peidong Wang, Jian Xue, Dinesh Manocha, Jinyu Li  
-**Pre-print**  
-
-* [Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs](https://arxiv.org/abs/2405.15683v2)    
-*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/VDGD)  / [Summary Tweet](https://x.com/SreyanG/status/1795113972212867525)  
-**Pre-print**  
-
-* [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](https://arxiv.org/abs/2410.15062)   
-Ashish Seth, Ramaneswaran Selvakumar, Sonal Kumar, *Sreyan Ghosh*, Dinesh Manocha  
-**Pre-print**  
-
-* [Do Audio-Language Models Understand Linguistic Variations?](https://arxiv.org/abs/2410.16505v1)     
-Ramaneswaran Selvakumar, Sonal Kumar, Hemant Kumar Giri, Nishit Anand, Ashish Seth, *Sreyan Ghosh*, Dinesh Manocha  
 **Pre-print**  
 
 * [Deep Clustering for learning general-purpose Audio Representations](https://arxiv.org/pdf/2110.08895.pdf)  
@@ -63,10 +39,28 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 [Project Website](https://sreyan88.github.io/gamaaudio/)  / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
 **EMNLP 2024**  <span style="color:red">**(Oral)**</span>  
 
+* [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmarks](https://www.arxiv.org/abs/2410.19168)   
+S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, *Sreyan Ghosh*\*, Dinesh Manocha  
+[Project Website](https://sakshi113.github.io/mmau_homepage/)  
+**ICLR 2025**  
+
+* [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](https://arxiv.org/abs/2410.02056)    
+*Sreyan Ghosh*,  Sonal Kumar, Zhifeng Kong, Rafael Valle, Bryan Catanzaro, Dinesh Manocha  
+[Code](https://github.com/Sreyan88/Synthio)  
+**ICLR 2025**  
+
 * [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](https://arxiv.org/abs/2409.09213)    
 *Sreyan Ghosh*, Sonal Kumar, Chandra Kiran Reddy Evuru, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha   
 [Code](https://github.com/Sreyan88/ReCLAP)  
 **ICASSP 2025**  
+
+* [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](https://arxiv.org/abs/2410.15062)   
+Ashish Seth, Ramaneswaran Selvakumar, Sonal Kumar, *Sreyan Ghosh*, Dinesh Manocha  
+**NAACL 2025**  
+
+* [Do Audio-Language Models Understand Linguistic Variations?](https://arxiv.org/abs/2410.16505v1)     
+Ramaneswaran Selvakumar, Sonal Kumar, Hemant Kumar Giri, Nishit Anand, Ashish Seth, *Sreyan Ghosh*, Dinesh Manocha  
+**NAACL 2025**  
 
 * [EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning](https://arxiv.org/abs/2410.13179)   
 Ashish Seth\*, Ramaneswaran Selvakumar, S Sakshi, Sonal Kumar, *Sreyan Ghosh*\*, Dinesh Manocha  
@@ -160,6 +154,11 @@ Hemant Yadav, *Sreyan Ghosh*, Yi Yu, Rajiv Ratn Shah
 **Interspeech 2020**  
 
 ### Natural Language Processing (Chronological)  
+
+* [Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs](https://arxiv.org/abs/2405.15683v2)    
+*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha  
+[Code](https://github.com/Sreyan88/VDGD)  / [Summary Tweet](https://x.com/SreyanG/status/1795113972212867525)  
+**ICLR 2025**  
 
 * [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://arxiv.org/abs/2406.04286)  
 *Sreyan Ghosh*\*, Utkarsh Tyagi\*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramaneswaran S, S. Sakshi, Dinesh Manocha  
