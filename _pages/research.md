@@ -37,12 +37,12 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 * [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
 *Sreyan Ghosh*\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
 [Project Website](https://sreyan88.github.io/gamaaudio/)  / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
-**EMNLP 2024**  <span style="color:red">**(Oral)**</span>  
+**EMNLP 2024** <span style="color:red">**(Oral)**</span>  
 
 * [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmarks](https://www.arxiv.org/abs/2410.19168)   
 S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, *Sreyan Ghosh*\*, Dinesh Manocha  
 [Project Website](https://sakshi113.github.io/mmau_homepage/)  
-**ICLR 2025**  
+**ICLR 2025** <span style="color:red">**(Spotlight)**</span>  
 
 * [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](https://arxiv.org/abs/2410.02056)    
 *Sreyan Ghosh*,  Sonal Kumar, Zhifeng Kong, Rafael Valle, Bryan Catanzaro, Dinesh Manocha  
