@@ -18,6 +18,11 @@ I am always open to collaborations, and please feel free to drop me a mail!
 
 ### Pre-prints  
 
+* [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
+*Sreyan Ghosh*, Zhifeng Kong, Sonal Kumar, S Sakshi, Jaehyeon Kim, Wei Ping, Rafael Valle, Dinesh Manocha, Bryan Catanzaro    
+[Project Page](https://research.nvidia.com/labs/adlr/AF2/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-2)   
+**Pre-print**  
+
 * [*Failing Forward*: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Mohammad Sadegh Rasooli, Michael Levit, Peidong Wang, Jian Xue, Dinesh Manocha, Jinyu Li  
 **Pre-print**  
@@ -46,17 +51,21 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 
 * [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](https://arxiv.org/abs/2410.02056)    
 *Sreyan Ghosh*,  Sonal Kumar, Zhifeng Kong, Rafael Valle, Bryan Catanzaro, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/Synthio)  
+[Code](https://github.com/Sreyan88/Synthio) / [Test-to-Audio Demo](https://huggingface.co/spaces/sonalkum/synthio-stable-audio-open)    
 **ICLR 2025**  
 
 * [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](https://arxiv.org/abs/2409.09213)    
 *Sreyan Ghosh*, Sonal Kumar, Chandra Kiran Reddy Evuru, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha   
 [Code](https://github.com/Sreyan88/ReCLAP)  
-**ICASSP 2025**  
+**ICASSP 2025**  <span style="color:red">**(Oral)**</span> 
+
+* [ProSE: Diffusion Priors for Speech Enhancement](https://arxiv.org/abs/2410.15062)   
+Sonal Kumar, *Sreyan Ghosh*, Utkarsh Tyagi, Anton Jeran Ratnarajah, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha    
+**NAACL 2025**  <span style="color:red">**(Oral)**</span> 
 
 * [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](https://arxiv.org/abs/2410.15062)   
 Ashish Seth, Ramaneswaran Selvakumar, Sonal Kumar, *Sreyan Ghosh*, Dinesh Manocha  
-**NAACL 2025**  
+**NAACL 2025**  <span style="color:red">**(Oral)**</span> 
 
 * [Do Audio-Language Models Understand Linguistic Variations?](https://arxiv.org/abs/2410.16505v1)     
 Ramaneswaran Selvakumar, Sonal Kumar, Hemant Kumar Giri, Nishit Anand, Ashish Seth, *Sreyan Ghosh*, Dinesh Manocha  

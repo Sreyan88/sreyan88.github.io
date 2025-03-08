@@ -28,6 +28,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Mar 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2503.03983" target="_blank">Audio Flamingo 2</a>, a SOTA audio-language model outperforming most other frontier models on audio understanding and reasoning tasks. Check out the <a href="https://huggingface.co/spaces/nvidia/audio-flamingo-2" target="_blank">demo</a> here!</td></tr>
   <tr><td><b>Jan 2025:</b></td><td><a href="https://openreview.net/forum?id=3PRvlT8b1R" target="_blank">VDGD</a>, <a href="https://openreview.net/forum?id=TeVAZXr3yv" target="_blank">MMAU</a> (Spotlight) and <a href="https://openreview.net/forum?id=bR1J7SpzrD" target="_blank">Synthio</a> have been accepted to ICLR 2025! More details under the Research section.</td></tr>
   <tr><td><b>Jan 2025:</b></td><td><a href="https://arxiv.org/abs/2410.15062" target="_blank">PAT</a>, <a href="https://arxiv.org/pdf/2410.16505" target="_blank">RobustCLAP</a> and ProSE have been accepted to NAACL 2025! More details under the Research section.</td></tr>
     <tr><td><b>Dec 2024:</b></td><td><a href="https://arxiv.org/abs/2409.09213" target="_blank">ReCLAP</a> (and a total of 3 papers) have been accepted to ICASSP 2025! More details under the Research section.</td></tr>

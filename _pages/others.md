@@ -20,19 +20,20 @@ In this page I list down some useful resources including slides for my talks/pre
 Served as a reviewer at: 
 * AAAI 2021, 2023, 2024, 2025  
 * ICASSP 2023, 2024, 2025    
-* InterSpeech 2023, 2024  
-* ACL 2023, 2024
+* InterSpeech 2023, 2024, 2025    
+* ACL 2023, 2024  
+* ARR 2023 - Present
 * EMNLP 2023, 2024  
-* NAACL 2024  
-* NeurIPS 2024  
-* ECCV 2024  
+* NAACL 2024, 2025    
 * NeurIPS 2024  
 * ICLR 2024, 2025  
 * ICML 2025  
+* ECCV 2024  
+* ICCV 2025  
 * CVPR 2025  
-* ARR 2023 - Present
+* SIGIR 2025  
 
-### **Travel**  
+### **Conference Travel**  
 
 * August 2023: Dublin, Ireland; InterSpeech 2023   
 * September 2023: Paris, France; ICCV 2023  
@@ -41,3 +42,7 @@ Served as a reviewer at:
 * May 2024: Vienna, Austria; ICLR 2024  
 * June 2024: Mexico City, Mexico; NAACL 2024  
 * June 2024: Seattle, USA; CVPR 2024  
+* March 2025: California, USA; NVIDIA GTC 2025  
+* April 2025: Hyderabad, India; ICASSP 2025  
+* April 2025: Singapore; ICLR 2025  
+* May 2025: Albuquerque, New Mexico, USA; NAACL 2025  
