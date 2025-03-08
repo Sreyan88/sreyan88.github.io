@@ -33,6 +33,11 @@ Served as a reviewer at:
 * CVPR 2025  
 * SIGIR 2025  
 
+Co-organized:  
+* [Workshop on Speech and Audio Language Models (SALMA)](https://salmaworkshop.github.io/), co-located with [ICASSP 2025](https://2025.ieeeicassp.org/)
+* Audio Question Answering Task at [DCASE 2025](https://dcase.community/challenge2025/index)    
+* [Advancing Expert-Level Reasoning and Understanding in Large Audio Language Models Task](https://jsalt2025.fit.vut.cz/summer-workshop#advancing-expert-level-reasoning-and-understanding-in-large-audio-models) at [JSALT 2025](https://jsalt2025.fit.vut.cz/)    
+
 ### **Conference Travel**  
 
 * August 2023: Dublin, Ireland; InterSpeech 2023   
