@@ -42,6 +42,7 @@ Served as a reviewer at:
 * May 2024: Vienna, Austria; ICLR 2024  
 * June 2024: Mexico City, Mexico; NAACL 2024  
 * June 2024: Seattle, USA; CVPR 2024  
+* November 2024: Miami, Florida, USA; EMNLP 2024  
 * March 2025: California, USA; NVIDIA GTC 2025  
 * April 2025: Hyderabad, India; ICASSP 2025  
 * April 2025: Singapore; ICLR 2025  
