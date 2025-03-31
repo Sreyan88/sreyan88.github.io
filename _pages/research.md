@@ -20,7 +20,7 @@ I am always open to collaborations, and please feel free to drop me a mail!
 
 * [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Zhifeng Kong, Sonal Kumar, S Sakshi, Jaehyeon Kim, Wei Ping, Rafael Valle, Dinesh Manocha, Bryan Catanzaro    
-[Project Page](https://research.nvidia.com/labs/adlr/AF2/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-2)   
+[Project Page](https://research.nvidia.com/labs/adlr/AF2/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-2) / [Tweet](https://x.com/tu7uruu/status/1899558676186452411?s=61) / [Coverage 1](https://artgor.medium.com/paper-review-audio-flamingo-2-an-audio-language-model-with-long-audio-understanding-and-expert-6f34f7b2c07c) / [Coverage 2](https://www.linkedin.com/pulse/audio-flamingo-2-audio-language-model-long-audio-expert-vlad-bogolin-bpble/?trackingId=MiGggYq5SvC%2BAln%2Fsou%2Bag%3D%3D)         
 **Pre-print**  
 
 * [*Failing Forward*: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](https://arxiv.org/abs/2410.13198)   
@@ -41,7 +41,7 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 * [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
 *Sreyan Ghosh*\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
-[Project Website](https://sreyan88.github.io/gamaaudio/)  / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
+[Project Website](https://sreyan88.github.io/gamaaudio/)  / [Slides](https://docs.google.com/presentation/d/1d_vsKmS4sZOS4SfUPp3keqg1fW81CmT3/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
 **EMNLP 2024** <span style="color:red">**(Oral)**</span>  
 
 * [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmarks](https://www.arxiv.org/abs/2410.19168)   
@@ -51,7 +51,7 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 
 * [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](https://arxiv.org/abs/2410.02056)    
 *Sreyan Ghosh*,  Sonal Kumar, Zhifeng Kong, Rafael Valle, Bryan Catanzaro, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/Synthio) / [Test-to-Audio Demo](https://huggingface.co/spaces/sonalkum/synthio-stable-audio-open)    
+[Code](https://github.com/Sreyan88/Synthio) / [Text-to-Audio Demo](https://huggingface.co/spaces/sonalkum/synthio-stable-audio-open) / [Slides](https://docs.google.com/presentation/d/1r_McrwQ1xHsRmEaaWOj_QFYWI9MCPMyL/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true)        
 **ICLR 2025**  
 
 * [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](https://arxiv.org/abs/2409.09213)    
@@ -61,6 +61,7 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 
 * [ProSE: Diffusion Priors for Speech Enhancement](https://arxiv.org/abs/2410.15062)   
 Sonal Kumar, *Sreyan Ghosh*, Utkarsh Tyagi, Anton Jeran Ratnarajah, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha    
+[Code](https://github.com/sonalkum/ProSE) / [Slides](https://docs.google.com/presentation/d/1MCuLsWBf5GuLc-sTq--y9Rzq0dVVX48K/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1xS7X0sWvPvpjKsU4fwa8f7zdPHFB2Agd/view?usp=sharing)    
 **NAACL 2025**  <span style="color:red">**(Oral)**</span> 
 
 * [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](https://arxiv.org/abs/2410.15062)   
@@ -78,7 +79,7 @@ Ashish Seth\*, Ramaneswaran Selvakumar, S Sakshi, Sonal Kumar, *Sreyan Ghosh*\*,
 
 * [LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition](https://arxiv.org/abs/2406.04432)  
 *Sreyan Ghosh*\*, Sonal Kumar, Ashish Seth, Purva Chiniya, Utkarsh Tyagi, Ramani Duraiswami, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/LipGER)  
+[Code](https://github.com/Sreyan88/LipGER) / [Slides](https://docs.google.com/presentation/d/1ifZ7CMN2pp16artUd_zH48LANp1eQkLd/edit?usp=sharing&ouid=111957209895724121113&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1qZcK-M63QStWiTMgmqu_UZ0qDIdhDUYk/view?usp=sharing)          
 **InterSpeech 2024**  <span style="color:red">**(Oral)**</span>  
 
 * [AV-RIR: Audio-Visual Room Impulse Response Estimation](https://arxiv.org/abs/2312.00834)  
@@ -164,9 +165,9 @@ Hemant Yadav, *Sreyan Ghosh*, Yi Yu, Rajiv Ratn Shah
 
 ### Natural Language Processing (Chronological)  
 
-* [Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs](https://arxiv.org/abs/2405.15683v2)    
+* [Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs](https://openreview.net/forum?id=3PRvlT8b1R)    
 *Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/VDGD)  / [Summary Tweet](https://x.com/SreyanG/status/1795113972212867525)  
+[Project](https://sreyan88.github.io/VDGD/)  / [Slides](https://docs.google.com/presentation/d/1dvCKLu_WBvKQFnvx7ZigtdPivK7o1RGn/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Summary Tweet](https://x.com/SreyanG/status/1795113972212867525)  
 **ICLR 2025**  
 
 * [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://arxiv.org/abs/2406.04286)  
