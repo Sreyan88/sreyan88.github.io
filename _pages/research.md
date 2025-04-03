@@ -66,7 +66,7 @@ Sonal Kumar, *Sreyan Ghosh*, Utkarsh Tyagi, Anton Jeran Ratnarajah, Chandra Kira
 
 * [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](https://arxiv.org/abs/2410.15062)   
 Ashish Seth, Ramaneswaran Selvakumar, Sonal Kumar, *Sreyan Ghosh*, Dinesh Manocha  
-[Code](https://github.com/cs20s030/PAT) / [Talk](https://drive.google.com/file/d/1Zeg7ykWMKUkivYW3cbCssqMPOE7QUxw1/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1uNSexf9RxBjsArIly_dUsy7tXdg8b5tg/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true)
+[Code](https://github.com/cs20s030/PAT) / [Talk](https://drive.google.com/file/d/1Zeg7ykWMKUkivYW3cbCssqMPOE7QUxw1/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1uNSexf9RxBjsArIly_dUsy7tXdg8b5tg/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true)    
 **NAACL 2025**  <span style="color:red">**(Oral)**</span> 
 
 * [Do Audio-Language Models Understand Linguistic Variations?](https://arxiv.org/abs/2410.16505v1)     
