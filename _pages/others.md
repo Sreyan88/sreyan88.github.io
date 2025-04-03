@@ -37,7 +37,7 @@ Served as a reviewer at:
 
 Co-organized:  
 * [Workshop on Speech and Audio Language Models (SALMA)](https://salmaworkshop.github.io/), co-located with [ICASSP 2025](https://2025.ieeeicassp.org/)
-* Audio Question Answering Task at [DCASE 2025](https://dcase.community/challenge2025/index)    
+* Audio Question Answering Task at [DCASE 2025](https://dcase.community/challenge2025/task-audio-question-answering)    
 * [Advancing Expert-Level Reasoning and Understanding in Large Audio Language Models Task](https://jsalt2025.fit.vut.cz/summer-workshop#advancing-expert-level-reasoning-and-understanding-in-large-audio-models) at [JSALT 2025](https://jsalt2025.fit.vut.cz/)    
 
 ### **Conference Travel**  

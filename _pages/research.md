@@ -46,7 +46,7 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 * [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmarks](https://www.arxiv.org/abs/2410.19168)   
 S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, *Sreyan Ghosh*\*, Dinesh Manocha  
-[Project Website](https://sakshi113.github.io/mmau_homepage/)  
+[Project Website](https://sakshi113.github.io/mmau_homepage/) / [Slides](https://docs.google.com/presentation/d/13Md5BBDs_z5sNp-JB0Cuf4IRDXPwAZGq/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1BdWmtTv2KvSE7sC-kDdUshX98QMBpgo2/view?usp=sharing)    
 **ICLR 2025** <span style="color:red">**(Spotlight)**</span>  
 
 * [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](https://arxiv.org/abs/2410.02056)    
@@ -66,6 +66,7 @@ Sonal Kumar, *Sreyan Ghosh*, Utkarsh Tyagi, Anton Jeran Ratnarajah, Chandra Kira
 
 * [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](https://arxiv.org/abs/2410.15062)   
 Ashish Seth, Ramaneswaran Selvakumar, Sonal Kumar, *Sreyan Ghosh*, Dinesh Manocha  
+[Code](https://github.com/cs20s030/PAT) / [Talk](https://drive.google.com/file/d/1Zeg7ykWMKUkivYW3cbCssqMPOE7QUxw1/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1uNSexf9RxBjsArIly_dUsy7tXdg8b5tg/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true)
 **NAACL 2025**  <span style="color:red">**(Oral)**</span> 
 
 * [Do Audio-Language Models Understand Linguistic Variations?](https://arxiv.org/abs/2410.16505v1)     
@@ -177,22 +178,22 @@ Hemant Yadav, *Sreyan Ghosh*, Yi Yu, Rajiv Ratn Shah
 
 * [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
 *Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/ASPIRE)  / [Poster](../assets/ACL-ASPIRE.pdf)  
+[Code](https://github.com/Sreyan88/ASPIRE)  / [Slides](https://docs.google.com/presentation/d/1x7mI9lOF2dGQx1OQe6nk9a53clhTxeD_/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1QCkH1MwYthlVtoRtGUTRZJ19YGBZvDZy/view?usp=sharing) / [Poster](../assets/ACL-ASPIRE.pdf)  
 **ACL 2024 Findings**  
 
 * [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
 *Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Ramaneswaran S, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
-[Summary Tweet](https://x.com/SreyanG/status/1755957189506638125) / [Poster](../assets/ICML_poster_closer.pdf)  / [Video](https://www.youtube.com/watch?v=sW_G1FQ86pQ)  
+[Summary Tweet](https://x.com/SreyanG/status/1755957189506638125) / [Poster](../assets/ICML_poster_closer.pdf)  / [Slides](https://docs.google.com/presentation/d/1ae1f5Mqby_Nsxyvv9QzF2-nnrpA-1-Fb/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Video](https://www.youtube.com/watch?v=sW_G1FQ86pQ)   
 **ICML 2024**  
 
 * [Do Vision-Language Models Understand Compound Nouns?](https://arxiv.org/abs/2404.00419)  
 Sonal Kumar\*, *Sreyan Ghosh*\*, S Sakshi, Utkarsh Tyagi, Dinesh Manocha    
-[Code](https://github.com/sonalkum/Compun) / [Poster](../assets/compun_naacl_poster.pdf)    
+[Code](https://github.com/sonalkum/Compun) / [Slides](https://docs.google.com/presentation/d/1HT88DhFeA3fwTW0MGCkBA_ZaJxlQqmx0/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1w2ytAD5zK9s8fmnvhvceEgWO_g19eBrF/view?usp=sharing) / [Poster](../assets/compun_naacl_poster.pdf)    
 **NAACL 2024**  
 
 * [CoDa: Constrained Generation based Data Augmentation for Low-Resource NLP](https://arxiv.org/abs/2404.00415)  
 Chandra Kiran Reddy Evuru\*, *Sreyan Ghosh*\*, Sonal Kumar, Ramaneswaran S, Utkarsh Tyagi, Dinesh Manocha   
-[Code](https://github.com/Sreyan88/CoDa) / [Poster](../assets/coda_poster.pdf)  
+[Code](https://github.com/Sreyan88/CoDa) / [Talk](https://drive.google.com/file/d/1WtgRNjle5W2GwImKjm-ZibZXY8xC9o6B/view?usp=sharing) / [Poster](../assets/coda_poster.pdf)  
 **NAACL 2024 Findings**  
 
 * [DALE: Generative Data Augmentation for Low-Resource Legal NLP](https://arxiv.org/abs/2310.15799)    
