@@ -8,6 +8,8 @@ In this page I list down some useful resources including slides for my talks/pre
 
 ### **Links to some useful resources**  
 
+[Slides Link](https://docs.google.com/presentation/d/1v6hsiUAVchvhOZ8-T9v-WGOxtLFZgNN7/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) to my opening talk at SALMA 2025 Workshop co-located with ICASSP 2025.       
+
 [Slides Link](https://docs.google.com/presentation/d/1fEzDKrx4m-P12Jjp10nEtlk8bWi6WShw/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) to my Ph.D. proposal.  
 
 [Link](https://docs.google.com/presentation/d/1KzmSR5CKSyYPqQizPDTOQFsaELXg6JHx/edit?usp=sharing&ouid=111957209895724121113&rtpof=true&sd=true) to slides for my (invited) presentation at the ACM chapter at UMD.  

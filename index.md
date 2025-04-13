@@ -18,9 +18,7 @@ I maintain a list of my publications and research implementations under the [Res
 CV / Resume: [link]({{ site.url }}/assets/Sreyan_Ghosh_CV.pdf)  
 Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:sreyang@umd.edu)  
 
-📣 Excited to be co-organizing the [Workshop on Speech and Audio Language Models (SALMA)](https://salmaworkshop.github.io/) at [ICASSP 2025](https://2025.ieeeicassp.org/), in collaboration with Microsoft and Adobe. 📣  
 📣 Excited to launch the [Audio Question Answering task at DCASE 2025](https://dcase.community/challenge2025/task-audio-question-answering), in collaboration with Adobe and NVIDIA. 📣  
-📣 Excited to be organizing the [task on advancing expert reaosning in LALMs at JSALT 2025](https://jsalt2025.fit.vut.cz/summer-workshop#advancing-expert-level-reasoning-and-understanding-in-large-audio-models). 📣  
 
 <!-- #### I am always open to collaborations! Please fill out [this](https://docs.google.com/forms/d/1kQRJekonn8YglxIPH9OPcJCuI7NQK-E1wAywNAsSMoM/) form here and I would reach out if I have a project aligned with your interests. Thank You! -->
 

@@ -56,7 +56,7 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 
 * [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](https://arxiv.org/abs/2409.09213)    
 *Sreyan Ghosh*, Sonal Kumar, Chandra Kiran Reddy Evuru, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha   
-[Code](https://github.com/Sreyan88/ReCLAP)  
+[Code](https://github.com/Sreyan88/ReCLAP) / [Slides](https://docs.google.com/presentation/d/19C9tq0J4sEuz0X43HbMTAc_o_6dP1KQi/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true)    
 **ICASSP 2025**  <span style="color:red">**(Oral)**</span> 
 
 * [ProSE: Diffusion Priors for Speech Enhancement](https://arxiv.org/abs/2410.15062)   
