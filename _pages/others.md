@@ -42,6 +42,15 @@ Co-organized:
 * Audio Question Answering Task at [DCASE 2025](https://dcase.community/challenge2025/task-audio-question-answering)    
 * [Advancing Expert-Level Reasoning and Understanding in Large Audio Language Models Task](https://jsalt2025.fit.vut.cz/summer-workshop#advancing-expert-level-reasoning-and-understanding-in-large-audio-models) at [JSALT 2025](https://jsalt2025.fit.vut.cz/)    
 
+### **Achievements**  
+
+* Winner of NVIDIA Graduate Fellowship 2025 (10/600)
+* Winner of Apple Graduate Fellowship 2025 (~20/1000)
+* Outstanding Graduate Assistant Award by UMD for the academic year 2023
+* Recognised by Cisco CX CTO and higher management on multiple occasions for my research and innovation initiatives
+* Awarded the Graham Bell Award for being one of the most competitive undergraduates to have graduated in the year 2020
+* Winner of Cisco Collab Hacks 2020
+
 ### **Conference Travel**  
 
 * August 2023: Dublin, Ireland; InterSpeech 2023   
