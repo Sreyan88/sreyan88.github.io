@@ -18,15 +18,6 @@ I am always open to collaborations, and please feel free to drop me a mail!
 
 ### Pre-prints  
 
-* [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
-*Sreyan Ghosh*, Zhifeng Kong, Sonal Kumar, S Sakshi, Jaehyeon Kim, Wei Ping, Rafael Valle, Dinesh Manocha, Bryan Catanzaro    
-[Project Page](https://research.nvidia.com/labs/adlr/AF2/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-2) / [Tweet](https://x.com/tu7uruu/status/1899558676186452411?s=61) / [Coverage 1](https://artgor.medium.com/paper-review-audio-flamingo-2-an-audio-language-model-with-long-audio-understanding-and-expert-6f34f7b2c07c) / [Coverage 2](https://www.linkedin.com/pulse/audio-flamingo-2-audio-language-model-long-audio-expert-vlad-bogolin-bpble/?trackingId=MiGggYq5SvC%2BAln%2Fsou%2Bag%3D%3D)         
-**Pre-print**  
-
-* [*Failing Forward*: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](https://arxiv.org/abs/2410.13198)   
-*Sreyan Ghosh*, Mohammad Sadegh Rasooli, Michael Levit, Peidong Wang, Jian Xue, Dinesh Manocha, Jinyu Li  
-**Pre-print**  
-
 * [Deep Clustering for learning general-purpose Audio Representations](https://arxiv.org/pdf/2110.08895.pdf)  
 *Sreyan Ghosh*\*, Ashish Seth\*, Sandesh Katta\*, S. Umesh  
 [Code](https://github.com/Sreyan88/LAPE)  
@@ -39,6 +30,11 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 ### Audio and Spoken Language Processing (Chronological)  
 
+* [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
+*Sreyan Ghosh*, Zhifeng Kong, Sonal Kumar, S Sakshi, Jaehyeon Kim, Wei Ping, Rafael Valle, Dinesh Manocha, Bryan Catanzaro    
+[Project Page](https://research.nvidia.com/labs/adlr/AF2/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-2) / [Tweet](https://x.com/tu7uruu/status/1899558676186452411?s=61) / [Coverage 1](https://artgor.medium.com/paper-review-audio-flamingo-2-an-audio-language-model-with-long-audio-understanding-and-expert-6f34f7b2c07c) / [Coverage 2](https://www.linkedin.com/pulse/audio-flamingo-2-audio-language-model-long-audio-expert-vlad-bogolin-bpble/?trackingId=MiGggYq5SvC%2BAln%2Fsou%2Bag%3D%3D) / [Coverage 3](https://www.cs.umd.edu/article/2025/04/exploring-audio-ai-cs-phd-student-sreyan-ghosh)         
+**ICML 2025**    
+
 * [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
 *Sreyan Ghosh*\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
 [Project Website](https://sreyan88.github.io/gamaaudio/)  / [Slides](https://docs.google.com/presentation/d/1d_vsKmS4sZOS4SfUPp3keqg1fW81CmT3/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
@@ -48,6 +44,10 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, *Sreyan Ghosh*\*, Dinesh Manocha  
 [Project Website](https://sakshi113.github.io/mmau_homepage/) / [Slides](https://docs.google.com/presentation/d/13Md5BBDs_z5sNp-JB0Cuf4IRDXPwAZGq/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1BdWmtTv2KvSE7sC-kDdUshX98QMBpgo2/view?usp=sharing)    
 **ICLR 2025** <span style="color:red">**(Spotlight)**</span>  
+
+* [*Failing Forward*: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](https://arxiv.org/abs/2410.13198)   
+*Sreyan Ghosh*, Mohammad Sadegh Rasooli, Michael Levit, Peidong Wang, Jian Xue, Dinesh Manocha, Jinyu Li  
+**ACL 2025 (Findings)**  
 
 * [Synthio: Augmenting Small-Scale Audio Classification Datasets with Synthetic Data](https://arxiv.org/abs/2410.02056)    
 *Sreyan Ghosh*,  Sonal Kumar, Zhifeng Kong, Rafael Valle, Bryan Catanzaro, Dinesh Manocha  

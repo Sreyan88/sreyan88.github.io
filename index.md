@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/IMG_7210.jpg">
 
-I am Sreyan Ghosh, a 3rd-year Computer Science Ph.D. student at the University of Maryland, College Park (UMD). I conduct my research in the [Gamma Lab](https://gamma.umd.edu/) under the mentorship of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en). My work focuses on advancing *audio processing*—spanning speech, sounds, and music. I aim to tackle challenges such as developing data- and compute-efficient audio models, improving audio representation learning, and enhancing audio perception and reasoning in AI systems. My research is proudly supported by the [NVIDIA Graduate Fellowship](http://go.umd.edu/Ghosh).    
+I am Sreyan Ghosh, a 4th-year Computer Science Ph.D. student at the University of Maryland, College Park (UMD). I conduct my research in the [Gamma Lab](https://gamma.umd.edu/) under the mentorship of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en). My work focuses on advancing *audio processing*—spanning speech, sounds, and music. I aim to tackle challenges such as developing data- and compute-efficient audio models, improving audio representation learning, and enhancing audio perception and reasoning in AI systems. My research is proudly supported by the [NVIDIA Graduate Fellowship](http://go.umd.edu/Ghosh).    
 
 Previously, I served as a Deep Learning Solutions Architect at [Nvidia, Bangalore](https://www.nvidia.com/en-in/). My primary work at Nvidia involved building and delivering deep learning based NLP solutions to Nvidia's customers and partners. Previous to that, I served as a Software Engineer II at [Cisco Systems, Bangalore](http://cisco.com). My primary work at Cisco involved building network assurance software systems for Cisco's Service Provider customers.  
 
@@ -28,6 +28,8 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>May 2025:</b></td><td>Failing Forward accepted to ACL 2025 (Findings)!</td></tr>
+  <tr><td><b>May 2025:</b></td><td>Audio Flamingo 2 accepted to ICML 2025!</td></tr>
   <tr><td><b>Mar 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2503.03983" target="_blank">Audio Flamingo 2</a>, a SOTA audio-language model outperforming most other frontier models on audio understanding and reasoning tasks. Check out the <a href="https://huggingface.co/spaces/nvidia/audio-flamingo-2" target="_blank">demo</a> here!</td></tr>
   <tr><td><b>Jan 2025:</b></td><td><a href="https://openreview.net/forum?id=3PRvlT8b1R" target="_blank">VDGD</a>, <a href="https://openreview.net/forum?id=TeVAZXr3yv" target="_blank">MMAU</a> (Spotlight) and <a href="https://openreview.net/forum?id=bR1J7SpzrD" target="_blank">Synthio</a> have been accepted to ICLR 2025! More details under the Research section.</td></tr>
   <tr><td><b>Jan 2025:</b></td><td><a href="https://arxiv.org/abs/2410.15062" target="_blank">PAT</a>, <a href="https://arxiv.org/pdf/2410.16505" target="_blank">RobustCLAP</a> and ProSE have been accepted to NAACL 2025! More details under the Research section.</td></tr>
