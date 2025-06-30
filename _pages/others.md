@@ -65,3 +65,5 @@ Co-organized:
 * April 2025: Hyderabad, India; ICASSP 2025  
 * April 2025: Singapore; ICLR 2025  
 * May 2025: Albuquerque, New Mexico, USA; NAACL 2025  
+* June 2025: Brno, Czech Republic; JSALT 2025  
+* July 2025: Vancouver, British Columbia, Canada; ICML 2025  
