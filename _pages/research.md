@@ -30,6 +30,11 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 
 ### Audio and Spoken Language Processing (Chronological)  
 
+* [Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models](https://arxiv.org/abs/2507.08128)   
+Arushi Goel, *Sreyan Ghosh*, Jaehyeon Kim, Sonal Kumar, Zhifeng Kong, Sang-gil Lee, Chao-Han Huck Yang, Ramani Duraiswami, Dinesh Manocha, Rafael Valle, Bryan Catanzaro        
+[Project Page](https://research.nvidia.com/labs/adlr/AF3/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-3) / [Checkpoints and Data](https://huggingface.co/nvidia/audio-flamingo-3) / [Tweet](https://x.com/NVIDIAAIDev/status/1946269274030461143) / [Coverage](https://www.marktechpost.com/2025/07/15/nvidia-just-released-audio-flamingo-3-an-open-source-model-advancing-audio-general-intelligence/)   
+**Under Review** 
+
 * [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Zhifeng Kong, Sonal Kumar, S Sakshi, Jaehyeon Kim, Wei Ping, Rafael Valle, Dinesh Manocha, Bryan Catanzaro    
 [Project Page](https://research.nvidia.com/labs/adlr/AF2/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-2) / [Tweet](https://x.com/tu7uruu/status/1899558676186452411?s=61) / [Coverage 1](https://artgor.medium.com/paper-review-audio-flamingo-2-an-audio-language-model-with-long-audio-understanding-and-expert-6f34f7b2c07c) / [Coverage 2](https://www.linkedin.com/pulse/audio-flamingo-2-audio-language-model-long-audio-expert-vlad-bogolin-bpble/?trackingId=MiGggYq5SvC%2BAln%2Fsou%2Bag%3D%3D) / [Coverage 3](https://www.cs.umd.edu/article/2025/04/exploring-audio-ai-cs-phd-student-sreyan-ghosh)         

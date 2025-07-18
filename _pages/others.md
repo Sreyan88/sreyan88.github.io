@@ -29,7 +29,7 @@ Served as a reviewer at:
 * ARR 2023 - Present
 * EMNLP 2023, 2024  
 * NAACL 2024, 2025    
-* NeurIPS 2024  
+* NeurIPS 2024, 2025      
 * ICLR 2024, 2025  
 * ICML 2025  
 * ECCV 2024  
