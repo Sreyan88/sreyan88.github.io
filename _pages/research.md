@@ -4,11 +4,11 @@ title: Research
 permalink: /research/
 order: 5
 ---
-My research focuses on advancing *audio processing*—spanning speech, sounds, and music. I aim to tackle challenges such as developing data- and compute-efficient audio models, improving audio representation learning, and improving audio perception and reasoning in AI systems. In my early work, I explored resource-efficient deep learning, devising methods to train models for scenarios constrained by labeled/unlabeled data or compute. This includes synthetic data augmentation, self-supervised learning, etc to enable effective downstream learning.  
+My research focuses on advancing *multimodal intelligence*, with a core emphasis on audio—spanning speech, sounds, and music. I work on challenges such as developing data- and compute-efficient models, improving multimodal representation learning, and enhancing perception and reasoning in AI systems.
 
-Currently, I am working on improving audio perception and reasoning in Large Language Models through better architectures, audio representations, and scalable synthetic data. My publications span diverse tasks within Speech, Language, and Audio Processing, including NLU, room impulse response (RIR) estimation, audio generation, compositional reasoning, Large Audio Language Models (LALMs) and audio captioning.  
+In my early work, I explored resource-efficient deep learning, proposing methods for training models under constraints of limited labeled/unlabeled data and compute. This included techniques such as synthetic data augmentation and self-supervised learning to enable more effective downstream learning.
 
-I am always open to collaborations, and please feel free to drop me a mail!  
+Currently, my research is directed toward building *omni-intelligence*, developing Large Multimodal Models (LMMs) that seamlessly integrate audio, language, vision, and beyond. I focus on advancing architectures, scalable synthetic data pipelines, and cross-modal reasoning to move toward more general-purpose AI systems. My publications span diverse areas in multimodal AI, including natural language understanding, audio understanding, audio generation, compositional reasoning, Large Audio-Language Models (LALMs), and multimodal pre-training and fine-tuning.
 
 <!-- #### I am always open to collaborations! Please fill out [this](https://docs.google.com/forms/d/1kQRJekonn8YglxIPH9OPcJCuI7NQK-E1wAywNAsSMoM/) form here and I would reach out if I have a project aligned with your interests. Thank You! -->
 

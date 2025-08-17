@@ -36,6 +36,8 @@ Served as a reviewer at:
 * ICCV 2025  
 * CVPR 2025  
 * SIGIR 2025  
+* WACV 2026    
+* WSDM 2026    
 
 Co-organized:  
 * [Workshop on Speech and Audio Language Models (SALMA)](https://salmaworkshop.github.io/), co-located with [ICASSP 2025](https://2025.ieeeicassp.org/)
