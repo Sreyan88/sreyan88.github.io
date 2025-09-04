@@ -28,7 +28,8 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>July 2025:</b></td><td>We releases <a href="https://arxiv.org/abs/2507.08128" target="_blank">Audio Flamingo 3</a>, the most open, capable and powerful large audio-language model yet! More details under the <a href="https://sreyan88.github.io/research/" target="_blank">Research</a> section.</td></tr>
+  <tr><td><b>August 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2508.13992" target="_blank">MMAU-Pro</a>, a challenging and comprehensive benchmark for evaluating audio intelligence! More details under the <a href="https://sreyan88.github.io/research/" target="_blank">Research</a> section.</td></tr>
+  <tr><td><b>July 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2507.08128" target="_blank">Audio Flamingo 3</a>, the most open, capable and powerful large audio-language model yet! More details under the <a href="https://sreyan88.github.io/research/" target="_blank">Research</a> section.</td></tr>
   <tr><td><b>May 2025:</b></td><td>Failing Forward accepted to ACL 2025 (Findings)!</td></tr>
   <tr><td><b>May 2025:</b></td><td>Audio Flamingo 2 accepted to ICML 2025!</td></tr>
   <tr><td><b>Mar 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2503.03983" target="_blank">Audio Flamingo 2</a>, a SOTA audio-language model outperforming most other frontier models on audio understanding and reasoning tasks. Check out the <a href="https://huggingface.co/spaces/nvidia/audio-flamingo-2" target="_blank">demo</a> here!</td></tr>

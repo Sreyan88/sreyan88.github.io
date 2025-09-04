@@ -31,19 +31,24 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 ### Audio and Spoken Language Processing (Chronological)  
 
 * [Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models](https://arxiv.org/abs/2507.08128)   
-Arushi Goel*, Sreyan Ghosh*, Jaehyeon Kim, Sonal Kumar, Zhifeng Kong, Sang-gil Lee, Chao-Han Huck Yang, Ramani Duraiswami, Dinesh Manocha, Rafael Valle, Bryan Catanzaro        
-[Project Page](https://research.nvidia.com/labs/adlr/AF3/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-3) / [Checkpoints and Data](https://huggingface.co/nvidia/audio-flamingo-3) / [Video Demo](https://youtu.be/LpTi-9s1b3Y) / [Tweet](https://x.com/NVIDIAAIDev/status/1946269274030461143) / [Coverage](https://www.marktechpost.com/2025/07/15/nvidia-just-released-audio-flamingo-3-an-open-source-model-advancing-audio-general-intelligence/)   
+Sreyan Ghosh*, Arushi Goel*, Jaehyeon Kim, Sonal Kumar, Zhifeng Kong, Sang-gil Lee, Chao-Han Huck Yang, Ramani Duraiswami, Dinesh Manocha, Rafael Valle, Bryan Catanzaro        
+[Project Page](https://research.nvidia.com/labs/adlr/AF3/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-3) / [Checkpoints and Data](https://huggingface.co/nvidia/audio-flamingo-3) / [Video Demo](https://youtu.be/LpTi-9s1b3Y) / [Tweet](https://x.com/NVIDIAAIDev/status/1946269274030461143) / [Slides](https://docs.google.com/presentation/d/1G_br4w7C-Hi3h7r_1CBure9EFS68R4BW/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Coverage](https://www.marktechpost.com/2025/07/15/nvidia-just-released-audio-flamingo-3-an-open-source-model-advancing-audio-general-intelligence/)   
 **Under Review** 
 
 * [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Zhifeng Kong, Sonal Kumar, S Sakshi, Jaehyeon Kim, Wei Ping, Rafael Valle, Dinesh Manocha, Bryan Catanzaro    
-[Project Page](https://research.nvidia.com/labs/adlr/AF2/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-2) / [Tweet](https://x.com/tu7uruu/status/1899558676186452411?s=61) / [Coverage 1](https://artgor.medium.com/paper-review-audio-flamingo-2-an-audio-language-model-with-long-audio-understanding-and-expert-6f34f7b2c07c) / [Coverage 2](https://www.linkedin.com/pulse/audio-flamingo-2-audio-language-model-long-audio-expert-vlad-bogolin-bpble/?trackingId=MiGggYq5SvC%2BAln%2Fsou%2Bag%3D%3D) / [Coverage 3](https://www.cs.umd.edu/article/2025/04/exploring-audio-ai-cs-phd-student-sreyan-ghosh)         
+[Project Page](https://research.nvidia.com/labs/adlr/AF2/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-2) / [Tweet](https://x.com/tu7uruu/status/1899558676186452411?s=61) / [Slides](https://docs.google.com/presentation/d/1G_br4w7C-Hi3h7r_1CBure9EFS68R4BW/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Poster](../assets/AF2-ICML.pdf) / [Coverage 1](https://artgor.medium.com/paper-review-audio-flamingo-2-an-audio-language-model-with-long-audio-understanding-and-expert-6f34f7b2c07c) / [Coverage 2](https://www.linkedin.com/pulse/audio-flamingo-2-audio-language-model-long-audio-expert-vlad-bogolin-bpble/?trackingId=MiGggYq5SvC%2BAln%2Fsou%2Bag%3D%3D) / [Coverage 3](https://www.cs.umd.edu/article/2025/04/exploring-audio-ai-cs-phd-student-sreyan-ghosh)         
 **ICML 2025**    
 
 * [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
 *Sreyan Ghosh*\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
 [Project Website](https://sreyan88.github.io/gamaaudio/)  / [Slides](https://docs.google.com/presentation/d/1d_vsKmS4sZOS4SfUPp3keqg1fW81CmT3/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
 **EMNLP 2024** <span style="color:red">**(Oral)**</span>  
+
+* [MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic Evaluation of Audio General Intelligence](https://arxiv.org/abs/2508.13992)   
+Sonal Kumar et al., *Sreyan Ghosh*, Ramani Duraiswami  
+[Project Website](https://sonalkum.github.io/mmau-pro/)       
+**Under Review**  
 
 * [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmarks](https://www.arxiv.org/abs/2410.19168)   
 S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, *Sreyan Ghosh*\*, Dinesh Manocha  
