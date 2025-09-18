@@ -33,7 +33,7 @@ Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh
 * [Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models](https://arxiv.org/abs/2507.08128)   
 Sreyan Ghosh*, Arushi Goel*, Jaehyeon Kim, Sonal Kumar, Zhifeng Kong, Sang-gil Lee, Chao-Han Huck Yang, Ramani Duraiswami, Dinesh Manocha, Rafael Valle, Bryan Catanzaro        
 [Project Page](https://research.nvidia.com/labs/adlr/AF3/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-3) / [Checkpoints and Data](https://huggingface.co/nvidia/audio-flamingo-3) / [Video Demo](https://youtu.be/LpTi-9s1b3Y) / [Tweet](https://x.com/NVIDIAAIDev/status/1946269274030461143) / [Slides](https://docs.google.com/presentation/d/1G_br4w7C-Hi3h7r_1CBure9EFS68R4BW/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Coverage](https://www.marktechpost.com/2025/07/15/nvidia-just-released-audio-flamingo-3-an-open-source-model-advancing-audio-general-intelligence/)   
-**Under Review** 
+**NeurIPS 2025** <span style="color:red">**(Spotlight)**</span>
 
 * [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Zhifeng Kong, Sonal Kumar, S Sakshi, Jaehyeon Kim, Wei Ping, Rafael Valle, Dinesh Manocha, Bryan Catanzaro    

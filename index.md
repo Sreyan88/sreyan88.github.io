@@ -28,6 +28,7 @@ Email ID: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mail
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>September 2025:</b></td><td>Audio Flamingo 3 accepted to NeurIPS 2025 as a spotlight!</td></tr>
   <tr><td><b>August 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2508.13992" target="_blank">MMAU-Pro</a>, a challenging and comprehensive benchmark for evaluating audio intelligence! More details under the <a href="https://sreyan88.github.io/research/" target="_blank">Research</a> section.</td></tr>
   <tr><td><b>July 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2507.08128" target="_blank">Audio Flamingo 3</a>, the most open, capable and powerful large audio-language model yet! More details under the <a href="https://sreyan88.github.io/research/" target="_blank">Research</a> section.</td></tr>
   <tr><td><b>May 2025:</b></td><td>Failing Forward accepted to ACL 2025 (Findings)!</td></tr>
