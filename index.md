@@ -7,6 +7,8 @@ layout: page
 
 I am Sreyan Ghosh, a 4th-year Computer Science Ph.D. student at the University of Maryland, College Park (UMD). I conduct my research in the [Gamma Lab](https://gamma.umd.edu/) under the mentorship of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en). My research focuses on advancing *multimodal intelligence*, with an emphasis on audio—spanning speech, sounds, and music. I work on challenges such as building data- and compute-efficient audio models, improving audio representation learning, generating synthetic data, and enhancing perception and reasoning in AI systems. My research is proudly supported by the [NVIDIA Graduate Fellowship](http://go.umd.edu/Ghosh).    
 
+I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I am always open to collaborations, and please feel free to drop me a mail!    
+
 [Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en) | [CV]({{ site.url }}/assets/Sreyan_Ghosh_CV.pdf)  
 Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:sreyang@umd.edu)  
 
@@ -20,8 +22,8 @@ Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>September 2025:</b></td><td>Audio Flamingo 3 accepted to NeurIPS 2025 as a spotlight!</td></tr>
-  <tr><td><b>August 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2508.13992" target="_blank">MMAU-Pro</a>, a challenging and comprehensive benchmark for evaluating audio intelligence! More details under the <a href="https://sreyan88.github.io/research/" target="_blank">Research</a> section.</td></tr>
+  <tr><td><b>Sep 2025:</b></td><td>Audio Flamingo 3 accepted to NeurIPS 2025 as a spotlight!</td></tr>
+  <tr><td><b>Aug 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2508.13992" target="_blank">MMAU-Pro</a>, a challenging and comprehensive benchmark for evaluating audio intelligence! More details under the <a href="https://sreyan88.github.io/research/" target="_blank">Research</a> section.</td></tr>
   <tr><td><b>July 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2507.08128" target="_blank">Audio Flamingo 3</a>, the most open, capable and powerful large audio-language model yet! More details under the <a href="https://sreyan88.github.io/research/" target="_blank">Research</a> section.</td></tr>
   <tr><td><b>May 2025:</b></td><td>Failing Forward accepted to ACL 2025 (Findings)!</td></tr>
   <tr><td><b>May 2025:</b></td><td>Audio Flamingo 2 accepted to ICML 2025!</td></tr>
