@@ -13,7 +13,7 @@ Currently, my research is directed toward building *omni-intelligence*, developi
 <!-- #### I am always open to collaborations! Please fill out [this](https://docs.google.com/forms/d/1kQRJekonn8YglxIPH9OPcJCuI7NQK-E1wAywNAsSMoM/) form here and I would reach out if I have a project aligned with your interests. Thank You! -->
 
 
-[Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en) [Semantic Scholar](https://www.semanticscholar.org/author/Sreyan-Ghosh/3488077)  
+[Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Sreyan-Ghosh/3488077)  
 
 
 ### Pre-prints  
