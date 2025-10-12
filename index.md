@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/IMG_7210.jpg">
+<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/sreyan_small.png">
 
 I am Sreyan Ghosh, a 4th-year Computer Science Ph.D. student at the University of Maryland, College Park (UMD). I conduct my research in the [Gamma Lab](https://gamma.umd.edu/) under the mentorship of [Prof. Dinesh Manocha](https://scholar.google.com/citations?user=X08l_4IAAAAJ&hl=en). My research focuses on advancing *multimodal intelligence*, with an emphasis on audio—spanning speech, sounds, and music. I work on challenges such as building data- and compute-efficient audio models, improving audio representation learning, generating synthetic data, and enhancing perception and reasoning in AI systems. My research is proudly supported by the [NVIDIA Graduate Fellowship](http://go.umd.edu/Ghosh).    
 
