@@ -15,8 +15,11 @@ Currently, my research is directed toward building *omni-intelligence*, developi
 
 [Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Sreyan-Ghosh/3488077)  
 
+-----
 
 ## Selected Works
+
+-----
 
 ### Audio Processing (Speech, Sound & Music)  
 
@@ -68,6 +71,7 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 [Code](https://github.com/Sreyan88/ABEX)  /  [Poster](../assets/ACL-ABEX.pdf)  
 **ACL 2024** 
 
+-----
 
 ## Other Papers
 
