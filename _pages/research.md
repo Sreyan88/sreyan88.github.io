@@ -16,24 +16,19 @@ Currently, my research is directed toward building *omni-intelligence*, developi
 [Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en) | [Semantic Scholar](https://www.semanticscholar.org/author/Sreyan-Ghosh/3488077)  
 
 
-### Pre-prints  
+## Selected Works
 
-* [Deep Clustering for learning general-purpose Audio Representations](https://arxiv.org/pdf/2110.08895.pdf)  
-*Sreyan Ghosh*\*, Ashish Seth\*, Sandesh Katta\*, S. Umesh  
-[Code](https://github.com/Sreyan88/LAPE)  
-**Pre-print**  
-
-* [Analyzing the factors affecting usefulness of Self-Supervised Pre-trained Representations for Speech Recognition](http://arxiv.org/abs/2203.16973)  
-Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh  
-**Pre-print**  
-
-
-### Audio and Spoken Language Processing (Chronological)  
+### Audio Processing (Speech, Sound & Music)  
 
 * [Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models](https://arxiv.org/abs/2507.08128)   
 Sreyan Ghosh*, Arushi Goel*, Jaehyeon Kim, Sonal Kumar, Zhifeng Kong, Sang-gil Lee, Chao-Han Huck Yang, Ramani Duraiswami, Dinesh Manocha, Rafael Valle, Bryan Catanzaro        
 [Project Page](https://research.nvidia.com/labs/adlr/AF3/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-3) / [Checkpoints and Data](https://huggingface.co/nvidia/audio-flamingo-3) / [Video Demo](https://youtu.be/LpTi-9s1b3Y) / [Tweet](https://x.com/NVIDIAAIDev/status/1946269274030461143) / [Slides](https://docs.google.com/presentation/d/1G_br4w7C-Hi3h7r_1CBure9EFS68R4BW/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Coverage](https://www.marktechpost.com/2025/07/15/nvidia-just-released-audio-flamingo-3-an-open-source-model-advancing-audio-general-intelligence/)   
 **NeurIPS 2025** <span style="color:red">**(Spotlight)**</span>
+
+* [Music Flamingo: Scaling Music Understanding in Audio Language Models](https://arxiv.org/abs/2511.10289)   
+Sreyan Ghosh*, Arushi Goel*, Lasha Koroshinadze, Sang-gil Lee, Zhifeng Kong, Joao Felipe Santos, Ramani Duraiswami, Dinesh Manocha, Wei Ping, Mohammad Shoeybi, Bryan Catanzaro        
+[Project Page](https://musicflamingo-nv-umd.github.io/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/music-flamingo) / [Checkpoints and Data](https://huggingface.co/nvidia/music-flamingo)   
+**Under Review** 
 
 * [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Zhifeng Kong, Sonal Kumar, S Sakshi, Jaehyeon Kim, Wei Ping, Rafael Valle, Dinesh Manocha, Bryan Catanzaro    
@@ -55,6 +50,29 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 [Project Website](https://sakshi113.github.io/mmau_homepage/) / [Slides](https://docs.google.com/presentation/d/13Md5BBDs_z5sNp-JB0Cuf4IRDXPwAZGq/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1BdWmtTv2KvSE7sC-kDdUshX98QMBpgo2/view?usp=sharing)    
 **ICLR 2025** <span style="color:red">**(Spotlight)**</span>  
 
+
+### Natural Language and Visual Processing   
+
+* [Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs](https://openreview.net/forum?id=3PRvlT8b1R)    
+*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha  
+[Project](https://sreyan88.github.io/VDGD/)  / [Slides](https://docs.google.com/presentation/d/1dvCKLu_WBvKQFnvx7ZigtdPivK7o1RGn/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Summary Tweet](https://x.com/SreyanG/status/1795113972212867525)  
+**ICLR 2025**  
+
+* [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
+*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Ramaneswaran S, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
+[Summary Tweet](https://x.com/SreyanG/status/1755957189506638125) / [Poster](../assets/ICML_poster_closer.pdf)  / [Slides](https://docs.google.com/presentation/d/1ae1f5Mqby_Nsxyvv9QzF2-nnrpA-1-Fb/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Video](https://www.youtube.com/watch?v=sW_G1FQ86pQ)   
+**ICML 2024**  
+
+* [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://arxiv.org/abs/2406.04286)  
+*Sreyan Ghosh*\*, Utkarsh Tyagi\*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramaneswaran S, S. Sakshi, Dinesh Manocha  
+[Code](https://github.com/Sreyan88/ABEX)  /  [Poster](../assets/ACL-ABEX.pdf)  
+**ACL 2024** 
+
+
+## Other Papers
+
+### Audio Processing (Speech, Sound & Music)  
+
 * [*Failing Forward*: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Mohammad Sadegh Rasooli, Michael Levit, Peidong Wang, Jian Xue, Dinesh Manocha, Jinyu Li  
 **ACL 2025 (Findings)**  
@@ -70,7 +88,7 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 **ICASSP 2025**  <span style="color:red">**(Oral)**</span> 
 
 * [ProSE: Diffusion Priors for Speech Enhancement](https://arxiv.org/abs/2410.15062)   
-Sonal Kumar, *Sreyan Ghosh*, Utkarsh Tyagi, Anton Jeran Ratnarajah, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha    
+Sonal Kumar*, *Sreyan Ghosh*\*, Utkarsh Tyagi, Anton Jeran Ratnarajah, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha    
 [Code](https://github.com/sonalkum/ProSE) / [Slides](https://docs.google.com/presentation/d/1MCuLsWBf5GuLc-sTq--y9Rzq0dVVX48K/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1xS7X0sWvPvpjKsU4fwa8f7zdPHFB2Agd/view?usp=sharing)    
 **NAACL 2025**  <span style="color:red">**(Oral)**</span> 
 
@@ -174,27 +192,13 @@ Hemant Yadav, *Sreyan Ghosh*, Yi Yu, Rajiv Ratn Shah
 [Code](https://github.com/raotnameh/End-to-end-E2E-Named-Entity-Recognition-from-English-Speech) / [Data](https://zenodo.org/record/3893954)  
 **Interspeech 2020**  
 
-### Natural Language Processing (Chronological)  
-
-* [Visual Description Grounding Reduces Hallucinations and Boosts Reasoning in LVLMs](https://openreview.net/forum?id=3PRvlT8b1R)    
-*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Utkarsh Tyagi, Oriol Nieto, Zeyu Jin, Dinesh Manocha  
-[Project](https://sreyan88.github.io/VDGD/)  / [Slides](https://docs.google.com/presentation/d/1dvCKLu_WBvKQFnvx7ZigtdPivK7o1RGn/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Summary Tweet](https://x.com/SreyanG/status/1795113972212867525)  
-**ICLR 2025**  
-
-* [ABEX: Data Augmentation for Low-Resource NLU via Expanding Abstract Descriptions](https://arxiv.org/abs/2406.04286)  
-*Sreyan Ghosh*\*, Utkarsh Tyagi\*, Sonal Kumar, Chandra Kiran Reddy Evuru, Ramaneswaran S, S. Sakshi, Dinesh Manocha  
-[Code](https://github.com/Sreyan88/ABEX)  /  [Poster](../assets/ACL-ABEX.pdf)  
-**ACL 2024**  
+### Natural Language and Visual Processing   
 
 * [ASPIRE: Language-Guided Augmentation for Robust Image Classification](https://arxiv.org/abs/2308.10103)  
 *Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, S. Sakshi, Utkarsh Tyagi, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/ASPIRE)  / [Slides](https://docs.google.com/presentation/d/1x7mI9lOF2dGQx1OQe6nk9a53clhTxeD_/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1QCkH1MwYthlVtoRtGUTRZJ19YGBZvDZy/view?usp=sharing) / [Poster](../assets/ACL-ASPIRE.pdf)  
 **ACL 2024 Findings**  
 
-* [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)    
-*Sreyan Ghosh*\*, Chandra Kiran Reddy Evuru\*, Sonal Kumar\*, Ramaneswaran S, Deepali Aneja, Zeyu Jin, Ramani Duraiswami, Dinesh Manocha  
-[Summary Tweet](https://x.com/SreyanG/status/1755957189506638125) / [Poster](../assets/ICML_poster_closer.pdf)  / [Slides](https://docs.google.com/presentation/d/1ae1f5Mqby_Nsxyvv9QzF2-nnrpA-1-Fb/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Video](https://www.youtube.com/watch?v=sW_G1FQ86pQ)   
-**ICML 2024**  
 
 * [Do Vision-Language Models Understand Compound Nouns?](https://arxiv.org/abs/2404.00419)  
 Sonal Kumar\*, *Sreyan Ghosh*\*, S Sakshi, Utkarsh Tyagi, Dinesh Manocha    
@@ -252,3 +256,15 @@ Zaki Mustafa Farooqi, *Sreyan Ghosh*, Rajiv Ratn Shah
 *Sreyan Ghosh*, Sonal Kumar, Harsh Jalan, Hemant Yadav, Rajiv Ratn Shah  
 [Code](https://github.com/Sreyan88/CAD21-AAAI21)  
 **CAD-21 @ AAAI 2021**  
+
+
+### Pre-prints  
+
+* [Deep Clustering for learning general-purpose Audio Representations](https://arxiv.org/pdf/2110.08895.pdf)  
+*Sreyan Ghosh*\*, Ashish Seth\*, Sandesh Katta\*, S. Umesh  
+[Code](https://github.com/Sreyan88/LAPE)  
+**Pre-print**  
+
+* [Analyzing the factors affecting usefulness of Self-Supervised Pre-trained Representations for Speech Recognition](http://arxiv.org/abs/2203.16973)  
+Lodagala V S V Durga Prasad\*, Ashish Seth\*, *Sreyan Ghosh*\*, S. Umesh  
+**Pre-print**  
