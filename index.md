@@ -22,7 +22,7 @@ Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>Nov 2025:</b></td><td>We release  <a href="https://musicflamingo-nv-umd.github.io/" target="_blank">Music Flamingo</a>,!</td></tr>
+  <tr><td><b>Nov 2025:</b></td><td>We release  <a href="https://musicflamingo-nv-umd.github.io/" target="_blank">Music Flamingo</a>, an LALM with expert music understanding capabilities!</td></tr>
   <tr><td><b>Nov 2025:</b></td><td>MMAU-Pro accepted to AAAI 2026!</td></tr>
   <tr><td><b>Sep 2025:</b></td><td>Audio Flamingo 3 accepted to NeurIPS 2025 as a spotlight!</td></tr>
   <tr><td><b>Aug 2025:</b></td><td>We release <a href="https://arxiv.org/abs/2508.13992" target="_blank">MMAU-Pro</a>, a challenging and comprehensive benchmark for evaluating audio intelligence! More details under the <a href="https://sreyan88.github.io/research/" target="_blank">Research</a> section.</td></tr>
