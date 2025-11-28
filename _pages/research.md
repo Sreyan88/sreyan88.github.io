@@ -18,8 +18,6 @@ Currently, my research is directed toward building *omni-intelligence*, developi
 
 ## Selected Works
 
------
-
 ### Audio Processing (Speech, Sound & Music)  
 
 * [Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models](https://arxiv.org/abs/2507.08128)   
@@ -29,7 +27,7 @@ Sreyan Ghosh*, Arushi Goel*, Jaehyeon Kim, Sonal Kumar, Zhifeng Kong, Sang-gil L
 
 * [Music Flamingo: Scaling Music Understanding in Audio Language Models](https://arxiv.org/abs/2511.10289)   
 Sreyan Ghosh*, Arushi Goel*, Lasha Koroshinadze, Sang-gil Lee, Zhifeng Kong, Joao Felipe Santos, Ramani Duraiswami, Dinesh Manocha, Wei Ping, Mohammad Shoeybi, Bryan Catanzaro        
-[Project Page](https://musicflamingo-nv-umd.github.io/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/music-flamingo) / [Checkpoints and Data](https://huggingface.co/nvidia/music-flamingo)   
+[Project Page](https://musicflamingo-nv-umd.github.io/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/music-flamingo) / [Checkpoints and Data](https://huggingface.co/nvidia/music-flamingo-hf)   
 **Under Review** 
 
 * [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
