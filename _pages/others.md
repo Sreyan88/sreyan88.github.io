@@ -53,6 +53,13 @@ Co-organized:
 * Awarded the Graham Bell Award for being one of the most competitive undergraduates to have graduated in the year 2020
 * Winner of Cisco Collab Hacks 2020
 
+### **Invited Talks**
+
+* September 2025: Invited Talk at Nvidia on Advancing Audio Intelligence  
+* October 2025: Invited Talk at Meta (Ph.D. Forum) on Advancing Audio Intelligence       
+* November 2025: Invited Talk at Universal Music Group on Music Flamingo    
+* November 2025: Invited Talk at Spotify on Music Flamingo    
+
 ### **Conference Travel**  
 
 * August 2023: Dublin, Ireland; InterSpeech 2023   
@@ -69,3 +76,4 @@ Co-organized:
 * May 2025: Albuquerque, New Mexico, USA; NAACL 2025  
 * June 2025: Brno, Czech Republic; JSALT 2025  
 * July 2025: Vancouver, British Columbia, Canada; ICML 2025  
+* December 2025: San Diego, California, USA; NeurIPS 2025  
