@@ -5,7 +5,7 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/sreyan_small.png">
 
-I am Sreyan Ghosh, a 4th-year Computer Science Ph.D. student at the University of Maryland, College Park (UMD) and a student researcher at Nvidia. At UMD, I conduct my research at [Gamma Lab](https://gamma.umd.edu/) under the mentorship of [Prof. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) and [Prof. Ramani Duraiswami](https://www.cs.umd.edu/people/ramanid). At Nvidia, I work with the ADLR and Cosmos World Model team. My research focuses on advancing *multimodal intelligence*, with an emphasis on audio—spanning speech, sounds, and music. I work on challenges such as building data- and compute-efficient audio models, improving audio representation learning, generating synthetic data, and enhancing perception and reasoning in AI systems. My research is proudly supported by the [NVIDIA Graduate Fellowship](http://go.umd.edu/Ghosh).    
+I am Sreyan Ghosh, a 4th-year Computer Science Ph.D. student at the University of Maryland, College Park (UMD) and a student researcher at Nvidia. At UMD, I conduct my research at [Gamma Lab](https://gamma.umd.edu/) under the mentorship of [Prof. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) and [Prof. Ramani Duraiswami](https://www.cs.umd.edu/people/ramanid). At Nvidia, I work with the [ADLR](https://research.nvidia.com/labs/adlr/) and [Cosmos World Model](https://www.nvidia.com/en-in/ai/cosmos/) teams. My research focuses on advancing *multimodal intelligence*, with an emphasis on audio—spanning speech, sounds, and music. I work on challenges such as building data- and compute-efficient audio models, improving audio representation learning, generating synthetic data, and enhancing perception and reasoning in AI systems. My research is proudly supported by the [NVIDIA Graduate Fellowship](http://go.umd.edu/Ghosh).    
 
 I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I am always open to collaborations, and please feel free to drop me a mail!    
 
@@ -22,6 +22,7 @@ Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Jan 2026:</b></td><td><a href="https://musicflamingo-nv-umd.github.io/" target="_blank">Music Flamingo</a> now plays the key role in a <a href="https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal" target="_blank">major collaboration between Universal Music Group and Nvidia</a>.</td></tr>
   <tr><td><b>Nov 2025:</b></td><td>We release  <a href="https://musicflamingo-nv-umd.github.io/" target="_blank">Music Flamingo</a>, an LALM with expert music understanding capabilities!</td></tr>
   <tr><td><b>Nov 2025:</b></td><td>MMAU-Pro accepted to AAAI 2026!</td></tr>
   <tr><td><b>Sep 2025:</b></td><td>Audio Flamingo 3 accepted to NeurIPS 2025 as a spotlight!</td></tr>

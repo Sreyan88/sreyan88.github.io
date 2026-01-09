@@ -27,7 +27,7 @@ Sreyan Ghosh*, Arushi Goel*, Jaehyeon Kim, Sonal Kumar, Zhifeng Kong, Sang-gil L
 
 * [Music Flamingo: Scaling Music Understanding in Audio Language Models](https://arxiv.org/abs/2511.10289)   
 Sreyan Ghosh*, Arushi Goel*, Lasha Koroshinadze, Sang-gil Lee, Zhifeng Kong, Joao Felipe Santos, Ramani Duraiswami, Dinesh Manocha, Wei Ping, Mohammad Shoeybi, Bryan Catanzaro        
-[Project Page](https://musicflamingo-nv-umd.github.io/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/music-flamingo) / [Checkpoints and Data](https://huggingface.co/nvidia/music-flamingo-hf) / [Coverage](https://today.umd.edu/umd-model-joins-arms-race-to-develop-ai-powered-tech-that-understands-music)     
+[Project Page](https://musicflamingo-nv-umd.github.io/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/music-flamingo) / [Checkpoints and Data](https://huggingface.co/nvidia/music-flamingo-hf) / [Coverage](https://today.umd.edu/umd-model-joins-arms-race-to-develop-ai-powered-tech-that-understands-music) / [UMG-Nvidia Collab Press Release](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal)     
 **Under Review**   
 
 * [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
