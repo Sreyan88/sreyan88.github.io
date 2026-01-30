@@ -28,7 +28,7 @@ Sreyan Ghosh*, Arushi Goel*, Jaehyeon Kim, Sonal Kumar, Zhifeng Kong, Sang-gil L
 * [Music Flamingo: Scaling Music Understanding in Audio Language Models](https://arxiv.org/abs/2511.10289)   
 Sreyan Ghosh*, Arushi Goel*, Lasha Koroshinadze, Sang-gil Lee, Zhifeng Kong, Joao Felipe Santos, Ramani Duraiswami, Dinesh Manocha, Wei Ping, Mohammad Shoeybi, Bryan Catanzaro        
 [Project Page](https://musicflamingo-nv-umd.github.io/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/music-flamingo) / [Checkpoints and Data](https://huggingface.co/nvidia/music-flamingo-hf) / [Coverage](https://today.umd.edu/umd-model-joins-arms-race-to-develop-ai-powered-tech-that-understands-music) / [UMG-Nvidia Collab Press Release](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal)     
-**Under Review**   
+**ICLR 2026**   
 
 * [Audio Flamingo 2: An Audio-Language Model with Long-Audio Understanding and Expert Reasoning Abilities](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Zhifeng Kong, Sonal Kumar, S Sakshi, Jaehyeon Kim, Wei Ping, Rafael Valle, Dinesh Manocha, Bryan Catanzaro    
@@ -74,6 +74,16 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 
 ### Audio Processing (Speech, Sound & Music)  
 
+* [UALM: Unified Audio Language Model for Understanding, Generation and Reasoning](https://arxiv.org/abs/2510.12000)   
+Jinchuan Tian, Sang-gil Lee, Zhifeng Kong, Sreyan Ghosh, Arushi Goel, Chao-Han Huck Yang, Wenliang Dai, Zihan Liu, Hanrong Ye, Shinji Watanabe, Mohammad Shoeybi, Bryan Catanzaro, Rafael Valle, Wei Ping     
+[Project Page](https://research.nvidia.com/labs/adlr/UALM/) / [Code](https://github.com/NVIDIA/audio-intelligence/tree/main/UALM)   
+**ICLR 2026**  
+
+* [OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM](https://arxiv.org/abs/2510.15870)   
+Hanrong Ye, Chao-Han Huck Yang, Arushi Goel, Wei Huang, Ligeng Zhu, Yuanhang Su, Sean Lin, An-Chieh Cheng, Zhen Wan, Jinchuan Tian, Yuming Lou, Dong Yang, Zhijian Liu, Yukang Chen, Ambrish Dantrey, Ehsan Jahangiri, Sreyan Ghosh, Daguang Xu, Ehsan Hosseini-Asl, Danial Mohseni Taheri, Vidya Murali, Sifei Liu, Yao Lu, Oluwatobi Olabiyi, Yu-Chiang Frank Wang, Rafael Valle, Bryan Catanzaro, Andrew Tao, Song Han, Jan Kautz, Hongxu Yin, Pavlo Molchanov           
+[Project Page](https://nvlabs.github.io/OmniVinci/) / [Code](https://github.com/NVlabs/OmniVinci) / [Checkpoints](https://huggingface.co/nvidia/omnivinci)    
+**ICLR 2026**  
+
 * [*Failing Forward*: Improving Generative Error Correction for ASR with Synthetic Data and Retrieval Augmentation](https://arxiv.org/abs/2410.13198)   
 *Sreyan Ghosh*, Mohammad Sadegh Rasooli, Michael Levit, Peidong Wang, Jian Xue, Dinesh Manocha, Jinyu Li  
 **ACL 2025 (Findings)**  
@@ -82,6 +92,11 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 *Sreyan Ghosh*,  Sonal Kumar, Zhifeng Kong, Rafael Valle, Bryan Catanzaro, Dinesh Manocha  
 [Code](https://github.com/Sreyan88/Synthio) / [Text-to-Audio Demo](https://huggingface.co/spaces/sonalkum/synthio-stable-audio-open) / [Slides](https://docs.google.com/presentation/d/1r_McrwQ1xHsRmEaaWOj_QFYWI9MCPMyL/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true)        
 **ICLR 2025**  
+
+* [Multi-Domain Audio Question Answering Benchmark Toward Acoustic Content Reasoning](https://arxiv.org/abs/2505.07365)    
+Chao-Han Huck Yang, Sreyan Ghosh, Qing Wang, Jaeyeon Kim, Hengyi Hong, Sonal Kumar, Guirui Zhong, Zhifeng Kong, S Sakshi, Vaibhavi Lokegaonkar, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha, Gunhee Kim, Jun Du, Rafael Valle, Bryan Catanzaro    
+[Challenge](https://dcase.community/challenge2025/task-audio-question-answering)    
+**ICASSP 2026**  
 
 * [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](https://arxiv.org/abs/2409.09213)    
 *Sreyan Ghosh*, Sonal Kumar, Chandra Kiran Reddy Evuru, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha   

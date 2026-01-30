@@ -22,6 +22,9 @@ Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Jan 2026:</b></td><td><a href="https://musicflamingo-nv-umd.github.io/" target="_blank">Music Flamingo</a>, <a href="https://arxiv.org/abs/2510.15870" target="_blank">OmniVinci</a> and <a href="https://arxiv.org/abs/2510.12000" target="_blank">UALM</a> accepted to ICLR 2026! More details in the research section!</td></tr>
+  <tr><td><b>Jan 2026:</b></td><td><a href="https://arxiv.org/abs/2505.07365" target="_blank">Multi-Domain Audio QA</a> accepted to ICASSP 2026! More details in the research section!</td></tr>
+  <tr><td><b>Nov 2025:</b></td><td>We release  <a href="https://musicflamingo-nv-umd.github.io/" target="_blank">Music Flamingo</a>, an LALM with expert music understanding capabilities!</td></tr>
   <tr><td><b>Jan 2026:</b></td><td><a href="https://musicflamingo-nv-umd.github.io/" target="_blank">Music Flamingo</a> now plays the key role in a <a href="https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal" target="_blank">major collaboration between Universal Music Group and Nvidia</a>.</td></tr>
   <tr><td><b>Nov 2025:</b></td><td>We release  <a href="https://musicflamingo-nv-umd.github.io/" target="_blank">Music Flamingo</a>, an LALM with expert music understanding capabilities!</td></tr>
   <tr><td><b>Nov 2025:</b></td><td>MMAU-Pro accepted to AAAI 2026!</td></tr>
