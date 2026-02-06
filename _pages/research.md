@@ -40,6 +40,11 @@ Sreyan Ghosh*, Arushi Goel*, Lasha Koroshinadze, Sang-gil Lee, Zhifeng Kong, Joa
 [Project Website](https://sreyan88.github.io/gamaaudio/)  / [Slides](https://docs.google.com/presentation/d/1d_vsKmS4sZOS4SfUPp3keqg1fW81CmT3/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
 **EMNLP 2024** <span style="color:red">**(Oral)**</span>  
 
+* [UALM: Unified Audio Language Model for Understanding, Generation and Reasoning](https://arxiv.org/abs/2510.12000)   
+Jinchuan Tian, Sang-gil Lee, Zhifeng Kong, *Sreyan Ghosh*, Arushi Goel, Chao-Han Huck Yang, Wenliang Dai, Zihan Liu, Hanrong Ye, Shinji Watanabe, Mohammad Shoeybi, Bryan Catanzaro, Rafael Valle, Wei Ping     
+[Project Page](https://research.nvidia.com/labs/adlr/UALM/) / [Code](https://github.com/NVIDIA/audio-intelligence/tree/main/UALM)   
+**ICLR 2026** <span style="color:red">**(Oral)**</span>  
+
 * [MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic Evaluation of Audio General Intelligence](https://arxiv.org/abs/2508.13992)   
 Sonal Kumar et al., *Sreyan Ghosh*, Ramani Duraiswami  
 [Project Website](https://sonalkum.github.io/mmau-pro/)       
@@ -73,11 +78,6 @@ S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakum
 ## Other Papers
 
 ### Audio Processing (Speech, Sound & Music)  
-
-* [UALM: Unified Audio Language Model for Understanding, Generation and Reasoning](https://arxiv.org/abs/2510.12000)   
-Jinchuan Tian, Sang-gil Lee, Zhifeng Kong, Sreyan Ghosh, Arushi Goel, Chao-Han Huck Yang, Wenliang Dai, Zihan Liu, Hanrong Ye, Shinji Watanabe, Mohammad Shoeybi, Bryan Catanzaro, Rafael Valle, Wei Ping     
-[Project Page](https://research.nvidia.com/labs/adlr/UALM/) / [Code](https://github.com/NVIDIA/audio-intelligence/tree/main/UALM)   
-**ICLR 2026**  
 
 * [OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding LLM](https://arxiv.org/abs/2510.15870)   
 Hanrong Ye, Chao-Han Huck Yang, Arushi Goel, Wei Huang, Ligeng Zhu, Yuanhang Su, Sean Lin, An-Chieh Cheng, Zhen Wan, Jinchuan Tian, Yuming Lou, Dong Yang, Zhijian Liu, Yukang Chen, Ambrish Dantrey, Ehsan Jahangiri, Sreyan Ghosh, Daguang Xu, Ehsan Hosseini-Asl, Danial Mohseni Taheri, Vidya Murali, Sifei Liu, Yao Lu, Oluwatobi Olabiyi, Yu-Chiang Frank Wang, Rafael Valle, Bryan Catanzaro, Andrew Tao, Song Han, Jan Kautz, Hongxu Yin, Pavlo Molchanov           
