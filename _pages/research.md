@@ -37,7 +37,7 @@ Sreyan Ghosh*, Arushi Goel*, Lasha Koroshinadze, Sang-gil Lee, Zhifeng Kong, Joa
 
 * [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768)    
 *Sreyan Ghosh*\*, Sonal Kumar\*, Ashish Seth, Chandra Kiran Reddy Evuru, Utkarsh Tyagi, S Sakshi, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha  
-[Project Website](https://sreyan88.github.io/gamaaudio/)  / [Slides](https://docs.google.com/presentation/d/1d_vsKmS4sZOS4SfUPp3keqg1fW81CmT3/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
+[Project Website](https://sreyan88.github.io/gamaaudio/)  / [Slides](https://docs.google.com/presentation/d/1d_vsKmS4sZOS4SfUPp3keqg1fW81CmT3/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Summary Tweet](https://x.com/SreyanG/status/1803075223992115276) / [Poster](../assets/gama_poster.pdf) / [Coverage 1](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding) / [Coverage 2](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)    
 **EMNLP 2024** <span style="color:red">**(Oral)**</span>  
 
 * [UALM: Unified Audio Language Model for Understanding, Generation and Reasoning](https://arxiv.org/abs/2510.12000)   
@@ -47,12 +47,12 @@ Jinchuan Tian, Sang-gil Lee, Zhifeng Kong, *Sreyan Ghosh*, Arushi Goel, Chao-Han
 
 * [MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic Evaluation of Audio General Intelligence](https://arxiv.org/abs/2508.13992)   
 Sonal Kumar et al., *Sreyan Ghosh*, Ramani Duraiswami  
-[Project Website](https://sonalkum.github.io/mmau-pro/)       
+[Project Website](https://sonalkum.github.io/mmau-pro/) / [Poster](../assets/mmaupro_poster.pdf)          
 **AAAI 2026**  
 
 * [MMAU: A Massive Multi-Task Audio Understanding and Reasoning Benchmarks](https://www.arxiv.org/abs/2410.19168)   
 S Sakshi\*, Utkarsh Tyagi\*, Sonal Kumar\*, Ashish Seth\*, Ramaneswaran Selvakumar, Oriol Nieto, Ramani Duraiswami, *Sreyan Ghosh*\*, Dinesh Manocha  
-[Project Website](https://sakshi113.github.io/mmau_homepage/) / [Slides](https://docs.google.com/presentation/d/13Md5BBDs_z5sNp-JB0Cuf4IRDXPwAZGq/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1BdWmtTv2KvSE7sC-kDdUshX98QMBpgo2/view?usp=sharing)    
+[Project Website](https://sakshi113.github.io/mmau_homepage/) / [Slides](https://docs.google.com/presentation/d/13Md5BBDs_z5sNp-JB0Cuf4IRDXPwAZGq/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Poster](../assets/mmau_poster.pdf) / [Talk](https://drive.google.com/file/d/1BdWmtTv2KvSE7sC-kDdUshX98QMBpgo2/view?usp=sharing)    
 **ICLR 2025** <span style="color:red">**(Spotlight)**</span>  
 
 
@@ -93,6 +93,16 @@ Hanrong Ye, Chao-Han Huck Yang, Arushi Goel, Wei Huang, Ligeng Zhu, Yuanhang Su,
 [Code](https://github.com/Sreyan88/Synthio) / [Text-to-Audio Demo](https://huggingface.co/spaces/sonalkum/synthio-stable-audio-open) / [Slides](https://docs.google.com/presentation/d/1r_McrwQ1xHsRmEaaWOj_QFYWI9MCPMyL/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true)        
 **ICLR 2025**  
 
+* [MultiVox: A Benchmark for Evaluating Voice Assistants for Multimodal Interactions](https://arxiv.org/abs/2507.10859)    
+Ramaneswaran Selvakumar, Ashish Seth, Nishit Anand, Utkarsh Tyagi, Sonal Kumar, *Sreyan Ghosh*, Dinesh Manocha    
+[Code](https://github.com/ramaneswaran/multivox) / [Poster](../assets/multivox_poster.pdf) / [Slides](https://docs.google.com/presentation/d/19s3SurJJGENZOBdadCDsQe24zFGQV6j7v-LAIC-qsoA/edit?usp=drivesdk)        
+**EMNLP 2025**  
+
+* [EGOILLUSION: Benchmarking Hallucinations in Egocentric Video Understanding](https://aclanthology.org/2025.emnlp-main.1446/)    
+Ashish Seth, Utkarsh Tyagi, Ramaneswaran Selvakumar, Nishit Anand, Sonal Kumar, *Sreyan Ghosh*, Ramani Duraiswami, Chirag Agarwal, Dinesh Manocha    
+[Project Website](https://sites.google.com/view/egoillusion-demo/home) / [Poster](../assets/egoillusion_poster.pdf)   
+**EMNLP 2025**  
+
 * [Multi-Domain Audio Question Answering Benchmark Toward Acoustic Content Reasoning](https://arxiv.org/abs/2505.07365)    
 Chao-Han Huck Yang, Sreyan Ghosh, Qing Wang, Jaeyeon Kim, Hengyi Hong, Sonal Kumar, Guirui Zhong, Zhifeng Kong, S Sakshi, Vaibhavi Lokegaonkar, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha, Gunhee Kim, Jun Du, Rafael Valle, Bryan Catanzaro    
 [Challenge](https://dcase.community/challenge2025/task-audio-question-answering)    
@@ -101,26 +111,27 @@ Chao-Han Huck Yang, Sreyan Ghosh, Qing Wang, Jaeyeon Kim, Hengyi Hong, Sonal Kum
 * [ReCLAP: Improving Zero Shot Audio Classification by Describing Sounds](https://arxiv.org/abs/2409.09213)    
 *Sreyan Ghosh*, Sonal Kumar, Chandra Kiran Reddy Evuru, Oriol Nieto, Ramani Duraiswami, Dinesh Manocha   
 [Code](https://github.com/Sreyan88/ReCLAP) / [Slides](https://docs.google.com/presentation/d/19C9tq0J4sEuz0X43HbMTAc_o_6dP1KQi/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true)    
-**ICASSP 2025**  <span style="color:red">**(Oral)**</span> 
+**ICASSP 2025**  <span style="color:red">**(Oral)**</span>   
 
 * [ProSE: Diffusion Priors for Speech Enhancement](https://arxiv.org/abs/2410.15062)   
 Sonal Kumar*, *Sreyan Ghosh*\*, Utkarsh Tyagi, Anton Jeran Ratnarajah, Chandra Kiran Reddy Evuru, Ramani Duraiswami, Dinesh Manocha    
 [Code](https://github.com/sonalkum/ProSE) / [Slides](https://docs.google.com/presentation/d/1MCuLsWBf5GuLc-sTq--y9Rzq0dVVX48K/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Talk](https://drive.google.com/file/d/1xS7X0sWvPvpjKsU4fwa8f7zdPHFB2Agd/view?usp=sharing)    
-**NAACL 2025**  <span style="color:red">**(Oral)**</span> 
+**NAACL 2025**  <span style="color:red">**(Oral)**</span>     
 
 * [PAT: Parameter-Free Audio-Text Aligner to Boost Zero-Shot Audio Classification](https://arxiv.org/abs/2410.15062)   
 Ashish Seth, Ramaneswaran Selvakumar, Sonal Kumar, *Sreyan Ghosh*, Dinesh Manocha  
 [Code](https://github.com/cs20s030/PAT) / [Talk](https://drive.google.com/file/d/1Zeg7ykWMKUkivYW3cbCssqMPOE7QUxw1/view?usp=sharing) / [Slides](https://docs.google.com/presentation/d/1uNSexf9RxBjsArIly_dUsy7tXdg8b5tg/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true)    
-**NAACL 2025**  <span style="color:red">**(Oral)**</span> 
+**NAACL 2025**  <span style="color:red">**(Oral)**</span>     
 
 * [Do Audio-Language Models Understand Linguistic Variations?](https://arxiv.org/abs/2410.16505v1)     
-Ramaneswaran Selvakumar, Sonal Kumar, Hemant Kumar Giri, Nishit Anand, Ashish Seth, *Sreyan Ghosh*, Dinesh Manocha  
+Ramaneswaran Selvakumar, Sonal Kumar, Hemant Kumar Giri, Nishit Anand, Ashish Seth, *Sreyan Ghosh*, Dinesh Manocha     
+[Poster](../assets/robustclap_poster.pdf)     
 **NAACL 2025**  
 
 * [EH-MAM: Easy-to-Hard Masked Acoustic Modeling for Self-Supervised Speech Representation Learning](https://arxiv.org/abs/2410.13179)   
 Ashish Seth\*, Ramaneswaran Selvakumar, S Sakshi, Sonal Kumar, *Sreyan Ghosh*\*, Dinesh Manocha  
-[GitHub](https://github.com/cs20s030/ehmam)   
-**EMNLP 2024** <span style="color:red">**(Oral)**</span>  
+[GitHub](https://github.com/cs20s030/ehmam) / [Poster](../assets/ehmam_poster.pdf) / [Talk](https://docs.google.com/presentation/d/1q8oFGt0ceKV3KKo8-oxBp47vUO51EKu6/edit?usp=sharing&ouid=111957209895724121113&rtpof=true&sd=true)          
+**EMNLP 2024** <span style="color:red">**(Oral)**</span>    
 
 * [LipGER: Visually-Conditioned Generative Error Correction for Robust Automatic Speech Recognition](https://arxiv.org/abs/2406.04432)  
 *Sreyan Ghosh*\*, Sonal Kumar, Ashish Seth, Purva Chiniya, Utkarsh Tyagi, Ramani Duraiswami, Dinesh Manocha  

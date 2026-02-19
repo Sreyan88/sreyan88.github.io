@@ -53,12 +53,27 @@ Co-organized:
 * Awarded the Graham Bell Award for being one of the most competitive undergraduates to have graduated in the year 2020
 * Winner of Cisco Collab Hacks 2020
 
+### **Press Mentions**
+
+* February 2026: **Music Flamingo** — [UMD News](https://www.cs.umd.edu/article/2026/02/music-savvy-ai-built-umd-could-help-you-discover-your-next-favorite-artist)
+* January 2026: **UMG × NVIDIA (Music Flamingo)** — [The Verge](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal); [Universal Music Group (Press Release)](https://www.universalmusic.com/universal-music-group-to-transform-music-experience-for-billions-of-fans-with-nvidia-ai/); [PRNewswire](https://www.prnewswire.com/news-releases/universal-music-group-to-transform-music-experience-for-billions-of-fans-with-nvidia-ai-302653913.html); [Nasdaq](https://www.nasdaq.com/press-release/universal-music-group-transform-music-experience-billions-fans-nvidia-ai-2026-01-06); [Music Business Worldwide](https://www.musicbusinessworldwide.com/umgs-latest-major-ai-partnership-arrives-via-tech-giant-nvidia-with-promise-of-antidote-to-generic-ai-slop/); [Morningstar / Dow Jones](https://www.morningstar.com/news/dow-jones/202601064665/universal-music-strikes-ai-partnership-with-nvidia); [TechBuzz.ai](https://www.techbuzz.ai/articles/nvidia-music-flamingo-powers-universal-music-catalog-partnership)
+* July 2024: **Open Audio Models (GAMA / Audio Flamingo 3)** — [UMD CS News](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding); [The Vision, Debugged (Beehiiv)](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)
+* July 2025: **Audio Flamingo 3** — [MarkTechPost](https://www.marktechpost.com/2025/07/15/nvidia-just-released-audio-flamingo-3-an-open-source-model-advancing-audio-general-intelligence/)
+* July 2025: **Audio Flamingo 3** — [Nvidia Developer YouTube](https://www.youtube.com/watch?v=u5bZYxz963s)
+* December 2024: **NVIDIA** — [NVIDIA Graduate Fellowship](https://research.nvidia.com/graduate-fellowships/2025)
+* December 2024: **UMD CS Features** — [NVIDIA Graduate Fellowship](https://www.cs.umd.edu/article/2024/12/umd-cs-phd-student-receives-nvidia-graduate-fellowship)
+* April 2025: **UMD CS Features** — [Exploring Audio AI (Q&A)](https://www.cs.umd.edu/article/2025/04/exploring-audio-ai-cs-phd-student-sreyan-ghosh)
+* February 2019: **Hackathon Feature** — [Analytics India Magazine](https://analyticsindiamag.com/deep-tech/how-these-data-science-enthusiasts-from-christ-university-solved-our-insurance-products-hackathon/)
+
+
 ### **Invited Talks**
 
 * September 2025: Invited Talk at Nvidia on Advancing Audio Intelligence  
 * October 2025: Invited Talk at Meta (Ph.D. Forum) on Advancing Audio Intelligence       
 * November 2025: Invited Talk at Universal Music Group on Music Flamingo    
 * November 2025: Invited Talk at Spotify on Music Flamingo    
+* February 2026: Invited Talk at Dolby on Music Flamingo  
+* February 2026: Invited Presentation at Maryland Minds: Shaping the Future with AI 
 
 ### **Conference Travel**  
 
