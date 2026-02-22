@@ -49,6 +49,7 @@ Co-organized:
 * Winner of NVIDIA Graduate Fellowship 2025 (10/600)
 * Winner of Apple Graduate Fellowship 2025 (~20/1000)
 * Outstanding Graduate Assistant Award by UMD for the academic year 2023
+* UMD Dean's List for Fall 2023    
 * Recognised by Cisco CX CTO and higher management on multiple occasions for my research and innovation initiatives
 * Awarded the Graham Bell Award for being one of the most competitive undergraduates to have graduated in the year 2020
 * Winner of Cisco Collab Hacks 2020
