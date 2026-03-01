@@ -86,10 +86,11 @@ Co-organized:
 * June 2024: Mexico City, Mexico; NAACL 2024  
 * June 2024: Seattle, USA; CVPR 2024  
 * November 2024: Miami, Florida, USA; EMNLP 2024  
-* March 2025: California, USA; NVIDIA GTC 2025  
+* March 2025: San Jose, California, USA; NVIDIA GTC 2025  
 * April 2025: Hyderabad, India; ICASSP 2025  
 * April 2025: Singapore; ICLR 2025  
 * May 2025: Albuquerque, New Mexico, USA; NAACL 2025  
 * June 2025: Brno, Czech Republic; JSALT 2025  
 * July 2025: Vancouver, British Columbia, Canada; ICML 2025  
 * December 2025: San Diego, California, USA; NeurIPS 2025  
+* March 2025: San Jose, California, USA; NVIDIA GTC 2026  
