@@ -93,4 +93,4 @@ Co-organized:
 * June 2025: Brno, Czech Republic; JSALT 2025  
 * July 2025: Vancouver, British Columbia, Canada; ICML 2025  
 * December 2025: San Diego, California, USA; NeurIPS 2025  
-* March 2025: San Jose, California, USA; NVIDIA GTC 2026  
+* March 2026: San Jose, California, USA; NVIDIA GTC 2026  
