@@ -20,6 +20,11 @@ Currently, my research is directed toward building *omni-intelligence*, developi
 
 ### Audio Processing (Speech, Sound & Music)  
 
+* [MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos](https://arxiv.org/abs/2603.14145)   
+Arushi Goel*, Sreyan Ghosh*, Vatsal Agarwal, Nishit Anand, Kaousheik Jayakumar, Lasha Koroshinadze, Yao Xu, Katie Lyons, James Case, Karan Sapra, Kevin J. Shih, Siddharth Gururani, Abhinav Shrivastava, Ramani Duraiswami, Dinesh Manocha, Andrew Tao, Bryan Catanzaro, Mohammad Shoeybi, Wei Ping        
+[Data](https://huggingface.co/datasets/nvidia/MMOU) /  [Project Page](https://mmou-bench.github.io/)   
+**arXiv 2026** 
+
 * [Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models](https://arxiv.org/abs/2507.08128)   
 Sreyan Ghosh*, Arushi Goel*, Jaehyeon Kim, Sonal Kumar, Zhifeng Kong, Sang-gil Lee, Chao-Han Huck Yang, Ramani Duraiswami, Dinesh Manocha, Rafael Valle, Bryan Catanzaro        
 [Project Page](https://research.nvidia.com/labs/adlr/AF3/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-3) / [Checkpoints and Data](https://huggingface.co/nvidia/audio-flamingo-3) / [Video Demo](https://youtu.be/LpTi-9s1b3Y) / [Tweet](https://x.com/NVIDIAAIDev/status/1946269274030461143) / [Slides](https://docs.google.com/presentation/d/1G_br4w7C-Hi3h7r_1CBure9EFS68R4BW/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Poster](../assets/AF3-Nips.pdf) / [Coverage](https://www.marktechpost.com/2025/07/15/nvidia-just-released-audio-flamingo-3-an-open-source-model-advancing-audio-general-intelligence/)     

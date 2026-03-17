@@ -22,6 +22,7 @@ Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Mar 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2603.14145" target="_blank">MMOU</a>, large-scale benchmark for evaluating omni-modal models on joint audio-visual understanding in long, complex real-world videos.</td></tr>
   <tr><td><b>Feb 2026:</b></td><td>The second edition of SALMA, our flagship workshop on LALMs, is coming to EMNLP 2026, Budapest, Hungary!</td></tr>
   <tr><td><b>Feb 2026:</b></td><td>1 paper accepted to CVPR 2026!</td></tr>
   <tr><td><b>Jan 2026:</b></td><td><a href="https://musicflamingo-nv-umd.github.io/" target="_blank">Music Flamingo</a>, <a href="https://arxiv.org/abs/2510.15870" target="_blank">OmniVinci</a> and <a href="https://arxiv.org/abs/2510.12000" target="_blank">UALM</a> accepted to ICLR 2026! More details in the research section!</td></tr>
