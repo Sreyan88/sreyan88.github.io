@@ -22,6 +22,8 @@ Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Apr 2026:</b></td><td>I officially defended my Ph.D.!</td></tr>
+  <tr><td><b>Apr 2026:</b></td><td>We release <a href="https://afnext-umd-nvidia.github.io/" target="_blank">Audio Flamingo Next</a>, the next-generation and most capable large audio-language model in the Audio Flamingo series.</td></tr>
   <tr><td><b>Mar 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2603.14145" target="_blank">MMOU</a>, large-scale benchmark for evaluating omni-modal models on joint audio-visual understanding in long, complex real-world videos.</td></tr>
   <tr><td><b>Feb 2026:</b></td><td>The second edition of SALMA, our flagship workshop on LALMs, is coming to EMNLP 2026, Budapest, Hungary!</td></tr>
   <tr><td><b>Feb 2026:</b></td><td>1 paper accepted to CVPR 2026!</td></tr>
