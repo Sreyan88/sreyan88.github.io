@@ -27,9 +27,9 @@ Served as a reviewer at:
 * InterSpeech 2023, 2024, 2025, 2026    
 * ACL 2023, 2024, 2025      
 * ARR 2023 - Present
-* EMNLP 2023, 2024, 2025       
+* EMNLP 2023, 2024, 2025, 2026           
 * NAACL 2024, 2025    
-* NeurIPS 2024, 2025      
+* NeurIPS 2024, 2025, 2026      
 * ICLR 2024, 2025, 2026  
 * ICML 2025, 2026    
 * ECCV 2024  
@@ -48,6 +48,7 @@ Co-organized:
 
 * Winner of NVIDIA Graduate Fellowship 2025 (10/600)
 * Winner of Apple Graduate Fellowship 2025 (~20/1000)
+* Outstanding Achievement award from Computer Science Graduate Program at UMD    
 * Outstanding Graduate Assistant Award by UMD for the academic year 2023
 * UMD Dean's List for Fall 2023    
 * Recognised by Cisco CX CTO and higher management on multiple occasions for my research and innovation initiatives
@@ -56,6 +57,7 @@ Co-organized:
 
 ### **Press Mentions**
 
+* April 2026: **Audio Flamingo Next** - [MarkTechPost](https://www.marktechpost.com/2026/04/14/nvidia-and-the-university-of-maryland-researchers-released-audio-flamingo-next-af-next-a-super-powerful-and-open-large-audio-language-model/)
 * February 2026: **Music Flamingo** — [UMD News](https://www.cs.umd.edu/article/2026/02/music-savvy-ai-built-umd-could-help-you-discover-your-next-favorite-artist)
 * January 2026: **UMG × NVIDIA (Music Flamingo)** — [The Verge](https://www.theverge.com/news/856849/universal-music-nvidia-ai-deal); [Universal Music Group (Press Release)](https://www.universalmusic.com/universal-music-group-to-transform-music-experience-for-billions-of-fans-with-nvidia-ai/); [PRNewswire](https://www.prnewswire.com/news-releases/universal-music-group-to-transform-music-experience-for-billions-of-fans-with-nvidia-ai-302653913.html); [Nasdaq](https://www.nasdaq.com/press-release/universal-music-group-transform-music-experience-billions-fans-nvidia-ai-2026-01-06); [Music Business Worldwide](https://www.musicbusinessworldwide.com/umgs-latest-major-ai-partnership-arrives-via-tech-giant-nvidia-with-promise-of-antidote-to-generic-ai-slop/); [Morningstar / Dow Jones](https://www.morningstar.com/news/dow-jones/202601064665/universal-music-strikes-ai-partnership-with-nvidia); [TechBuzz.ai](https://www.techbuzz.ai/articles/nvidia-music-flamingo-powers-universal-music-catalog-partnership)
 * July 2024: **Open Audio Models (GAMA / Audio Flamingo 3)** — [UMD CS News](https://www.cs.umd.edu/article/2024/07/umd-researchers-release-gama-llm-advanced-audio-understanding); [The Vision, Debugged (Beehiiv)](https://the-vision-debugged.beehiiv.com/p/ep-23-shhh-can-you-hear-that-gama-can)
