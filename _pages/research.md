@@ -30,6 +30,11 @@ Arushi Goel\*, Sreyan Ghosh\*, Vatsal Agarwal, Nishit Anand, Kaousheik Jayakumar
 [Data](https://huggingface.co/datasets/nvidia/MMOU) /  [Project Page](https://mmou-bench.github.io/)   
 **arXiv 2026** 
 
+* [Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence](https://arxiv.org/abs/2604.24954)   
+Nvidia ADLR Team    
+[Model](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16)   
+**Technical Report 2026** 
+
 * [Audio Flamingo 3: Advancing Audio Intelligence with Fully Open Large Audio Language Models](https://openreview.net/forum?id=FjByDpDVIO)   
 Sreyan Ghosh\*, Arushi Goel\*, Jaehyeon Kim, Sonal Kumar, Zhifeng Kong, Sang-gil Lee, Chao-Han Huck Yang, Ramani Duraiswami, Dinesh Manocha, Rafael Valle, Bryan Catanzaro        
 [Project Page](https://research.nvidia.com/labs/adlr/AF3/) / [Code](https://github.com/NVIDIA/audio-flamingo) / [Demo](https://huggingface.co/spaces/nvidia/audio-flamingo-3) / [Checkpoints and Data](https://huggingface.co/nvidia/audio-flamingo-3) / [Video Demo](https://youtu.be/LpTi-9s1b3Y) / [Tweet](https://x.com/NVIDIAAIDev/status/1946269274030461143) / [Slides](https://docs.google.com/presentation/d/1G_br4w7C-Hi3h7r_1CBure9EFS68R4BW/edit?usp=sharing&ouid=106741382757375410342&rtpof=true&sd=true) / [Poster](../assets/AF3-Nips.pdf) / [Coverage](https://www.marktechpost.com/2025/07/15/nvidia-just-released-audio-flamingo-3-an-open-source-model-advancing-audio-general-intelligence/)     
