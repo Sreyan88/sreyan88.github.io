@@ -24,7 +24,7 @@ Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com)
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>June 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2604.24954" target="_blank">Cosmos 3</a>, a family of open omnimodal world models for physical AI.</td></tr>
+  <tr><td><b>June 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2606.02800" target="_blank">Cosmos 3</a>, a family of open omnimodal world models for physical AI.</td></tr>
   <tr><td><b>Jun 2026:</b></td><td>I have joined Google DeepMind to work on audio(-visual) intelligence for Gemini!</td></tr>
   <tr><td><b>May 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2604.24954" target="_blank">Nemotron 3 Nano Omni</a>, a family of open and efficient omni-modal models.</td></tr>
   <tr><td><b>Apr 2026:</b></td><td>Awarded the certificate of Outstanding Achievement from Computer Science Graduate Program at UMD!</td></tr>
