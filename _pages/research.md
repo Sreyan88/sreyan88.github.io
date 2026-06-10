@@ -30,6 +30,11 @@ Arushi Goel\*, Sreyan Ghosh\*, Vatsal Agarwal, Nishit Anand, Kaousheik Jayakumar
 [Data](https://huggingface.co/datasets/nvidia/MMOU) /  [Project Page](https://mmou-bench.github.io/)   
 **arXiv 2026** 
 
+* [Cosmos 3: Omnimodal World Models for Physical AI](https://arxiv.org/abs/2606.02800)   
+Nvidia Cosmos Team    
+[Project Page](https://research.nvidia.com/labs/cosmos-lab/cosmos3/)   
+**Technical Report 2026**
+  
 * [Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence](https://arxiv.org/abs/2604.24954)   
 Nvidia ADLR Team    
 [Model](https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16)   
