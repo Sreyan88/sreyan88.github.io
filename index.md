@@ -5,14 +5,14 @@ layout: page
 
 <img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}assets/sreyan_small.png">
 
-I am Sreyan Ghosh, a Research Scientist at Google DeepMind, where I work on audio(-visual) intelligence for Gemini. Previously, I was a Research Scientist at NVIDIA and a Computer Science Ph.D. student at the University of Maryland, College Park (UMD). At UMD, I conducted my research in the [GAMMA Lab](https://gamma.umd.edu/) under the mentorship of [Prof. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) and [Prof. Ramani Duraiswami](https://www.cs.umd.edu/people/ramanid). At NVIDIA, I worked with the [ADLR](https://research.nvidia.com/labs/adlr/) and [Cosmos World Model](https://www.nvidia.com/en-in/ai/cosmos/) teams.
+I am Sreyan Ghosh, a Research Scientist at Google DeepMind, where I work on audio(-visual) intelligence for Gemini. Previously, I was a Research Scientist at NVIDIA and a Computer Science Ph.D. student at the University of Maryland, College Park (UMD). At UMD, I conducted my research in the [GAMMA Lab](https://gamma.umd.edu/) under the mentorship of [Prof. Dinesh Manocha](https://www.cs.umd.edu/people/dmanocha) and [Prof. Ramani Duraiswami](https://www.cs.umd.edu/people/ramanid). At NVIDIA, I worked with the [ADLR](https://research.nvidia.com/labs/adlr/) and [Cosmos World Model](https://www.nvidia.com/en-in/ai/cosmos/) where I led several key audio initiatives across the Cosmos and Nemotron model families.
 
 My research focuses on advancing *multimodal intelligence*, with a particular emphasis on audio, including speech, sounds, and music. I work on building data- and compute-efficient audio models, improving audio representation learning, generating synthetic data, and enhancing perception and reasoning capabilities in AI systems. My research has been supported by the [NVIDIA Graduate Fellowship](http://go.umd.edu/Ghosh).
 
 I maintain a list of my publications and research implementations under the [Research]({{ site.url }}/research) tab. I am always open to collaborations, and please feel free to drop me a mail!    
 
 [Google Scholar](https://scholar.google.com/citations?user=5HKZJHAAAAAJ&hl=en) | [CV]({{ site.url }}/assets/Sreyan_Ghosh_CV.pdf)  
-Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:sreyang@umd.edu)  
+Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com)  
 
 <!-- 📣 Excited to launch the [Audio Question Answering task at DCASE 2025](https://dcase.community/challenge2025/task-audio-question-answering), in collaboration with Adobe and NVIDIA. 📣   -->
 
@@ -24,6 +24,7 @@ Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com) ; [sreyang@umd.edu](mailto:
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>June 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2604.24954" target="_blank">Cosmos 3</a>, a family of open omnimodal world models for physical AI.</td></tr>
   <tr><td><b>Jun 2026:</b></td><td>I have joined Google DeepMind to work on audio(-visual) intelligence for Gemini!</td></tr>
   <tr><td><b>May 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2604.24954" target="_blank">Nemotron 3 Nano Omni</a>, a family of open and efficient omni-modal models.</td></tr>
   <tr><td><b>Apr 2026:</b></td><td>Awarded the certificate of Outstanding Achievement from Computer Science Graduate Program at UMD!</td></tr>
