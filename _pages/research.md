@@ -28,7 +28,12 @@ Sreyan Ghosh\*, Arushi Goel\*, Kaousheik Jayakumar, Lasha Koroshinadze, Nishit A
 * [MMOU: A Massive Multi-Task Omni Understanding and Reasoning Benchmark for Long and Complex Real-World Videos](https://arxiv.org/abs/2603.14145)   
 Arushi Goel\*, Sreyan Ghosh\*, Vatsal Agarwal, Nishit Anand, Kaousheik Jayakumar, Lasha Koroshinadze, Yao Xu, Katie Lyons, James Case, Karan Sapra, Kevin J. Shih, Siddharth Gururani, Abhinav Shrivastava, Ramani Duraiswami, Dinesh Manocha, Andrew Tao, Bryan Catanzaro, Mohammad Shoeybi, Wei Ping        
 [Data](https://huggingface.co/datasets/nvidia/MMOU) /  [Project Page](https://mmou-bench.github.io/)   
-**arXiv 2026** 
+**arXiv 2026**
+
+* [Unified Audio Intelligence Without Regressing on Text Intelligence](https://arxiv.org/abs/2607.05196)   
+Nvidia ADLR Audio Team   
+[Project Page](https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B)   
+**Technical Report 2026**
 
 * [Cosmos 3: Omnimodal World Models for Physical AI](https://arxiv.org/abs/2606.02800)   
 Nvidia Cosmos Team    
