@@ -24,7 +24,7 @@ Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com)
 <table>
 <col width="100px">
 <col width="630px">
-  <tr><td><b>July 2026:</b></td><td>We release <a href="[https://arxiv.org/abs/2606.02800](https://arxiv.org/abs/2607.05196)" target="_blank">Audex</a>, a unified LALM capable of both understanding and generation. Audex serves as the successor to the AF series of models.</td></tr>
+  <tr><td><b>July 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2607.05196" target="_blank">Audex</a>, a unified LALM capable of both understanding and generation. Audex serves as the successor to the AF series of models.</td></tr>
   <tr><td><b>June 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2606.02800" target="_blank">Cosmos 3</a>, a family of open omnimodal world models for physical AI.</td></tr>
   <tr><td><b>June 2026:</b></td><td>I have joined Google DeepMind to work on audio(-visual) intelligence for Gemini!</td></tr>
   <tr><td><b>May 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2604.24954" target="_blank">Nemotron 3 Nano Omni</a>, a family of open and efficient omni-modal models.</td></tr>
