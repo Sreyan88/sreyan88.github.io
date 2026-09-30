@@ -24,6 +24,8 @@ Email: [gsreyan@gmail.com](mailto:gsreyan@gmail.com)
 <table>
 <col width="100px">
 <col width="630px">
+  <tr><td><b>Sept 2026:</b></td><td>Upcoming talks at <a href="https://www.saneworkshop.org/sane2026/#sreyan" target="_blank">SANE 2026</a> and Mila! </td></tr>
+  <tr><td><b>Sept 2026:</b></td><td><a href="https://arxiv.org/abs/2607.16107" target="_blank">Audio-Visual Flamingo</a> and <a href="https://arxiv.org/abs/2603.14145" target="_blank">MMOU</a> accepted to NeurIPS 2026!</td></tr>
   <tr><td><b>July 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2607.16107" target="_blank">Audio-Visual Flamingo</a>, the most open, capable and powerful audio-visual LLM yet! More details under the research section!</td></tr>
   <tr><td><b>July 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2607.05196" target="_blank">Audex</a>, a unified LALM capable of both understanding and generation. Audex serves as the successor to the AF series of models.</td></tr>
   <tr><td><b>June 2026:</b></td><td>We release <a href="https://arxiv.org/abs/2606.02800" target="_blank">Cosmos 3</a>, a family of open omnimodal world models for physical AI.</td></tr>
